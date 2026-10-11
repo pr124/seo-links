@@ -224,6 +224,8 @@ Find relevant mentions and placements that serve an actual audience.
 
 - [Find and reclaim unlinked brand mentions](https://x.com/seo_wins/status/2106648293715607936) - Search for existing mentions of your brand, identify missing links and ask the publisher to add the relevant URL. [Companion post](https://x.com/hridoyreh/status/2106647803799945615). Two near-identical bookmarks are grouped here; both original sources are preserved.
 
+**Find resource pages for outreach:** Search Google with `"your topic" intitle:resources inurl:resources` (for example, `"seo" intitle:resources inurl:resources`). Review each result for topical fit and whether your resource adds something useful before contacting the publisher. These are prospects, not guaranteed backlink placements.
+
 </details>
 
 <details>

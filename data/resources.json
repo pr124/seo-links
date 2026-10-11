@@ -2584,5 +2584,21 @@
         "url": "https://learn.microsoft.com/en-us/bingwebmaster/"
       }
     ]
-  }
+  },
+  "practical_tips": [
+    {
+      "id": "resource-page-search-operators",
+      "category": "Backlinks and Authority",
+      "text": "Find resource-page prospects with a topic plus intitle:resources inurl:resources; inspect topical fit and value before outreach.",
+      "example_query": "\"seo\" intitle:resources inurl:resources",
+      "source": {
+        "author": "hridoyreh",
+        "basis": "User-supplied Screenshot 2026-10-11 151701.png visually inspected",
+        "displayed_post_date": "Oct 7",
+        "url": null
+      },
+      "reviewed_on": "2026-10-11",
+      "guide_display": "Text tip within existing outreach group"
+    }
+  ]
 }
