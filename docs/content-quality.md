@@ -37,6 +37,16 @@ The first-page ranking promise, $1,000/month outcome and faster Google indexing 
 
 Original sources: [October 5 repeat](https://x.com/hridoyreh/status/2107044433971777987) and [September 24 workflow](https://x.com/hridoyreh/status/2103058232218619936).
 
+## Programmatic SEO case study
+
+The complete supplied Musicfy article is relevant to product-led SaaS SEO. Its distinctive useful advice is to map a real feature/use-case inventory to commercial searches, build structured pages with meaningful demonstrations, and connect those pages to supporting guides. These points now appear as a compact workflow in the guide. Overlapping advice about clear positioning, comparisons and direct answers is associated with the existing AI-content entry.
+
+The guide adds an editorial guardrail: group query variants with the same intent rather than multiplying near-identical URLs. Google’s [helpful-content guidance](https://developers.google.com/search/docs/fundamentals/creating-helpful-content), [crawlable-link guidance](https://developers.google.com/search/docs/crawling-indexing/links-crawlable) and [scaled-content spam policies](https://developers.google.com/search/docs/essentials/spam-policies) support useful original pages and contextual navigation. The case study does not establish a required page count or daily publishing cadence.
+
+The author’s reported revenue, clicks, impressions, signups and other-client results were not independently verified. The claim that consistent positioning caused recommendations across ChatGPT, Perplexity, Claude and Gemini is not validated. [Google’s AI-features guidance](https://developers.google.com/search/docs/appearance/ai-features) supports the usual SEO foundations and does not establish a special cross-platform citation formula. Commercial affiliate links need appropriate qualification; the article is not proof of ranking credit from paid placements.
+
+Original article URL, retained for provenance: [@denohawari’s case study](https://x.com/denohawari/status/2106758421681000838). The supplied file was read locally; the live X article was not read. The main guide contains distilled advice without a standalone link, as permitted by the user.
+
 ## Curation rule for existing and future posts
 
 Keep a post when readable content supplies a useful, distinct SEO method or reference. Add a destination only if it is relevant and absent from the whole repo. Attach repeated source mentions to its existing entry. A newly supplied submission route or checked condition can enrich that entry without creating a duplicate.

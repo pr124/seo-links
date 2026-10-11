@@ -4,7 +4,7 @@ A curated SEO toolkit for indie founders: research demand, fix technical issues,
 
 > Browse by the job you need to do. Expand a group for its tools, articles or submission destinations.
 
-The export contains **48 SEO source posts**, grouped into **46 source records**. After relevance review, **24 selected resources** appear below. Directory posts are merged into one destination index; incomplete articles, repeated advice and unsupported promotions remain in the [source register](docs/source-review.md).
+The export contains **48 SEO source posts**, grouped into **46 source records**. After relevance review, **25 selected resources** appear below. Directory posts are merged into one destination index; incomplete articles, repeated advice and unsupported promotions remain in the [source register](docs/source-review.md).
 
 Relevant articles use a link and a short takeaway. Partial supplied text stays labelled partial; the full article is not copied into the guide.
 
@@ -516,6 +516,18 @@ Connect customer problems and commercial searches to useful product and comparis
 
 </details>
 
+<details>
+<summary><strong>Programmatic SEO for Product Use Cases</strong> - 1 workflow</summary>
+
+1. **Map real use cases to demand.** Start with features or use cases the product actually supports and match them to commercial queries. Group overlapping searches by intent; each keyword variant does not need its own URL.
+2. **Make each page useful and distinct.** Use a consistent template with a relevant product demo or example, an accurate capability explanation and a clear next action. Swapping a name into the same copy is not sufficient.
+3. **Connect pages to helpful guides.** Answer genuine pre-purchase questions and link contextually between guides, related use cases and product pages.
+4. **Measure and improve.** Review search-query coverage and user outcomes. Prioritize useful pages over a target page count or daily publishing quota.
+
+Adapted from a supplied SaaS case study. Its revenue, signup, traffic and AI-recommendation outcomes are unverified. [Evidence and source review](docs/content-quality.md#programmatic-seo-case-study).
+
+</details>
+
 For launches and placements, use the [unique destination groups](#backlink-opportunities-and-dr). For customer language, use the [review-research sources](#keyword-research).
 
 ---
@@ -572,7 +584,7 @@ Skill announcements and tools whose actual repository or implementation could no
 
 The original 100-row export contains 48 confirmed SEO sources, 26 outside SEO and 26 link-only sources with unknown relevance. Live X retrieval remains unavailable; supplied thread text is recorded separately from live media inspection.
 
-User text recovered two backlink fragments, two Mehrab signal fragments and the grouped Google Sites workflow. The backlink fragments still lack v4 positions 1–4 and v3 position 10. The Mehrab threads are not claimed complete. The new article link remains pending until its topic can be established.
+User text recovered two backlink fragments, two Mehrab signal fragments and the grouped Google Sites workflow. The backlink fragments still lack v4 positions 1–4 and v3 position 10. The Mehrab threads are not claimed complete. The complete supplied Musicfy article was read from a local Markdown copy; its practical programmatic SEO advice is now included, without a standalone article link.
 
 - [Source register, relevance decisions and pending content](docs/source-review.md)
 - [Full directory source archive and original positions](docs/backlink-prospects.md)

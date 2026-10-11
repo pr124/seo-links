@@ -8,11 +8,11 @@
     "confirmed_seo_sources": 48,
     "out_of_scope_sources": 26,
     "unclassified_link_only_sources": 26,
-    "curated_entries": 24,
+    "curated_entries": 25,
     "live_x_review_complete": false,
     "live_posts_successfully_read": 0,
     "shortened_seo_links_attempted": 42,
-    "summary_basis": "Exported post text plus user-supplied partial text for rows 8, 12, 20, 29, 32 and 44. No live X article, image, video or reply was successfully inspected. Practical SEO takeaways were assessed separately against primary documentation.",
+    "summary_basis": "Exported post text plus user-supplied partial text for rows 8, 12, 20, 29, 32 and 44. No live X article, image, video or reply was successfully inspected. Practical SEO takeaways were assessed separately against primary documentation. The user-supplied complete Musicfy article was subsequently read from a local Downloads copy and merged into export row 30’s existing case-study record.",
     "partially_recovered_source_rows": [
       8,
       12,
@@ -23,11 +23,14 @@
     ],
     "grouped_resource_entries": 46,
     "resource_curation_statuses": {
-      "included": 24,
-      "pending_content": 11,
+      "included": 25,
+      "pending_content": 10,
       "source_reference": 2,
       "source_only": 9
-    }
+    },
+    "fully_recovered_source_rows": [
+      30
+    ]
   },
   "tools": [
     {
@@ -952,7 +955,20 @@
         "status": "included",
         "reason": "Readable material provides a useful SEO workflow or reference; unsupported source claims are qualified separately.",
         "reviewed_on": "2026-10-11"
-      }
+      },
+      "supplemental_sources": [
+        {
+          "url": "https://x.com/denohawari/status/2106758421681000838",
+          "author": "denohawari",
+          "posted_at": null,
+          "received_on": "2026-10-11",
+          "title": "We Grew This SaaS From 0 Organic Presence to 692,000 Organic Clicks in 4 Months With SEO, Here's How",
+          "content_basis": "Complete user-supplied Markdown article read from the local Downloads copy of Pasted markdown(5).md.",
+          "live_access": "unavailable",
+          "source_identity": "User explicitly associated the supplied article with this X URL.",
+          "merge_reason": "Clear product positioning, direct answers and extractable explanations overlap this existing advice; no duplicate resource added."
+        }
+      ]
     },
     {
       "id": "x-2107859240375509250",
@@ -1435,12 +1451,12 @@
     },
     {
       "id": "x-2106788940082765909",
-      "title": "Reported $1M SEO revenue case study",
-      "category": "Case Studies and Experiments",
-      "group": "Revenue and Content Refreshes",
-      "summary": "Introduces a four-month client SEO case study.",
-      "content_status": "preview_only",
-      "notes": "The actual strategy breakdown and revenue evidence were unavailable.",
+      "title": "Programmatic SEO for distinct product use cases",
+      "category": "SaaS and App SEO",
+      "group": "Programmatic SEO",
+      "summary": "Map real product use cases to search demand, use structured templates with distinct demonstrations, and connect landing pages to supporting guides.",
+      "content_status": "user_supplied_text",
+      "notes": "The complete supplied Musicfy article is relevant to the existing four-month SaaS revenue-case bookmark. Its useful method is retained; traffic, signup, revenue, ranking and AI-recommendation outcomes remain unverified. The original shortened bookmark link was not resolved.",
       "sources": [
         {
           "export_row": 30,
@@ -1452,14 +1468,65 @@
           "short_urls": [
             "https://t.co/ydHEj3JWrD"
           ],
-          "linked_content_access": "unavailable"
+          "linked_content_access": "recovered_from_user_supplied_article",
+          "supplemental_article_url": "https://x.com/denohawari/status/2106758421681000838",
+          "supplemental_received_on": "2026-10-11",
+          "supplemental_content_basis": "Complete user-supplied Markdown article read from the local Downloads copy of Pasted markdown(5).md."
         }
       ],
       "curation": {
-        "status": "pending_content",
-        "reason": "The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed.",
+        "status": "included",
+        "reason": "Recovered article provides a useful programmatic product-page workflow absent from the guide. Repeated AI-search and content advice is merged into existing entries; promotion and unverified outcomes are omitted from recommendations.",
         "reviewed_on": "2026-10-11"
-      }
+      },
+      "display_mode": "distilled_advice",
+      "supplemental_sources": [
+        {
+          "url": "https://x.com/denohawari/status/2106758421681000838",
+          "author": "denohawari",
+          "posted_at": null,
+          "received_on": "2026-10-11",
+          "title": "We Grew This SaaS From 0 Organic Presence to 692,000 Organic Clicks in 4 Months With SEO, Here's How",
+          "content_basis": "Complete user-supplied Markdown article read from the local Downloads copy of Pasted markdown(5).md.",
+          "live_access": "unavailable",
+          "source_identity": "User explicitly associated the supplied article with this X URL."
+        }
+      ],
+      "practical_steps": [
+        "Inventory actual supported features or use cases and map them to commercial queries. Group overlapping phrases by intent rather than making another URL for every keyword variant.",
+        "Use a consistent page template, but include genuinely useful, distinct product demonstrations or examples, an accurate capability explanation and a relevant next action on each page.",
+        "Create supporting guides for real pre-purchase questions and add contextual links between guides, related use cases and product pages.",
+        "Track query coverage and user outcomes, then improve the pages that help readers. Page count and publication cadence do not guarantee rankings."
+      ],
+      "primary_references": [
+        "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+        "https://developers.google.com/search/docs/crawling-indexing/links-crawlable",
+        "https://developers.google.com/search/docs/essentials/spam-policies",
+        "https://developers.google.com/search/docs/appearance/ai-features"
+      ],
+      "claims_review": [
+        {
+          "claim": "692,000 organic clicks, 7.43 million impressions, 3,000–6,000 daily signups and over $1M revenue growth in four months",
+          "status": "author_reported_not_independently_verified"
+        },
+        {
+          "claim": "Daily publication and topic coverage improved rankings across the entire site",
+          "status": "causal_effect_not_established"
+        },
+        {
+          "claim": "Consistent positioning caused ChatGPT, Perplexity, Claude and Gemini to recommend the product more frequently",
+          "status": "cross_platform_effect_not_validated"
+        },
+        {
+          "claim": "Affiliate links accelerated authority",
+          "status": "outcome_and_link_attributes_not_verified",
+          "practical_limit": "Commercial links require appropriate qualification; the article is not evidence that paid links should pass ranking credit."
+        },
+        {
+          "claim": "The agency consistently produces 3–10x organic growth across more than 15 clients",
+          "status": "promotional_outcome_not_verified"
+        }
+      ]
     },
     {
       "id": "x-2106680222527672817",
@@ -1725,7 +1792,7 @@
     "user_supplied_posts": 1,
     "user_supplied_destination_entries": 45,
     "new_destinations_from_user_post": 16,
-    "user_supplied_export_source_updates": 6,
+    "user_supplied_export_source_updates": 7,
     "new_destinations_from_partial_threads": 3,
     "partial_thread_entries": 15,
     "existing_thread_destination_references": 12
@@ -2387,14 +2454,21 @@
       "author": "denohawari",
       "received_on": "2026-10-11",
       "posted_at": null,
-      "title": null,
-      "content_status": "unavailable",
-      "curation_status": "pending_relevance",
-      "note": "The user requested a link-only entry if SEO-relevant. Direct X retrieval failed and exact-ID searches found no readable content. Both attached markdown files were identified but their bytes were unavailable through the available readers. Await a title, short description or readable content; no topic was inferred from the author.",
+      "title": "We Grew This SaaS From 0 Organic Presence to 692,000 Organic Clicks in 4 Months With SEO, Here's How",
+      "content_status": "user_supplied_text",
+      "curation_status": "reviewed_merged",
+      "note": "Read the complete supplied Markdown from the local Downloads copy. Merged the practical programmatic SEO workflow into the existing case-study record and associated overlapping AI-content advice with an existing entry. Outcomes and promotion are unverified. Live X retrieval remains unavailable.",
       "attachment_names": [
         "Pasted markdown(1).md",
-        "Pasted markdown(2).md"
-      ]
+        "Pasted markdown(2).md",
+        "Pasted markdown(5).md"
+      ],
+      "merged_resource_ids": [
+        "x-2106788940082765909",
+        "x-2108906394959204628"
+      ],
+      "guide_display": "Distilled practical advice, without a standalone article link.",
+      "content_basis": "Complete user-supplied Markdown article read from the local Downloads copy of Pasted markdown(5).md."
     }
   ]
 }

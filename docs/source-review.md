@@ -9,13 +9,14 @@ Reviewed export: `bookmarks_2026-10-11-1314.csv`, with later user-supplied text,
 | Export rows inspected | 100 |
 | Confirmed SEO source posts | 48 |
 | Grouped source records | 46 |
-| Practical resources included in the main guide | 24 |
+| Practical resources included in the main guide | 25 |
 | Clearly outside SEO | 26 |
 | Link-only export items with unknown relevance | 26 |
 | Original SEO posts read successfully live | 0 |
 | Original shortened SEO links attempted | 42 |
 | SEO sources based on exported text | 31 |
-| SEO sources with preview content only | 11 |
+| SEO sources with preview content only | 10 |
+| SEO source records enriched with a complete supplied article | 1 |
 | SEO sources recovered partly from user text | 6 |
 
 All 48 confirmed SEO URLs and the 26 link-only export URLs were requested in the earlier review. X and shortened-link access failed. A later retry of all 48 SEO posts and 42 unique SEO short links also produced no readable content. Browser control failed with a Windows platform-directory error. No linked article, image, video, quote or reply has been described as inspected live.
@@ -26,6 +27,7 @@ The later user text supplies usable partial content; it does not prove the origi
 
 - **Exported text:** readable post text from the CSV; live supporting material remains unavailable.
 - **Preview only:** the underlying article, implementation or media needed to assess the post is unavailable.
+- **User-supplied text:** the complete supplied article was read from the downloaded Markdown copy; claimed outcomes remain unverified.
 - **User-supplied partial text:** later text recovered named thread sections; missing sections or media remain explicit.
 - **Included:** useful readable SEO content, with unsupported claims qualified.
 - **Source reference:** original directory list reconciled into the unique destination index.
@@ -62,7 +64,7 @@ Original CSV row numbers, authors and UTC publication dates are preserved. Descr
 | 27 | [@jakezward](https://x.com/jakezward/status/2107453596107219294) | 2026-10-06 | AI Search and GEO | `full_text` | Preview only | pending content |
 | 28 | [@brodieseo](https://x.com/brodieseo/status/2107457558248358111) | 2026-10-06 | Technical SEO | `note_tweet_text` | Exported text | included |
 | 29 | [@hridoyreh](https://x.com/hridoyreh/status/2107044433971777987) | 2026-10-05 | Case Studies and Experiments | `full_text` + supplied thread text | User-supplied partial text | source only |
-| 30 | [@denohawari](https://x.com/denohawari/status/2106788940082765909) | 2026-10-04 | Case Studies and Experiments | `full_text` | Preview only | pending content |
+| 30 | [@denohawari](https://x.com/denohawari/status/2106788940082765909) | 2026-10-04 | SaaS and App SEO | `full_text` + complete supplied article | User-supplied text | included as distilled advice |
 | 31 | [@seo_wins](https://x.com/seo_wins/status/2106648293715607936) | 2026-10-04 | Backlinks and Authority | `full_text` | Exported text | included |
 | 32 | [@mehrab_build](https://x.com/mehrab_build/status/2106409427628867584) | 2026-10-03 | Content and On-Page SEO | `full_text` + supplied thread text | User-supplied partial text | included |
 | 33 | [@hridoyreh](https://x.com/hridoyreh/status/2106680222527672817) | 2026-10-04 | Case Studies and Experiments | `full_text` | Preview only | pending content |
@@ -93,7 +95,7 @@ Original CSV row numbers, authors and UTC publication dates are preserved. Descr
 
 ## Resource curation
 
-The same relevance rule was applied to every existing resource. Directory source posts contribute to the canonical destination inventory; they are not repeated as directory listings. The two Mehrab entries were enriched in place.
+The same relevance rule was applied to every existing resource. Directory source posts contribute to the canonical destination inventory; they are not repeated as directory listings. The two Mehrab entries were enriched in place. The previously incomplete SaaS revenue-case record was enriched with the supplied Musicfy article’s practical workflow; its unsupported outcomes remain excluded from recommendations.
 
 | Rows | Resource | Decision | Reason |
 | --- | --- | --- | --- |
@@ -112,7 +114,6 @@ The same relevance rule was applied to every existing resource. Directory source
 | 55 | [OpenSEO self-hosted toolkit](https://x.com/ossalternative/status/2102518350178091297) | pending content | The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed. |
 | 42 | [Exact-match-domain affiliate-site example](https://x.com/MilaChervenkova/status/2105566972893143354) | source only | Single ranking anecdote without a reviewed method or evidence of causation. |
 | 45 | [Rapid-indexing case study for a new 500-page site](https://x.com/SearchForRyan/status/2105951799995728084) | source only | Overlapping content/structure advice mixed with fabricated author identity and unsupported forced-indexing claims. |
-| 30 | [Reported $1M SEO revenue case study](https://x.com/denohawari/status/2106788940082765909) | pending content | The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed. |
 | 33 | [Claude-assisted content refresh example](https://x.com/hridoyreh/status/2106680222527672817) | pending content | The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed. |
 | 29, 44 | [Google Sites publishing workflow and unverified ranking promises](https://x.com/hridoyreh/status/2107044433971777987) | source only | Recovered basic publishing steps duplicate existing guidance; ranking, revenue and indexing promises are unsupported. |
 | 41 | [Exact-match domains, backlinks and parasite SEO opinion](https://x.com/ConnorShowler/status/2105640600766652653) | source only | Short opinion about domains, backlinks and parasite SEO with no usable method or evidence. |
@@ -170,9 +171,11 @@ The main destination section contains **158 unique relevant destinations**. Thre
 
 The Mehrab claims were assessed against official Google documentation, the actual information-gain patent and DOJ-hosted trial exhibits. [Detailed evidence and qualifications](content-quality.md).
 
-## Pending article link
+## Recovered Musicfy article
 
-[Additional article from @denohawari](https://x.com/denohawari/status/2106758421681000838) was supplied on 11 October 2026 for possible link-only inclusion. Its topic is not yet established: direct X retrieval failed, exact-ID searches found no readable content, and the identified attachment `Pasted markdown(1).md` was not accessible. No title or SEO relevance was inferred. It is recorded in `incoming_articles` and withheld from the guide until a title, short description or readable content establishes relevance.
+[Musicfy case study supplied by @denohawari](https://x.com/denohawari/status/2106758421681000838): “We Grew This SaaS From 0 Organic Presence to 692,000 Organic Clicks in 4 Months With SEO, Here's How.” The complete user-supplied article was read from `Pasted markdown(5).md` in Downloads. The user identified this X URL as its source; live X and the original shortened bookmark URL remain unreadable.
+
+The practical workflow is merged into export row 30’s existing four-month SaaS case-study record based on its matching author, topic and reported outcomes. It appears as advice in the SaaS and App SEO section, without a standalone article link. Clear product positioning and direct answers overlap an existing AI-content entry, so that entry receives a source reference rather than another guide listing. The revenue, traffic, signups, causal ranking effects and claimed cross-platform AI recommendations remain unverified. [Evidence and qualifications](content-quality.md#programmatic-seo-case-study).
 
 ## Rules for existing and future posts
 
