@@ -13,8 +13,10 @@ Curated from **48 SEO-related bookmarks** in the 11 October 2026 export, grouped
 - [Technical SEO](#technical-seo)
 - [Content and On-Page SEO](#content-and-on-page-seo)
 - [Backlinks and Authority](#backlinks-and-authority)
+- [Backlink Opportunities and DR](#backlink-opportunities-and-dr)
 - [AI Search and GEO](#ai-search-and-geo)
 - [SaaS and App SEO](#saas-and-app-seo)
+- [SEO MCP Servers](#seo-mcp-servers)
 - [Automation and Skills](#automation-and-skills)
 - [Case Studies and Experiments](#case-studies-and-experiments)
 - [Review Coverage](#review-coverage)
@@ -172,6 +174,85 @@ Find relevant listings, existing mentions and outreach prospects.
 
 ---
 
+## Backlink Opportunities and DR
+
+A clickable shortlist of **31 destinations**, grouped by the type of product or contribution they suit. These destination pages were opened on 11 October 2026; submission rules, fees and backlink attributes still need checking. Some names came from the bookmark lists; the direct URLs and additional destinations were checked separately.
+
+[Domain Rating (DR)](https://help.ahrefs.com/en/articles/1409408-what-is-domain-rating-dr) is Ahrefs' relative measure of backlink-profile strength. It is [not a Google ranking factor](https://help.ahrefs.com/en/articles/907673-do-search-engines-use-domain-authority-domain-rating-as-a-ranking-factor). A listing is a prospect, not a promise of a followed link or a higher DR.
+
+Choose destinations where your product belongs. For each one, record the resulting listing URL, whether it links to your site, its link attributes and referral traffic. Community posts are opportunities to earn attention and useful references; they are not guaranteed DR gains.
+
+<details>
+<summary><strong>SaaS and Startup Launches</strong> — 8 resources</summary>
+
+- [Product Hunt](https://www.producthunt.com/) - Launch a usable product and explain its value to early adopters.
+- [AlternativeTo](https://alternativeto.net/) - List software with a clear use case and relevant alternatives.
+- [BetaList](https://betalist.com/) - Present an early-stage startup to people looking for new products.
+- [Uneed](https://www.uneed.best/) - Showcase a tool in a product discovery and launch directory.
+- [SaaSHub](https://www.saashub.com/) - List a SaaS product alongside software alternatives and categories.
+- [TinyLaunch](https://www.tinylaunch.com/) - Introduce a new product through a launch platform.
+- [Microlaunch](https://microlaunch.net/) - Share a product launch and gather discovery and feedback.
+- [Peerlist](https://peerlist.io/) - Show a developer product or project with a useful professional profile.
+
+</details>
+
+<details>
+<summary><strong>Developer and Open-Source Products</strong> — 4 resources</summary>
+
+- [DevHunt](https://devhunt.org/) - Launch a tool made for developers.
+- [OpenAlternative](https://openalternative.co/) - List an open-source product that offers a relevant software alternative.
+- [SourceForge](https://sourceforge.net/) - Create a software listing appropriate to the project's category.
+- [Public APIs](https://github.com/public-apis/public-apis) - Propose an API only when it meets the repository's inclusion requirements.
+
+</details>
+
+<details>
+<summary><strong>MCP and Agent Directories</strong> — 7 resources</summary>
+
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/) - Publish a real MCP server; start with the registry's publisher documentation.
+- [Glama](https://glama.ai/mcp/servers) - Explore a dedicated directory of MCP servers.
+- [MCP Servers](https://mcpservers.org/) - Find the relevant category for an MCP server listing.
+- [MCP.so](https://mcp.so/) - Explore MCP server discovery and its submission options.
+- [MCP Market](https://mcpmarket.com/) - Explore a directory for MCP servers and related tools.
+- [MCP.Directory](https://mcp.directory/) - Find an appropriate category for an MCP server.
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Propose a useful MCP server through the list's contribution process.
+
+</details>
+
+<details>
+<summary><strong>AI Product Directories</strong> — 4 resources</summary>
+
+- [Toolify](https://www.toolify.ai/) - Check the categories and listing process for an AI product.
+- [Futurepedia](https://www.futurepedia.io/) - Explore an AI tool directory for a product with a clear use case.
+- [OpenTools](https://opentools.ai/) - Find the appropriate AI tool category and listing options.
+- [AI Agent Store](https://aiagentstore.ai/) - Consider a listing for a real AI agent product.
+
+</details>
+
+<details>
+<summary><strong>Software Reviews</strong> — 3 resources</summary>
+
+- [TrustRadius](https://www.trustradius.com/) - Build an accurate software profile and earn genuine customer reviews.
+- [GoodFirms](https://www.goodfirms.co/) - Check whether the software or service fits a relevant directory category.
+- [Serchen](https://www.serchen.com/) - Explore business software listings and customer reviews.
+
+</details>
+
+<details>
+<summary><strong>Communities and Editorial Content</strong> — 5 resources</summary>
+
+- [DEV Community](https://dev.to/) - Publish useful technical tutorials or project explanations with contextual references.
+- [Hashnode](https://hashnode.com/) - Publish original developer articles that help the intended audience.
+- [HackerNoon](https://hackernoon.com/) - Pitch a substantive technology article through its editorial workflow.
+- [Indie Hackers](https://www.indiehackers.com/) - Share a useful founder story or result in a relevant discussion.
+- [Show HN](https://news.ycombinator.com/showhn.html) - Show something you made that readers can try; follow the Show HN rules.
+
+</details>
+
+Use the [outreach and brand-mention playbooks](#backlinks-and-authority) alongside these listings. The [full extracted prospect lists](docs/backlink-prospects.md) preserve the other names from the bookmarks without inventing destinations.
+
+---
+
 ## AI Search and GEO
 
 Resources on answer visibility, citations and how to measure AI-driven discovery.
@@ -230,6 +311,39 @@ Connect customer problems and commercial searches to product pages and useful se
 - [Commercial-keyword SEO workflow for SaaS founders](https://x.com/mehrab_build/status/2107812981786710479) - Collect competitor keywords with SEO data tools, match the ranking page format, add original product evidence, link new pages and monitor weekly.
 
 </details>
+
+---
+
+## SEO MCP Servers
+
+MCP lets an assistant use connected tools and data. These **five integrations** cover search performance, analytics, SEO data and page research. Provider documentation was reviewed on 11 October 2026; the servers have not been installed or tested here. Official and community projects are labelled separately.
+
+<details>
+<summary><strong>Search Performance and Measurement</strong> — 2 resources</summary>
+
+- [Google Search Console MCP](https://github.com/AminForou/mcp-gsc) - **Community.** Analyze queries, clicks, impressions and URL indexing; the server also includes property and sitemap management tools. Google credentials and access to the relevant Search Console property.
+- [Google Analytics MCP](https://github.com/googleanalytics/google-analytics-mcp) - **Official / experimental.** Read Analytics account and property information and run reports to investigate traffic and outcomes. Google credentials and access to the relevant Analytics property.
+
+</details>
+
+<details>
+<summary><strong>Keyword, Competitor and Backlink Research</strong> — 2 resources</summary>
+
+- [Ahrefs MCP](https://docs.ahrefs.com/en/mcp/docs/introduction) - **Official.** Connect Ahrefs research data to an MCP-compatible assistant. An eligible Ahrefs plan (Lite or higher) and available API units.
+- [DataForSEO MCP](https://github.com/dataforseo/mcp-server-typescript) - **Official.** Use DataForSEO APIs for SERP, keyword, backlink and on-page research. The current v3 server exposes API discovery and request tools. DataForSEO API access; usage is billed through the provider.
+
+</details>
+
+<details>
+<summary><strong>Page Research and Content Extraction</strong> — 1 resources</summary>
+
+- [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) - **Official.** Search, fetch and crawl web pages; useful for collecting competitor-page content for analysis. Firecrawl cloud authentication or a configured self-hosted service.
+
+</details>
+
+Start with Search Console to investigate your own pages, add Analytics for traffic and outcomes, and use a research provider when you need external search or backlink data. Review the permissions exposed by each server before connecting an account.
+
+If you publish your own MCP server, use the [MCP and Agent Directories](#backlink-opportunities-and-dr) above and the [official registry publishing guide](https://modelcontextprotocol.io/registry/quickstart).
 
 ---
 
@@ -298,6 +412,8 @@ Author-reported examples and opinions. Outcomes and ranking claims have not been
 ## Review Coverage
 
 The export contained 100 bookmarks: 48 confirmed SEO sources, 26 clearly outside SEO and 26 link-only items whose subjects could not be established. The link-only items are not counted as non-SEO.
+
+The dedicated MCP and backlink-opportunity sections are supplementary research: five documented MCP integrations and 31 reachable destination pages. They do not change the 48-source bookmark count.
 
 Live X access was unavailable for every attempted post. Linked article bodies, images, videos and replies have not been treated as read. The source register records what each summary is based on and which details still need review.
 

@@ -1,6 +1,6 @@
 # Backlink prospects from the bookmarks
 
-These are prospect names extracted from readable post text. The posts do not supply direct URLs for every name, so destinations have not been guessed. Submission rules, prices, link-follow status and claimed DR values have not been verified; DR scores are omitted.
+These are prospect names extracted from readable post text. The posts do not supply direct URLs for every name. The [clickable shortlist of 31 checked destinations](../README.md#backlink-opportunities-and-dr) combines relevant names from these lists with separately researched destinations; other names below remain unlinked. Submission rules, prices, link-follow status and claimed DR values have not been verified; DR scores are omitted.
 
 ## Startup prospect list
 

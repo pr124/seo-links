@@ -86,6 +86,12 @@ Original CSV row numbers are retained for reconciliation. Dates are the exported
 - Rows 31 and 35 describe the same unlinked-brand-mention workflow. Both original URLs remain in one entry.
 - Rows 29 and 44 introduce similar parasite-SEO monetization playbooks. Both original URLs remain in one preview entry; the inaccessible playbooks are not assumed to be identical.
 
+## Supplementary MCP and backlink research
+
+The README now includes five SEO-related MCP integrations and 31 clickable listing, community and editorial destinations. Direct provider documentation and destination pages were accessible on 11 October 2026. The structured index records these in `mcp_servers` and `backlink_opportunities`, separately from the 46 bookmark-based entries.
+
+MCP projects are labelled official, official experimental or community. No server was installed or executed. Destination-page access does not verify submission eligibility, pricing, a followed backlink or any DR change. Inaccessible candidate sites were left out of the clickable shortlist; their names remain in the original extracted lists when present there.
+
 ## Editorial checks
 
 Tool names are taken from the bookmarks. Their direct official websites were opened separately. No tool repository URL was guessed from a shortened link.
