@@ -9,15 +9,15 @@ Reviewed export: `bookmarks_2026-10-11-1314.csv`, with later user-supplied text,
 | Export rows inspected | 100 |
 | Confirmed SEO source posts | 48 |
 | Grouped source records | 46 |
-| Practical resources included in the main guide | 25 |
+| Practical resources included in the main guide | 26 |
 | Clearly outside SEO | 26 |
 | Link-only export items with unknown relevance | 26 |
 | Original SEO posts read successfully live | 0 |
 | Original shortened SEO links attempted | 42 |
 | SEO sources based on exported text | 31 |
-| SEO sources with preview content only | 10 |
+| SEO sources with preview content only | 9 |
 | SEO source records enriched with a complete supplied article | 1 |
-| SEO sources recovered partly from user text | 6 |
+| SEO sources recovered partly from user text | 7 |
 
 All 48 confirmed SEO URLs and the 26 link-only export URLs were requested in the earlier review. X and shortened-link access failed. A later retry of all 48 SEO posts and 42 unique SEO short links also produced no readable content. Browser control failed with a Windows platform-directory error. No linked article, image, video, quote or reply has been described as inspected live.
 
@@ -52,7 +52,7 @@ Original CSV row numbers, authors and UTC publication dates are preserved. Descr
 | 14 | [@hridoyreh](https://x.com/hridoyreh/status/2108587753319682263) | 2026-10-09 | Backlinks and Authority | `full_text` | Preview only | pending content |
 | 15 | [@seo_bint_ejamil](https://x.com/seo_bint_ejamil/status/2108267666855416056) | 2026-10-08 | Core Tools | `note_tweet_text` | Exported text | included |
 | 16 | [@hridoyreh](https://x.com/hridoyreh/status/2108447368131531109) | 2026-10-09 | SaaS and App SEO | `full_text` | Exported text | included |
-| 17 | [@NicholasDulait](https://x.com/NicholasDulait/status/2108212845502501086) | 2026-10-08 | Automation and Skills | `full_text` | Preview only | pending content |
+| 17 | [@NicholasDulait](https://x.com/NicholasDulait/status/2108212845502501086) | 2026-10-08 | Automation and Skills | `full_text` | User-supplied partial text | included |
 | 18 | [@danielkbuilds](https://x.com/danielkbuilds/status/2108159948739973552) | 2026-10-08 | Automation and Skills | `full_text` | Preview only | pending content |
 | 19 | [@askOkara](https://x.com/askOkara/status/2108095361986543877) | 2026-10-08 | Backlinks and Authority | `full_text` | Preview only | pending content |
 | 20 | [@hridoyreh](https://x.com/hridoyreh/status/2108084799479169279) | 2026-10-08 | Backlinks and Authority | `full_text` + supplied thread text | User-supplied partial text | source reference |
@@ -109,7 +109,7 @@ The same relevance rule was applied to every existing resource. Directory source
 | 27 | [Study an AI Overview over seven days](https://x.com/jakezward/status/2107453596107219294) | pending content | The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed. |
 | 18 | [20 SEO skills from a tax-calculator project](https://x.com/danielkbuilds/status/2108159948739973552) | pending content | The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed. |
 | 23 | [Google preferred-source button skill](https://x.com/tarasshyn/status/2107514947483910182) | pending content | The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed. |
-| 17 | [SEO and GEO article collection](https://x.com/NicholasDulait/status/2108212845502501086) | pending content | The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed. |
+| 17 | [AI-assisted SEO workflow](https://x.com/NicholasDulait/status/2108212094214529135) | included | Supplied excerpt through Module 15 reviewed; linked once with qualifications. Promised GEO section absent. |
 | 52 | [Refix quick-win SEO audit](https://x.com/regalstreak/status/2103014475947483462) | source only | Promotional audit offer without audit output or a method to review. |
 | 55 | [OpenSEO self-hosted toolkit](https://x.com/ossalternative/status/2102518350178091297) | pending content | The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed. |
 | 42 | [Exact-match-domain affiliate-site example](https://x.com/MilaChervenkova/status/2105566972893143354) | source only | Single ranking anecdote without a reviewed method or evidence of causation. |
@@ -189,3 +189,11 @@ The practical workflow is merged into export row 30’s existing four-month SaaS
 - **Source preservation:** Retain original post URLs, authors, dates, list positions, supplied-text coverage and remaining access gaps. Partial threads must remain labelled partial.
 
 [Return to the guide](../README.md).
+
+## Recovered Nicholas Dulait article excerpt
+
+[How to use Claude Opus 5.5 for SEO so well it feels illegal](https://x.com/NicholasDulait/status/2108212094214529135) was read from the supplied local Markdown copy on 11 October 2026 and reconciled with original row 17, rather than added as a duplicate source record. This copy contains Parts 1–3 through Module 15; Part 4 and the remaining promised material are absent.
+
+Useful material includes grounding AI work in real query/SERP data, checking whether an existing URL serves the intent, and comparing old/new pages for accidentally removed tables, forms, quizzes, images and internal links. The guide links the article once under Automation and Skills.
+
+Model/version and product-plan claims, traffic anecdotes, mandatory quotas, automatic deletion thresholds, blanket country-domain restrictions and a six-month new-domain rule remain unverified author assertions. Do not use reciprocal or paid ranking links as a recommendation; see [Google's link and scaled-content spam policies](https://developers.google.com/search/docs/essentials/spam-policies). The promised GEO section was not assessed.

@@ -4,7 +4,7 @@ A curated SEO toolkit for indie founders: research demand, fix technical issues,
 
 > Browse by the job you need to do. Expand a group for its tools, articles or submission destinations.
 
-The export contains **48 SEO source posts**, grouped into **46 source records**. After relevance review, **25 selected resources** appear below. Directory posts are merged into one destination index; incomplete articles, repeated advice and unsupported promotions remain in the [source register](docs/source-review.md).
+The export contains **48 SEO source posts**, grouped into **46 source records**. After relevance review, **26 selected resources** appear below. Directory posts are merged into one destination index; incomplete articles, repeated advice and unsupported promotions remain in the [source register](docs/source-review.md).
 
 Relevant articles use a link and a short takeaway. Partial supplied text stays labelled partial; the full article is not copied into the guide.
 
@@ -576,6 +576,13 @@ If you publish your own MCP server, use the [MCP directories](#mcp-directories) 
 
 Use the [SEO MCP servers](#seo-mcp-servers) for connected research and measurement. [Bing Webmaster API documentation](https://learn.microsoft.com/en-us/bingwebmaster/) covers registered-site search and indexing data.
 
+<details>
+<summary><strong>AI-Assisted SEO Workflow</strong> - 1 article</summary>
+
+- [How to use Claude Opus 5.5 for SEO so well it feels illegal](https://x.com/NicholasDulait/status/2108212094214529135) - Research commercial intent with real data, check existing URLs before creating pages, and compare AI edits against the original so tables, forms and useful examples survive. Also covers briefs, sitemap maintenance, local SEO and editorial outreach. Supplied text ends at Module 15; its promised GEO section is missing. Product promotion, fixed quotas and ranking claims are not verified requirements.
+
+</details>
+
 Skill announcements and tools whose actual repository or implementation could not be reviewed remain in the [source register](docs/source-review.md#resource-curation).
 
 ---
@@ -584,7 +591,7 @@ Skill announcements and tools whose actual repository or implementation could no
 
 The original 100-row export contains 48 confirmed SEO sources, 26 outside SEO and 26 link-only sources with unknown relevance. Live X retrieval remains unavailable; supplied thread text is recorded separately from live media inspection.
 
-User text recovered two backlink fragments, two Mehrab signal fragments and the grouped Google Sites workflow. The backlink fragments still lack v4 positions 1–4 and v3 position 10. The Mehrab threads are not claimed complete. The complete supplied Musicfy article was read from a local Markdown copy; its practical programmatic SEO advice is now included, without a standalone article link.
+User text recovered two backlink fragments, two Mehrab signal fragments and the grouped Google Sites workflow. The backlink fragments still lack v4 positions 1–4 and v3 position 10. The Mehrab threads are not claimed complete. The complete supplied Musicfy article was read from a local Markdown copy; its practical programmatic SEO advice is now included, without a standalone article link. The supplied Nicholas Dulait excerpt through Module 15 was also read and added as one annotated article link; its promised GEO sections were not supplied.
 
 - [Source register, relevance decisions and pending content](docs/source-review.md)
 - [Full directory source archive and original positions](docs/backlink-prospects.md)

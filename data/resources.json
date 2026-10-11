@@ -8,14 +8,15 @@
     "confirmed_seo_sources": 48,
     "out_of_scope_sources": 26,
     "unclassified_link_only_sources": 26,
-    "curated_entries": 25,
+    "curated_entries": 26,
     "live_x_review_complete": false,
     "live_posts_successfully_read": 0,
     "shortened_seo_links_attempted": 42,
-    "summary_basis": "Exported post text plus user-supplied partial text for rows 8, 12, 20, 29, 32 and 44. No live X article, image, video or reply was successfully inspected. Practical SEO takeaways were assessed separately against primary documentation. The user-supplied complete Musicfy article was subsequently read from a local Downloads copy and merged into export row 30’s existing case-study record.",
+    "summary_basis": "Exported post text plus user-supplied partial text for rows 8, 12, 20, 29, 32 and 44. No live X article, image, video or reply was successfully inspected. Practical SEO takeaways were assessed separately against primary documentation. The user-supplied complete Musicfy article was subsequently read from a local Downloads copy and merged into export row 30’s existing case-study record. The supplied Nicholas Dulait article excerpt through Module 15 was read locally and merged into row 17; promised GEO sections were absent.",
     "partially_recovered_source_rows": [
       8,
       12,
+      17,
       20,
       29,
       32,
@@ -23,8 +24,8 @@
     ],
     "grouped_resource_entries": 46,
     "resource_curation_statuses": {
-      "included": 25,
-      "pending_content": 10,
+      "included": 26,
+      "pending_content": 9,
       "source_reference": 2,
       "source_only": 9
     },
@@ -1312,12 +1313,12 @@
     },
     {
       "id": "x-2108212845502501086",
-      "title": "SEO and GEO article collection",
+      "title": "AI-assisted SEO workflow: research, briefs and publishing checks",
       "category": "Automation and Skills",
       "group": "Reusable SEO Skills",
-      "summary": "The author introduces a single article bringing together roughly 40 previous SEO and GEO posts.",
-      "content_status": "preview_only",
-      "notes": "The article body was absent from the export and could not be opened.",
+      "summary": "Use real Search Console and SERP data, check existing URLs before creating pages, preserve useful elements during AI edits, and inspect sitemap and internal-link updates.",
+      "content_status": "user_supplied_partial",
+      "notes": "Read the supplied Markdown through Module 15. The opening promises a Part 4 on GEO, but that part is absent from this copy. Product/model/version, pricing, growth anecdotes and ranking claims were not verified. Fixed publishing, link, page and Business Profile quotas, automatic pruning thresholds, a six-month new-domain rule and broad multilingual-domain claims are not adopted as requirements.",
       "sources": [
         {
           "export_row": 17,
@@ -1327,14 +1328,25 @@
           "export_field": "full_text",
           "live_access": "unavailable",
           "short_urls": [],
-          "linked_content_access": "not_in_export"
+          "linked_content_access": "partially_recovered_from_user_supplied_article",
+          "supplemental_article_url": "https://x.com/NicholasDulait/status/2108212094214529135"
         }
       ],
       "curation": {
-        "status": "pending_content",
-        "reason": "The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed.",
+        "status": "included",
+        "reason": "Relevant practical AI-assisted workflow with real input data and a before/after check for missing page elements. One annotated article link enriches the existing record; overlapping advice is not duplicated.",
         "reviewed_on": "2026-10-11"
-      }
+      },
+      "supplemental_sources": [
+        {
+          "url": "https://x.com/NicholasDulait/status/2108212094214529135",
+          "title": "How to use Claude Opus 5.5 for SEO so well it feels illegal",
+          "author": "NicholasDulait",
+          "content_basis": "Pasted markdown(7).md downloaded locally; supplied text read in full, underlying article incomplete",
+          "reviewed_on": "2026-10-11"
+        }
+      ],
+      "display_url": "https://x.com/NicholasDulait/status/2108212094214529135"
     },
     {
       "id": "x-2103014475947483462",
