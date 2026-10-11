@@ -31,7 +31,8 @@
     },
     "fully_recovered_source_rows": [
       30
-    ]
+    ],
+    "supplemental_selected_entries": 1
   },
   "tools": [
     {
@@ -2444,6 +2445,34 @@
       "curation": {
         "status": "source_reference",
         "reason": "Relevant unique destinations are merged into the destination index; all 30 original positions are preserved.",
+        "reviewed_on": "2026-10-11"
+      }
+    },
+    {
+      "id": "x-2105787365126226359",
+      "title": "A 30-day ChatGPT citation and buyer-question audit",
+      "original_title": "Stop paying $10K/month to get ranked on ChatGPT",
+      "category": "AI Search and GEO",
+      "group": "SaaS Visibility and Measurement",
+      "summary": "Keep a fixed buyer-prompt set, repeat web-enabled tests, record citations separately from brand recommendations, map recurring third-party sources, and measure referral conversions. Publish original evidence with methods and limitations.",
+      "content_status": "user_supplied_text",
+      "sources": [
+        {
+          "author": "TheCoolestCool",
+          "url": "https://x.com/TheCoolestCool/status/2105787365126226359",
+          "received_on": "2026-10-11",
+          "posted_at": null,
+          "live_access": "unavailable",
+          "content_basis": "Read supplied local Pasted text(20261011-162807).txt in full"
+        }
+      ],
+      "notes": "Adds a concrete citation-audit method to existing GEO advice. The 15 prompts, three runs, 25 outreach targets and 30-day schedule are example planning choices, not ranking requirements or guarantees. SE Ranking, Ahrefs, Semrush and Gong numerical claims were not independently verified; correlations do not establish causes. OpenAI search/training crawler separation checked against official crawler documentation. The referral UTM assertion is retained as author advice; the cited publisher FAQ redirected to unrelated content during verification.",
+      "primary_references": [
+        "https://developers.openai.com/api/docs/bots"
+      ],
+      "curation": {
+        "status": "included",
+        "reason": "New repeatable buyer-prompt baseline and citation-versus-recommendation measurements; link once instead of repeating existing evidence, review-profile and crawl-access advice.",
         "reviewed_on": "2026-10-11"
       }
     }

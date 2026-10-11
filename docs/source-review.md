@@ -197,3 +197,11 @@ The practical workflow is merged into export row 30’s existing four-month SaaS
 Useful material includes grounding AI work in real query/SERP data, checking whether an existing URL serves the intent, and comparing old/new pages for accidentally removed tables, forms, quizzes, images and internal links. The guide links the article once under Automation and Skills.
 
 Model/version and product-plan claims, traffic anecdotes, mandatory quotas, automatic deletion thresholds, blanket country-domain restrictions and a six-month new-domain rule remain unverified author assertions. Do not use reciprocal or paid ranking links as a recommendation; see [Google's link and scaled-content spam policies](https://developers.google.com/search/docs/essentials/spam-policies). The promised GEO section was not assessed.
+
+## Supplemental ChatGPT citation audit
+
+[Stop paying $10K/month to get ranked on ChatGPT](https://x.com/TheCoolestCool/status/2105787365126226359) by @TheCoolestCool was read in full from the supplied local text file on 11 October 2026. Relevant and included once under AI Search and GEO; it is additional to the original 100-row export.
+
+The useful addition is a repeatable buyer-prompt baseline: keep prompts and testing conditions consistent, repeat runs, record cited URLs and uncited recommendations separately, map recurring sources, and compare visibility with referral conversions. Existing original-evidence, business-profile and crawler advice is not duplicated as separate resources.
+
+The cited research figures were not independently checked, and correlations are not causal ranking factors. The 30-day timetable and prompt/outreach/profile/page counts are example workloads rather than requirements or outcome promises. [OpenAI's crawler documentation](https://developers.openai.com/api/docs/bots) supports the distinction between search and training crawlers. The publisher FAQ URL redirected to unrelated content during verification, so the referral parameter assertion remains attributed to the author.

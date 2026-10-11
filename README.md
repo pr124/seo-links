@@ -4,7 +4,7 @@ A curated SEO toolkit for indie founders: research demand, fix technical issues,
 
 > Browse by the job you need to do. Expand a group for its tools, articles or submission destinations.
 
-The export contains **48 SEO source posts**, grouped into **46 source records**. After relevance review, **26 selected resources** appear below. Directory posts are merged into one destination index; incomplete articles, repeated advice and unsupported promotions remain in the [source register](docs/source-review.md).
+The export contains **48 SEO source posts**, grouped into **46 source records**. After relevance review, **26 selected resources from the export**, plus **1 supplemental article**, appear below. Directory posts are merged into one destination index; incomplete articles, repeated advice and unsupported promotions remain in the [source register](docs/source-review.md).
 
 Relevant articles use a link and a short takeaway. Partial supplied text stays labelled partial; the full article is not copied into the guide.
 
@@ -469,9 +469,10 @@ Build useful evidence, inspect crawler requirements and measure answer visibilit
 </details>
 
 <details>
-<summary><strong>SaaS Visibility and Measurement</strong> - 2 resources</summary>
+<summary><strong>SaaS Visibility and Measurement</strong> - 3 resources</summary>
 
 - [AI-search workflow for SaaS content and referral tracking](https://x.com/denohawari/status/2108636363868586010) - Review search-crawler access, indexing, buyer-question headings, integration pages, definitions and AI referral traffic. The revenue claim and cross-platform eligibility guarantees are unverified; check each crawler's current documentation.
+- [A 30-day ChatGPT citation and buyer-question audit](https://x.com/TheCoolestCool/status/2105787365126226359) - Repeat a fixed set of buyer questions with web search, log cited URLs separately from brand recommendations, map recurring sources, and compare referral visits with leads. Publish evidence with methods and limitations. The schedule is an example; study correlations and numerical claims are not verified ranking rules or citation guarantees.
 - [Review-led SEO, GEO and AEO workflow](https://x.com/om_patel5/status/2099683744781111419) - Mine customer complaints and People Also Ask, build linked topic clusters, reuse useful videos and inspect search queries and AI recommendations. The post's llms.txt, bot-eligibility and automatic-citation claims need verification; Google does not require special AI files.
 
 </details>
