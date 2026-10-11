@@ -10,7 +10,7 @@ Relevant articles use a link and a short takeaway. Partial supplied text stays l
 
 ## Contents
 
-- [Core Tools](#core-tools)
+- [SEO Websites, Tools, Skills and GitHub Repos](#seo-websites-tools-skills-and-github-repos)
 - [Keyword Research](#keyword-research)
 - [Technical SEO](#technical-seo)
 - [Content and On-Page SEO](#content-and-on-page-seo)
@@ -18,15 +18,14 @@ Relevant articles use a link and a short takeaway. Partial supplied text stays l
 - [Backlink Opportunities and DR](#backlink-opportunities-and-dr)
 - [AI Search and GEO](#ai-search-and-geo)
 - [SaaS and App SEO](#saas-and-app-seo)
-- [SEO MCP Servers](#seo-mcp-servers)
 - [Automation and Skills](#automation-and-skills)
 - [Review Coverage](#review-coverage)
 
 ---
 
-## Core Tools
+## SEO Websites, Tools, Skills and GitHub Repos
 
-Choose tools around measurement, research and technical work.
+A single index of the reviewed SEO websites, tools, MCP integrations, reusable skills and source repositories. Expand the groups below; each project is listed once by its main purpose. Submission directories remain in [Backlink Opportunities and DR](#backlink-opportunities-and-dr).
 
 ### Measurement and Local Search
 
@@ -36,7 +35,72 @@ Choose tools around measurement, research and technical work.
 - [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - Review search performance, crawl and indexing information for your registered sites.
 - [Google Merchant Center](https://business.google.com/us/merchant-center/) - Manage product data and eligible product listings across Google surfaces.
 
-### Keyword Research and Competitors
+#<details>
+<summary><strong>GitHub Repositories and Self-Hosted SEO</strong> - 2 projects</summary>
+
+- [OpenSEO](https://github.com/every-app/open-seo) - Self-hosted keyword research, rank tracking, competitor insights, backlinks, site audits and AI visibility; includes an MCP server and agent skills. Requires a DataForSEO API key and paid usage; [MCP setup](https://openseo.so/docs/mcp).
+- [Jev SEO](https://github.com/AgriciDaniel/jev-seo) - Local SEO crawler and audit-report generator, usable as a CLI or Claude Code skill. Produces PDF, spreadsheet and Markdown reports. Jev judgments require TypeSafe API access; optional extended research uses paid DataForSEO. Audit scores are heuristics, not ranking predictions. Documentation reviewed; not installed or runtime-tested.
+
+</details>
+
+<details>
+<summary><strong>Reusable SEO Skills</strong> - 2 collections</summary>
+
+- [OpenSEO Agent Skills](https://openseo.so/docs/skills/setup) - Workflows for keyword research and clustering, competitor analysis, local SEO, link prospecting and audits. Requires a working OpenSEO MCP connection; [skill source files](https://github.com/every-app/open-seo/tree/main/plugins/openseo/skills). The keyword-research skill was inspected directly.
+- [Jev SEO skill workflow](https://github.com/AgriciDaniel/jev-seo/blob/main/SKILL.md) - Workflow for running the audit, checking surprising findings and producing reports. Uses the Jev SEO repo above and its API/dependency setup. Review model-generated judgments before acting on them.
+
+</details>
+
+<details>
+<summary><strong>SEO Reference Websites and Validators</strong> - 3 destinations</summary>
+
+- [Google Search Central](https://developers.google.com/search/docs) - Official documentation for crawl access, indexing, content, structured data and search appearance. See the [selected official references](#official-references).
+- [Schema Markup Validator](https://validator.schema.org/) - Check Schema.org markup syntax and vocabulary; validation does not establish rich-result eligibility or ranking benefits.
+- [Bing Webmaster API documentation](https://learn.microsoft.com/en-us/bingwebmaster/) - Documentation for registered-site search and indexing data.
+
+</details>
+
+### SEO MCP Servers
+
+MCP lets an assistant use connected tools and data. These **six integrations** cover search performance, analytics, SEO data and page research. Provider documentation was reviewed on 11 October 2026; the servers have not been installed or tested here. Official and community projects are labelled separately.
+
+<details>
+<summary><strong>Search Performance and Measurement</strong> — 2 resources</summary>
+
+- [Google Search Console MCP](https://github.com/AminForou/mcp-gsc) - **Community.** Analyze queries, clicks, impressions and URL indexing; the server also includes property and sitemap management tools. Google credentials and access to the relevant Search Console property.
+- [Google Analytics MCP](https://github.com/googleanalytics/google-analytics-mcp) - **Official / experimental.** Read Analytics account and property information and run reports to investigate traffic and outcomes. Google credentials and access to the relevant Analytics property.
+
+</details>
+
+<details>
+<summary><strong>Keyword, Competitor and Backlink Research</strong> — 2 resources</summary>
+
+- [Ahrefs MCP](https://docs.ahrefs.com/en/mcp/docs/introduction) - **Official.** Connect Ahrefs research data to an MCP-compatible assistant. An eligible Ahrefs plan (Lite or higher) and available API units.
+- [DataForSEO MCP](https://github.com/dataforseo/mcp-server-typescript) - **Official.** Use DataForSEO APIs for SERP, keyword, backlink and on-page research. The current v3 server exposes API discovery and request tools. DataForSEO API access; usage is billed through the provider.
+
+</details>
+
+<details>
+<summary><strong>Page Research and Content Extraction</strong> — 1 resource</summary>
+
+- [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) - **Official.** Search, fetch and crawl web pages; useful for collecting competitor-page content for analysis. Firecrawl cloud authentication or a configured self-hosted service.
+
+</details>
+
+Start with Search Console to investigate your own pages, add Analytics for traffic and outcomes, and use a research provider when you need external search or backlink data. Review the permissions exposed by each server before connecting an account.
+
+<details>
+<summary><strong>Indexing Job Automation</strong> — 1 resource</summary>
+
+- [Index My Site MCP](https://indexmysite.app/docs/mcp) - **Official.** Submit URLs, list jobs and check indexing results and credit balances. Requires an account and credits for submissions; indexing remains Google's decision.
+
+</details>
+
+If you publish your own MCP server, use the [MCP directories](#mcp-directories) and [GitHub lists](#mcp-and-plugin-github-lists) and the [official registry publishing guide](https://modelcontextprotocol.io/registry/quickstart).
+
+---
+
+## Keyword Research and Competitors
 
 - [Google Trends](https://trends.google.com/trends/) - Explore interest by topic, location and time.
 - [Ahrefs](https://ahrefs.com/) - Keyword, competitor and backlink research.
@@ -49,7 +113,6 @@ Choose tools around measurement, research and technical work.
 
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Crawl pages to inspect technical SEO issues.
 - [DataForSEO](https://dataforseo.com/) - SEO data APIs for repeatable research workflows.
-- [OpenSEO](https://github.com/every-app/open-seo) - Self-hosted keyword research, rank tracking, competitor insights, backlinks, site audits and AI visibility; includes an MCP server and agent skills. Requires a DataForSEO API key and paid usage; [MCP setup](https://openseo.so/docs/mcp).
 - [Index My Site](https://indexmysite.app/) - Bulk URL submissions and indexing-job tracking. Indexing is Google's decision.
 
 <details>
@@ -534,49 +597,9 @@ For launches and placements, use the [unique destination groups](#backlink-oppor
 
 ---
 
-## SEO MCP Servers
-
-MCP lets an assistant use connected tools and data. These **six integrations** cover search performance, analytics, SEO data and page research. Provider documentation was reviewed on 11 October 2026; the servers have not been installed or tested here. Official and community projects are labelled separately.
-
-<details>
-<summary><strong>Search Performance and Measurement</strong> — 2 resources</summary>
-
-- [Google Search Console MCP](https://github.com/AminForou/mcp-gsc) - **Community.** Analyze queries, clicks, impressions and URL indexing; the server also includes property and sitemap management tools. Google credentials and access to the relevant Search Console property.
-- [Google Analytics MCP](https://github.com/googleanalytics/google-analytics-mcp) - **Official / experimental.** Read Analytics account and property information and run reports to investigate traffic and outcomes. Google credentials and access to the relevant Analytics property.
-
-</details>
-
-<details>
-<summary><strong>Keyword, Competitor and Backlink Research</strong> — 2 resources</summary>
-
-- [Ahrefs MCP](https://docs.ahrefs.com/en/mcp/docs/introduction) - **Official.** Connect Ahrefs research data to an MCP-compatible assistant. An eligible Ahrefs plan (Lite or higher) and available API units.
-- [DataForSEO MCP](https://github.com/dataforseo/mcp-server-typescript) - **Official.** Use DataForSEO APIs for SERP, keyword, backlink and on-page research. The current v3 server exposes API discovery and request tools. DataForSEO API access; usage is billed through the provider.
-
-</details>
-
-<details>
-<summary><strong>Page Research and Content Extraction</strong> — 1 resource</summary>
-
-- [Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server) - **Official.** Search, fetch and crawl web pages; useful for collecting competitor-page content for analysis. Firecrawl cloud authentication or a configured self-hosted service.
-
-</details>
-
-Start with Search Console to investigate your own pages, add Analytics for traffic and outcomes, and use a research provider when you need external search or backlink data. Review the permissions exposed by each server before connecting an account.
-
-<details>
-<summary><strong>Indexing Job Automation</strong> — 1 resource</summary>
-
-- [Index My Site MCP](https://indexmysite.app/docs/mcp) - **Official.** Submit URLs, list jobs and check indexing results and credit balances. Requires an account and credits for submissions; indexing remains Google's decision.
-
-</details>
-
-If you publish your own MCP server, use the [MCP directories](#mcp-directories) and [GitHub lists](#mcp-and-plugin-github-lists) and the [official registry publishing guide](https://modelcontextprotocol.io/registry/quickstart).
-
----
-
 ## Automation and Skills
 
-Use the [SEO MCP servers](#seo-mcp-servers) for connected research and measurement. [Bing Webmaster API documentation](https://learn.microsoft.com/en-us/bingwebmaster/) covers registered-site search and indexing data.
+Use the [websites, tools, repositories and reusable skills index](#seo-websites-tools-skills-and-github-repos) for implementations, or the [SEO MCP servers](#seo-mcp-servers) for connected data.
 
 <details>
 <summary><strong>AI-Assisted SEO Workflow</strong> - 1 article</summary>

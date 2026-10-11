@@ -2527,5 +2527,62 @@
       "guide_display": "Distilled practical advice, without a standalone article link.",
       "content_basis": "Complete user-supplied Markdown article read from the local Downloads copy of Pasted markdown(5).md."
     }
-  ]
+  ],
+  "implementation_index": {
+    "section": "SEO Websites, Tools, Skills and GitHub Repos",
+    "scope": "Reviewed SEO resources from the bookmark export, supplied articles and their primary documentation; submission directories kept separately.",
+    "checked_on": "2026-10-11",
+    "tool_records": "tools",
+    "mcp_records": "mcp_servers",
+    "repositories": [
+      {
+        "name": "OpenSEO",
+        "url": "https://github.com/every-app/open-seo",
+        "related_source_rows": [
+          55
+        ],
+        "documentation_reviewed": true,
+        "runtime_tested": false
+      },
+      {
+        "name": "Jev SEO",
+        "url": "https://github.com/AgriciDaniel/jev-seo",
+        "basis": "Named in the supplied Nicholas Dulait article; upstream README reviewed directly.",
+        "requirements": "Local Python and report-rendering dependencies; TypeSafe API for judgments; optional paid DataForSEO research.",
+        "documentation_reviewed": true,
+        "runtime_tested": false
+      }
+    ],
+    "skills": [
+      {
+        "name": "OpenSEO Agent Skills",
+        "url": "https://openseo.so/docs/skills/setup",
+        "source_url": "https://github.com/every-app/open-seo/tree/main/plugins/openseo/skills",
+        "requirements": "OpenSEO MCP connection",
+        "inspected_example": "plugins/openseo/skills/keyword-research/SKILL.md",
+        "runtime_tested": false
+      },
+      {
+        "name": "Jev SEO skill",
+        "url": "https://github.com/AgriciDaniel/jev-seo/blob/main/SKILL.md",
+        "requirements": "Jev SEO repo and API/dependency setup",
+        "review_basis": "Upstream README documents skill workflow; installation not tested.",
+        "runtime_tested": false
+      }
+    ],
+    "websites": [
+      {
+        "name": "Google Search Central",
+        "url": "https://developers.google.com/search/docs"
+      },
+      {
+        "name": "Schema Markup Validator",
+        "url": "https://validator.schema.org/"
+      },
+      {
+        "name": "Bing Webmaster API documentation",
+        "url": "https://learn.microsoft.com/en-us/bingwebmaster/"
+      }
+    ]
+  }
 }
