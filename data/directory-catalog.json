@@ -1,0 +1,3007 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-10-11",
+  "scope": "Destinations named in SEO submission and backlink prospect posts.",
+  "verification_scope": "Primary websites, provider documentation and support pages were checked. An opened primary reference does not verify submission acceptance, price, backlink attributes or DR effects. Some homepages were unreadable even when provider guidance was accessible.",
+  "source_lists": [
+    {
+      "id": "mcp-saas-submissions",
+      "export_row": 40,
+      "source_url": "https://x.com/attenisalluneed/status/2106029974105043227",
+      "source_basis": "Exported note_tweet_text and full text supplied by the user.",
+      "original_entries": 38,
+      "unique_names": 38,
+      "entries": [
+        {
+          "name": "Official MCP Registry",
+          "group": "MCP directories",
+          "url": "https://registry.modelcontextprotocol.io/",
+          "status": "verified",
+          "description": "Official catalog for discovering Model Context Protocol servers.",
+          "note": "For actual MCP servers; check official publishing requirements before submitting.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://registry.modelcontextprotocol.io/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 1
+        },
+        {
+          "name": "Glama",
+          "group": "MCP directories",
+          "url": "https://glama.ai/mcp/servers",
+          "status": "verified",
+          "description": "Searchable MCP server registry with server metadata and categories.",
+          "note": "Use the MCP server directory; listing acceptance and link attributes were not audited.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://glama.ai/mcp/servers"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 2
+        },
+        {
+          "name": "MCP Servers",
+          "group": "MCP directories",
+          "url": "https://mcpservers.org/",
+          "status": "verified",
+          "description": "Curated collection of Model Context Protocol servers.",
+          "note": "The MCP Servers brand at mcpservers.org matches the supplied destination; review current submission rules.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://mcpservers.org/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 3
+        },
+        {
+          "name": "AllMCPs",
+          "group": "MCP directories",
+          "url": "https://allmcps.com/",
+          "status": "verified",
+          "description": "Directory for discovering MCP servers and inspecting their connection metadata.",
+          "note": "The primary site exposes Submit a server; no server was installed or executed.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://allmcps.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 4
+        },
+        {
+          "name": "MCP Market",
+          "group": "MCP directories",
+          "url": "https://mcpmarket.com/",
+          "status": "verified",
+          "description": "Catalog of MCP servers and agent skills.",
+          "note": "Choose the relevant server or skill listing format; submission acceptance was not tested.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://mcpmarket.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 5
+        },
+        {
+          "name": "MCP Directory",
+          "group": "MCP directories",
+          "url": "https://mcp.directory/",
+          "status": "verified",
+          "description": "MCP server and skill directory.",
+          "note": "Primary site exposes separate Submit Server and Submit Skill routes; review eligibility and terms.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://mcp.directory/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 6
+        },
+        {
+          "name": "MCP Repository",
+          "group": "MCP directories",
+          "url": "https://mcprepository.com/",
+          "status": "verified",
+          "description": "Searchable repository and category directory for MCP servers.",
+          "note": "Primary site has a Submit route; this is MCPRepository, rather than a generic code repository.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://mcprepository.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 7
+        },
+        {
+          "name": "TensorBlock MCP",
+          "group": "MCP directories",
+          "url": "https://www.tensorblock.co/mcp",
+          "status": "verified",
+          "description": "TensorBlock's community MCP index, backed by its awesome-mcp-servers repository.",
+          "note": "The maintained repository confirms this index route. The frontend opened but yielded no text; category additions or issue forms are reviewed before merge.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.tensorblock.co/mcp",
+            "https://github.com/TensorBlock/awesome-mcp-servers"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 8
+        },
+        {
+          "name": "AI Indigo",
+          "group": "MCP directories",
+          "url": "https://aiindigo.com/mcp-servers",
+          "status": "verified",
+          "description": "MCP server section of AI Indigo's broader AI tools directory.",
+          "note": "The homepage links this MCP route and Submit a Tool. The MCP page currently renders its catalog on the client.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://aiindigo.com/",
+            "https://aiindigo.com/mcp-servers"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 9
+        },
+        {
+          "name": "MCP So",
+          "group": "MCP directories",
+          "url": "https://mcp.so/",
+          "status": "verified",
+          "description": "MCP server, client and AI tool directory.",
+          "note": "Preserves the supplied name; the primary site's brand is MCP.so. Check current listing requirements.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://mcp.so/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 10
+        },
+        {
+          "name": "awesome remote mcp servers",
+          "group": "GitHub lists",
+          "url": null,
+          "status": "unresolved",
+          "description": "Generic label matching several independent remote MCP server lists.",
+          "note": "Owner is absent from the supplied name. jaw9c, punkpeye, and sylviangth each have a matching repository, so no unique URL is assigned. jaw9c's contribution guide requires official support, production readiness, maintenance and security.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://github.com/jaw9c/awesome-remote-mcp-servers",
+            "https://github.com/sylviangth/awesome-remote-mcp-servers",
+            "https://github.com/punkpeye/awesome-remote-mcp-servers",
+            "https://github.com/jaw9c/awesome-remote-mcp-servers/blob/main/CONTRIBUTING.md"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 1,
+          "candidates": [
+            {
+              "name": "jaw9c/awesome-remote-mcp-servers",
+              "url": "https://github.com/jaw9c/awesome-remote-mcp-servers",
+              "status": "verified"
+            },
+            {
+              "name": "punkpeye/awesome-remote-mcp-servers",
+              "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
+              "status": "verified"
+            },
+            {
+              "name": "sylviangth/awesome-remote-mcp-servers",
+              "url": "https://github.com/sylviangth/awesome-remote-mcp-servers",
+              "status": "verified"
+            }
+          ]
+        },
+        {
+          "name": "awesome mcp list",
+          "group": "GitHub lists",
+          "url": null,
+          "status": "unresolved",
+          "description": "Generic MCP list name; MobinX has a matching repository and notedit is another indexed candidate.",
+          "note": "No owner is specified. MobinX's README and CONTRIBUTING were opened; it requires a real MCP server and a public GitHub repository. notedit's primary page and raw README could not be fetched, so that historical candidate is not verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://github.com/MobinX/awesome-mcp-list",
+            "https://github.com/MobinX/awesome-mcp-list/blob/main/CONTRIBUTING.md",
+            "https://github.com/notedit/awesome-mcp-list"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 2,
+          "candidates": [
+            {
+              "name": "MobinX/awesome-mcp-list",
+              "url": "https://github.com/MobinX/awesome-mcp-list",
+              "status": "verified"
+            },
+            {
+              "name": "notedit/awesome-mcp-list",
+              "url": "https://github.com/notedit/awesome-mcp-list",
+              "status": "unresolved",
+              "note": "Indexed historical candidate; primary page could not be fetched."
+            }
+          ]
+        },
+        {
+          "name": "awesome mcp lists",
+          "group": "GitHub lists",
+          "url": "https://github.com/collabnix/awesome-mcp-lists",
+          "status": "verified",
+          "description": "Curated MCP server, client and toolkit list.",
+          "note": "collabnix has the clear exact plural slug match; the supplied name does not name an owner. README asks contributors to read the contribution guidelines before suggesting changes.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://github.com/collabnix/awesome-mcp-lists"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 3
+        },
+        {
+          "name": "toolsdk mcp registry",
+          "group": "GitHub lists",
+          "url": "https://github.com/toolsdk-ai/toolsdk-mcp-registry",
+          "status": "verified",
+          "description": "ToolSDK's structured MCP server registry and gateway project.",
+          "note": "README describes server submissions as focused JSON pull requests. The separate contribution page returned a fetch error; use the current repository instructions.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://github.com/toolsdk-ai/toolsdk-mcp-registry",
+            "https://github.com/toolsdk-ai/toolsdk-mcp-registry/blob/main/docs/CONTRIBUTING.md"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 4
+        },
+        {
+          "name": "xAI plugin marketplace",
+          "group": "GitHub lists",
+          "url": "https://github.com/xai-org/plugin-marketplace",
+          "status": "verified",
+          "description": "Official xAI plugin catalog for Grok Build.",
+          "note": "For compatible plugins that may bundle skills, commands, agents, hooks or MCP configurations; this is not a general startup directory. README opened; CONTRIBUTING fetch failed.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://github.com/xai-org/plugin-marketplace",
+            "https://github.com/xai-org/plugin-marketplace/blob/main/CONTRIBUTING.md"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 5
+        },
+        {
+          "name": "Product Hunt",
+          "group": "SaaS and launch sites",
+          "url": "https://www.producthunt.com/",
+          "status": "verified",
+          "description": "Technology product discovery and launch community.",
+          "note": "Use for a launch-ready technology product; review current launch guide and submission rules.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.producthunt.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 1
+        },
+        {
+          "name": "AlternativeTo",
+          "group": "SaaS and launch sites",
+          "url": "https://alternativeto.net/",
+          "status": "verified",
+          "description": "Crowdsourced software recommendations and alternatives directory.",
+          "note": "Fit depends on being a software app or service with relevant alternatives; a listing is not guaranteed.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://alternativeto.net/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 2
+        },
+        {
+          "name": "Better Launch",
+          "group": "SaaS and launch sites",
+          "url": "https://www.betterlaunch.co/",
+          "status": "verified",
+          "description": "Product discovery and launch platform for founders.",
+          "note": "Submission plans and link conditions vary; do not treat homepage marketing as proof of universal free or followed links.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.betterlaunch.co/",
+            "https://www.betterlaunch.co/pricing"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 3
+        },
+        {
+          "name": "DanielLaunches",
+          "group": "SaaS and launch sites",
+          "url": "https://daniellaunches.com/",
+          "status": "verified",
+          "description": "Platform for discovering and launching useful products.",
+          "note": "Primary brand and launch catalog match the supplied name; review current listing terms.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://daniellaunches.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 4
+        },
+        {
+          "name": "IndieTool",
+          "group": "SaaS and launch sites",
+          "url": "https://www.indietool.io/",
+          "status": "verified",
+          "description": "Directory and launchpad for products built by indie founders.",
+          "note": "Use for an indie product that fits its categories; current listing fees and conditions need checking.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.indietool.io/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 5
+        },
+        {
+          "name": "Tinyshelf",
+          "group": "SaaS and launch sites",
+          "url": "https://www.tinyshelf.co/",
+          "status": "verified",
+          "description": "Curated software directory with categories and tags.",
+          "note": "Primary site's brand is TinyShelf and it reviews listings before they go live; distinct from similarly named book or digital-store apps.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.tinyshelf.co/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 6
+        },
+        {
+          "name": "Stork",
+          "group": "SaaS and launch sites",
+          "url": "https://www.stork.ai/browse",
+          "status": "verified",
+          "description": "Stork's directory of AI tools, agents and MCP-related products.",
+          "note": "Use the directory route: the current homepage promotes Stork Wire. The separate submission page currently describes a one-time paid listing; review terms before submitting.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.stork.ai/browse",
+            "https://www.stork.ai/submit",
+            "https://www.stork.ai/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 7
+        },
+        {
+          "name": "Findly",
+          "group": "SaaS and launch sites",
+          "url": "https://findly.tools/",
+          "status": "verified",
+          "description": "Curated SaaS and tools directory for makers.",
+          "note": "Resolves to Findly.tools in this directory context, rather than similarly named analytics or job-search products; check submission requirements.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://findly.tools/",
+            "https://findly.tools/about"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 8
+        },
+        {
+          "name": "Twelve Tools",
+          "group": "SaaS and launch sites",
+          "url": "https://twelve.tools/",
+          "status": "verified",
+          "description": "Daily curated directory of tools and startups.",
+          "note": "The primary site has Submit your Tool and Pricing routes; distinct from twelve-tools.com. Current terms and link treatment need review.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://twelve.tools/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 9
+        },
+        {
+          "name": "Turbo0",
+          "group": "SaaS and launch sites",
+          "url": "https://turbo0.com/",
+          "status": "verified",
+          "description": "Directory of tools and products, with an emphasis on content creation.",
+          "note": "Review its categories and submission rules for product fit.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://turbo0.com/",
+            "https://turbo0.com/category"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 10
+        },
+        {
+          "name": "Noonlaunch",
+          "group": "SaaS and launch sites",
+          "url": "https://noonlaunch.com/",
+          "status": "verified",
+          "description": "Product launch boards and startup directory.",
+          "note": "The primary site has Submit product and Pricing routes; no permanence, link attribute or ranking outcome is guaranteed by this verification.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://noonlaunch.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 11
+        },
+        {
+          "name": "LaunchPanda",
+          "group": "SaaS and launch sites",
+          "url": "https://www.launchpanda.dev/",
+          "status": "verified",
+          "description": "Product launch community and directory submission workflow.",
+          "note": "Resolves to launchpanda.dev, rather than similarly named businesses; distinguish its own launch listing from broader submission services.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.launchpanda.dev/",
+            "https://www.launchpanda.dev/about-us"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 12
+        },
+        {
+          "name": "Launch Streak",
+          "group": "SaaS and launch sites",
+          "url": "https://launchstreak.dev/",
+          "status": "verified",
+          "description": "Maker product launches and recurring builder activity.",
+          "note": "Primary brand and builder directory match the supplied name; review current submission terms.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://launchstreak.dev/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 13
+        },
+        {
+          "name": "ScrollLaunch",
+          "group": "SaaS and launch sites",
+          "url": "https://www.scrolllaunch.com/",
+          "status": "verified",
+          "description": "Weekly product launches and startup directory.",
+          "note": "Primary site matches the name; review current launch and listing terms before submitting.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.scrolllaunch.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 14
+        },
+        {
+          "name": "ConfettiSaaS",
+          "group": "SaaS and launch sites",
+          "url": "https://confettisaas.com/",
+          "status": "verified",
+          "description": "Directory for SaaS startups and founders.",
+          "note": "This is confettisaas.com, rather than the similarly named .pro product. Submission or sponsorship conditions should be checked.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://confettisaas.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 15
+        },
+        {
+          "name": "AI Directories",
+          "group": "SaaS and launch sites",
+          "url": "https://www.aidirectori.es/",
+          "status": "verified",
+          "description": "AI tool catalog and service for submissions to other directories.",
+          "note": "Correct domain is aidirectori.es with the www host. Distinguish its own catalog listing from its directory-submission service; no promised SEO outcome is endorsed.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.aidirectori.es/",
+            "https://www.aidirectori.es/developers/docs/introduction",
+            "https://www.aidirectori.es/developers/docs/partners"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 16
+        },
+        {
+          "name": "Launch Llama",
+          "group": "SaaS and launch sites",
+          "url": "https://tools.launchllama.co/",
+          "status": "verified",
+          "description": "Curated startup and tool launch directory.",
+          "note": "The tools subdomain is the actual listing directory. Submission and editorial newsletter selection are separate; current plans and review rules vary.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://tools.launchllama.co/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 17
+        },
+        {
+          "name": "Acid Tools",
+          "group": "SaaS and launch sites",
+          "url": "https://acidtools.com/",
+          "status": "verified",
+          "description": "AI tools directory focused on automation, writing, design and productivity.",
+          "note": "Review category fit and current submission terms for an AI or productivity tool.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://acidtools.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 18
+        },
+        {
+          "name": "Claude Code plugin directory",
+          "group": "Agents and AI search",
+          "url": "https://claude.com/marketplace/plugins",
+          "status": "verified",
+          "description": "Anthropic's plugin marketplace with a Claude Code compatibility filter.",
+          "note": "The official GitHub directory points to publishing documentation. Current submissions use the developer portal, require an eligible account/role, and undergo review; use an actual plugin bundle or MCP connector.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://claude.com/marketplace/plugins",
+            "https://github.com/anthropics/claude-plugins-official",
+            "https://claude.com/docs/directory/publish"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 1
+        },
+        {
+          "name": "ClawHub",
+          "group": "Agents and AI search",
+          "url": "https://clawhub.ai/",
+          "status": "verified",
+          "description": "OpenClaw skill and plugin registry.",
+          "note": "For actual OpenClaw skills and packages with supported structure and metadata, rather than generic product marketing; no packages were installed.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://clawhub.ai/",
+            "https://github.com/openclaw/clawhub"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 2
+        },
+        {
+          "name": "Public APIs",
+          "group": "Agents and AI search",
+          "url": "https://github.com/public-apis/public-apis",
+          "status": "verified",
+          "description": "Community list of public APIs and a separate MCP server section.",
+          "note": "Contribution rules require an API to provide full access or a free tier without a prerequisite device/service purchase; marketing-only pull requests are rejected. MCP entries use their own auth, transport and install format.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://github.com/public-apis/public-apis",
+            "https://github.com/public-apis/public-apis/blob/master/CONTRIBUTING.md"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 3
+        },
+        {
+          "name": "llms txt Hub",
+          "group": "Agents and AI search",
+          "url": "https://llmstxthub.com/",
+          "status": "verified",
+          "description": "Directory of AI-ready documentation and websites implementing llms.txt.",
+          "note": "An actual llms.txt implementation is the relevant fit; Add Your llms.txt redirects to sign-in. A listing does not prove AI crawlers will use the file.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://llmstxthub.com/",
+            "https://llmstxthub.com/submit"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 4
+        },
+        {
+          "name": "llms txt Site",
+          "group": "Agents and AI search",
+          "url": "https://llmstxt.site/",
+          "status": "verified",
+          "description": "Directory of llms.txt file locations and related file statistics.",
+          "note": "The submission form requests a website URL and llms.txt URL, with an optional llms-full.txt URL. A listing does not imply AI citations or ranking changes.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://llmstxt.site/",
+            "https://llmstxt.site/submit"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "group_position": 5
+        }
+      ]
+    },
+    {
+      "id": "startup-backlink-prospects",
+      "export_row": 94,
+      "source_url": "https://x.com/hridoyreh/status/2079831605863178416",
+      "source_basis": "Exported note_tweet_text; repeated names grouped with every original position preserved.",
+      "secondary_name_reference_url": "https://github.com/hridoyreh/launch-startups",
+      "original_entries": 127,
+      "unique_names": 122,
+      "entries": [
+        {
+          "name": "500px",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://500px.com/",
+          "status": "verified",
+          "description": "Photography community for portfolios and original images; relevant mainly to photographers and visual creators.",
+          "note": "Official support says featured photographers are selected by the content team and feature requests are not accepted. A general software or SEO repository is outside the platform's core purpose.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://500px.com/",
+            "https://support.500px.com/hc/en-us/articles/222598788-Featured-Photographers"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            89
+          ]
+        },
+        {
+          "name": "Affiliate Watch",
+          "group": "Software Reviews and Deals",
+          "url": "https://affiliate.watch/",
+          "status": "identity_verified_access_blocked",
+          "description": "Affiliate-program discovery directory with program reviews and comparison information.",
+          "note": "Official indexed pages confirm the identity, but the homepage, Chinese homepage and a program page returned no readable content in the reader. Relevant to businesses with an affiliate program; the current submission route was not verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://affiliate.watch/",
+            "https://affiliate.watch/zh",
+            "https://affiliate.watch/affiliate/sendinblue"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            114
+          ]
+        },
+        {
+          "name": "AI Agent Store",
+          "group": "AI Product Directories",
+          "url": "https://aiagentstore.ai/",
+          "status": "verified",
+          "description": "AI-agent marketplace and discovery directory for agents, tools, frameworks and related products.",
+          "note": "The primary site provides a List My AI Agent route. Fit depends on an actual AI-agent offering; listing terms and eligibility must be checked.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://aiagentstore.ai/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            97
+          ]
+        },
+        {
+          "name": "AI Parabellum",
+          "group": "AI Product Directories",
+          "url": "https://aiparabellum.com/",
+          "status": "verified",
+          "description": "Curated AI-tool directory with a product submission and dedicated tool-review page model.",
+          "note": "The official submission page offers paid listing plans and an eligibility check. Review, placement and any advertised SEO outcomes should be evaluated separately.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://aiparabellum.com/submit-your-ai-tool/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            117
+          ]
+        },
+        {
+          "name": "AI Tool Trek",
+          "group": "AI Product Directories",
+          "url": "https://aitooltrek.com/",
+          "status": "verified",
+          "description": "AI-tool discovery directory with a dedicated tool-submission workflow.",
+          "note": "Use for an actual AI product. The submission page has multiple plans; check current terms and eligibility rather than assuming a listing or link outcome.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://aitooltrek.com/submit"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            119
+          ]
+        },
+        {
+          "name": "AIxploria",
+          "group": "AI Product Directories",
+          "url": "https://www.aixploria.com/en/",
+          "status": "verified",
+          "description": "AI-tool directory with categorized discovery, rankings and related editorial resources.",
+          "note": "The official contact page links to AI-tool submission and advertising routes. Use aixploria.com; similarly spelled aixplorla.com also appeared in search and was not treated as this destination.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.aixploria.com/en/contact/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            113
+          ]
+        },
+        {
+          "name": "Altern",
+          "group": "AI Product Directories",
+          "url": "https://altern.ai/",
+          "status": "verified",
+          "description": "Discovery platform for AI tools, models, agents and other AI ecosystem products.",
+          "note": "The official help page confirms the platform's AI scope. Match the offering to its AI categories and check the current addition and review process.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://altern.ai/help/what-is"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            98
+          ]
+        },
+        {
+          "name": "Alternative Me",
+          "group": "Software Reviews and Deals",
+          "url": "https://alternative.me/",
+          "status": "verified",
+          "description": "Software and product alternative-comparison platform with reviews and recommendations.",
+          "note": "The current primary brand is Alternative.me. Best fit is a real software product with meaningful comparable alternatives; submission acceptance and link properties were not verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://alternative.me/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            17
+          ]
+        },
+        {
+          "name": "AlternativeTo",
+          "group": "Software Reviews and Deals",
+          "url": "https://alternativeto.net/",
+          "status": "verified",
+          "description": "Crowdsourced software recommendations and alternative-product listings.",
+          "note": "Fit is useful software with accurate categories and comparisons. A general promotional page or knowledge repository is not automatically eligible as a software listing.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://alternativeto.net/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            6
+          ]
+        },
+        {
+          "name": "API List",
+          "group": "Developer and Open-Source Products",
+          "url": "https://apilist.fun/",
+          "status": "verified",
+          "description": "Categorized API directory for developers, with an Add API route.",
+          "note": "The primary site identifies apilayer as its operator. Relevant to a usable API offering; a general SaaS or SEO resource without an API does not match the directory's core purpose.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://apilist.fun/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            47
+          ]
+        },
+        {
+          "name": "Appscribed",
+          "group": "AI Product Directories",
+          "url": "https://appscribed.com/",
+          "status": "verified",
+          "description": "AI-tool directory combining product listings with hand-written editorial reviews.",
+          "note": "Its official AI-tool submission page offers paid plans and editorial review. This is a product review/listing service, not evidence of an open guest-post opportunity.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://appscribed.com/submit-ai-tool/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            108
+          ]
+        },
+        {
+          "name": "AppSumo",
+          "group": "Software Reviews and Deals",
+          "url": "https://appsumo.com/",
+          "status": "verified",
+          "description": "Commercial marketplace for software and digital-product deals, with customer reviews.",
+          "note": "Fit is a viable product offer through AppSumo's seller or partner process. An older official selling explainer was checked, but it does not establish today's seller terms or acceptance.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://appsumo.com/",
+            "https://appsumo.com/blog/selling-on-appsumo"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            58
+          ]
+        },
+        {
+          "name": "AppSumo Blog",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://appsumo.com/blog",
+          "status": "verified",
+          "description": "AppSumo's business and marketing publication, including partner case studies and success stories.",
+          "note": "The current primary blog is under appsumo.com/blog; blog.appsumo.com failed in the reader. Editorial content is distinct from an AppSumo product listing; guest-contribution acceptance was not verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://appsumo.com/blog",
+            "https://blog.appsumo.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            80
+          ]
+        },
+        {
+          "name": "Aura Plus Plus",
+          "group": "SaaS and Startup Launches",
+          "url": "https://auraplusplus.com/",
+          "status": "verified",
+          "description": "Aura++ is a startup and product launch platform with project pages, community votes and scheduled launches.",
+          "note": "The source name is preserved; the current primary brand is Aura++. Its homepage provides Submit Project and pricing routes, whose requirements should be checked for the actual product.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://auraplusplus.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            84
+          ]
+        },
+        {
+          "name": "Beehiiv",
+          "group": "Communities and Publishing",
+          "url": "https://www.beehiiv.com/",
+          "status": "verified",
+          "description": "Newsletter and website publishing platform for a brand's own content and audience.",
+          "note": "This is publishing infrastructure. Creating a publication is distinct from securing editorial coverage in another publisher's newsletter; crawlability and link value must be assessed on the actual published page.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.beehiiv.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            42
+          ]
+        },
+        {
+          "name": "BetaList",
+          "group": "SaaS and Startup Launches",
+          "url": "https://betalist.com/",
+          "status": "verified",
+          "description": "Early-stage startup discovery platform with a Submit startup route.",
+          "note": "Use for a relevant early-stage product or startup. Review, stage requirements and current submission terms need checking before treating it as a prospect.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://betalist.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            16
+          ]
+        },
+        {
+          "name": "Bootstrappers",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://bootstrappers.com/",
+          "status": "verified",
+          "description": "Publication featuring bootstrapped-founder interviews and practical startup stories.",
+          "note": "The primary homepage provides Tell us your story. Fit is a substantive bootstrapped-company story selected editorially, rather than a routine product-directory entry.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://bootstrappers.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            103
+          ]
+        },
+        {
+          "name": "Boring Cash Cow",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://boringcashcow.com/",
+          "status": "verified",
+          "description": "Curated profiles, showcases and interviews about simple profitable online businesses.",
+          "note": "Use a documented business story or interview pitch that fits its theme. An open listing-acceptance route was not verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://boringcashcow.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            61
+          ]
+        },
+        {
+          "name": "BotsFloor",
+          "group": "AI Product Directories",
+          "url": "https://botsfloor.com/",
+          "status": "verified",
+          "description": "The botsfloor.com destination currently presents BotStash, an AI-tool discovery directory.",
+          "note": "The historical source name is preserved while the current on-site brand is BotStash. The homepage has Submit Product; the /submit page failed in the reader, so current submission details remain unverified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://botsfloor.com/",
+            "https://botsfloor.com/submit"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            99
+          ]
+        },
+        {
+          "name": "Chrome Web Store",
+          "group": "Developer and Open-Source Products",
+          "url": "https://chromewebstore.google.com/",
+          "status": "verified",
+          "description": "Distribution store for actual Chrome extensions, with developer publishing and review workflows.",
+          "note": "The storefront redirected to an unsupported-browser page in the reader; Google's official publishing documentation opened. Fit requires an installable extension and compliance with the store's publishing requirements.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://chromewebstore.google.com/",
+            "https://developer.chrome.com/docs/webstore/publish"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            1
+          ]
+        },
+        {
+          "name": "Dan Recommends",
+          "group": "Software Reviews and Deals",
+          "url": "https://www.danrecommends.com/",
+          "status": "verified",
+          "description": "Human-written SaaS product-review service with published review pages.",
+          "note": "The official terms describe purchasing a review and state that positive reviews are not guaranteed. This is a review-service placement, not a generic launch-directory entry.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.danrecommends.com/terms"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            51
+          ]
+        },
+        {
+          "name": "Dealify",
+          "group": "Software Reviews and Deals",
+          "url": "https://dealify.com/",
+          "status": "verified",
+          "description": "Software lifetime-deal marketplace with a Sell on Dealify route.",
+          "note": "Fit is an actual product deal for its buyers. Commercial offer terms and vendor acceptance must be checked; this is not a general website submission directory.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://dealify.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            95
+          ]
+        },
+        {
+          "name": "DealMirror",
+          "group": "Software Reviews and Deals",
+          "url": "https://dealmirror.com/",
+          "status": "verified",
+          "description": "Marketplace for discounted software and lifetime product deals.",
+          "note": "Fit is a viable software offer. The homepage was verified, but a current vendor-submission or partnership workflow was not established.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://dealmirror.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            94
+          ]
+        },
+        {
+          "name": "DevHunt",
+          "group": "Developer and Open-Source Products",
+          "url": "https://devhunt.org/",
+          "status": "verified",
+          "description": "Launch and discovery platform focused on developer tools.",
+          "note": "Match the product to a developer audience. Current launch criteria, review and placement terms must be checked; a generic business site is a weaker fit.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://devhunt.org/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            32
+          ]
+        },
+        {
+          "name": "DevTo",
+          "group": "Communities and Publishing",
+          "url": "https://dev.to/",
+          "status": "verified",
+          "description": "DEV Community is a publishing and discussion community for software developers.",
+          "note": "The source name is preserved; the current primary brand is DEV Community. Fit is a useful technical article, tutorial or project write-up with contextual references, subject to community rules.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://dev.to/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            86
+          ]
+        },
+        {
+          "name": "EarlyHunt",
+          "group": "SaaS and Startup Launches",
+          "url": "https://earlyhunt.com/",
+          "status": "verified",
+          "description": "Weekly project-launch platform for new AI products and startups.",
+          "note": "The official pricing page sets plan-specific launch and badge requirements. Check the current plan terms and actual published page; do not infer SEO outcomes from advertised claims.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://earlyhunt.com/pricing"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            104
+          ]
+        },
+        {
+          "name": "Evernote",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://evernote.com/",
+          "status": "verified",
+          "description": "Note-taking and collaboration service; potential fit is sharing a genuinely useful resource.",
+          "note": "Its core purpose is personal and team notes rather than company listings. Public indexing, discoverability and backlink value of a shared note were not verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.evernote.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            45
+          ]
+        },
+        {
+          "name": "Failory",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://www.failory.com/",
+          "status": "verified",
+          "description": "Founder-focused publication and newsletter covering startup failures, successes and lessons.",
+          "note": "Fit is a substantive founder case study or startup lesson selected editorially. It is not an ordinary product-directory submission destination.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.failory.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            69
+          ]
+        },
+        {
+          "name": "Fandom",
+          "group": "Communities and Publishing",
+          "url": "https://www.fandom.com/",
+          "status": "verified",
+          "description": "Community-wiki publishing platform for topic-relevant reference and fan content.",
+          "note": "The main homepage was blocked, but official support and Community Central guidelines opened. Guidelines say not to spam one's own links; any reference must serve the wiki topic and community rules.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.fandom.com/",
+            "https://support.fandom.com/hc/en-us/articles/360021464133-I-have-a-problem-with-spam-or-a-scam-on-Fandom",
+            "https://community.fandom.com/wiki/Help:Community_guidelines"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            127
+          ]
+        },
+        {
+          "name": "Fazier",
+          "group": "SaaS and Startup Launches",
+          "url": "https://fazier.com/",
+          "status": "verified",
+          "description": "Product discovery and launch platform with a dedicated submission page.",
+          "note": "The primary /submit page opened successfully. Its plans have different review, timing and badge requirements; check the selected plan instead of assuming uniform listing terms.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://fazier.com/submit"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            68
+          ]
+        },
+        {
+          "name": "First Round Review",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://review.firstround.com/",
+          "status": "verified",
+          "description": "In-depth startup publication featuring founder and operator expertise, company stories and practical advice.",
+          "note": "Fit is a strong editorial story or useful operating expertise. No self-service product-listing or guaranteed contributor acceptance was verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://review.firstround.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            78
+          ]
+        },
+        {
+          "name": "Firsto",
+          "group": "SaaS and Startup Launches",
+          "url": "https://firsto.co/",
+          "status": "verified",
+          "description": "Product-launch platform for makers, indie hackers and startup founders.",
+          "note": "The similarly named firsto.app primary page explicitly links to firsto.co, resolving the domain ambiguity. The official About page offers product-launch and launch-plan routes.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://firsto.co/about",
+            "https://firsto.app/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            81
+          ]
+        },
+        {
+          "name": "Flickr",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://www.flickr.com/",
+          "status": "verified",
+          "description": "Photography community and image-sharing platform for real photo collections and creator profiles.",
+          "note": "Fit is relevant original or properly licensed visual content. It is not a general software-listing destination; public-page indexing and any link value were not verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.flickr.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            56
+          ]
+        },
+        {
+          "name": "Forbes",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://www.forbes.com/",
+          "status": "verified",
+          "description": "Business media publication; potential fit is a newsworthy story or relevant expert contribution.",
+          "note": "The reader followed an official tollbit.forbes.com redirect. This is a selective media prospect, not a self-service directory; no contributor acceptance or backlink outcome was verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.forbes.com/",
+            "https://tollbit.forbes.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            2
+          ]
+        },
+        {
+          "name": "Founder Reports",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://founderreports.com/",
+          "status": "verified",
+          "description": "Business publication with in-depth founder and CEO interviews, original research and editorial content.",
+          "note": "The official About page distinguishes its Founder Showcase and substantive interviews. Fit is a founder story or relevant research/expertise, rather than a routine product listing.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://founderreports.com/about/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            67
+          ]
+        },
+        {
+          "name": "FounderPass",
+          "group": "Software Reviews and Deals",
+          "url": "https://www.founderpass.com/",
+          "status": "verified",
+          "description": "Startup-perks and discount platform offering negotiated product deals to founders.",
+          "note": "Fit is a founder-focused discount or perk partnership. The primary homepage was verified, but no general self-service company-listing route was established.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.founderpass.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            87
+          ]
+        },
+        {
+          "name": "FoundrList",
+          "group": "SaaS and Startup Launches",
+          "url": "https://www.foundrlist.com/",
+          "status": "verified",
+          "description": "Founder network combining product launches, maker discovery and community features.",
+          "note": "The primary site provides Launch a Product. Match an actual product to its founder audience and check its launch and payment terms.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.foundrlist.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            46
+          ]
+        },
+        {
+          "name": "Futurepedia",
+          "group": "AI Product Directories",
+          "url": "https://www.futurepedia.io/",
+          "status": "verified",
+          "description": "AI-tool and software discovery platform with categorized product information.",
+          "note": "Fit is an actual AI tool. The homepage identity and purpose were verified; current vendor-submission eligibility and terms should be checked separately.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.futurepedia.io/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            76
+          ]
+        },
+        {
+          "name": "GIPHY",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://giphy.com/",
+          "status": "verified",
+          "description": "GIF and clip platform with brand and creator channels for owned visual content.",
+          "note": "Official brand-channel guidance requires content the applicant creates or owns and an application. A channel is a media asset, not a generic software directory; search inclusion and SEO value are separate questions.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://giphy.com/",
+            "https://support.giphy.com/hc/en-us/articles/360019977992-Apply-For-A-Brand-Channel"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            92
+          ]
+        },
+        {
+          "name": "GitHub",
+          "group": "Developer and Open-Source Products",
+          "url": "https://github.com/",
+          "status": "verified",
+          "description": "Code-hosting and collaboration platform for real projects, public repositories and documentation.",
+          "note": "Fit is an authentic software project or useful technical resource with contextual documentation. A repository or profile should not be presented as an automatic independent SEO endorsement.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://github.com/",
+            "https://github.com/hridoyreh/launch-startups"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            24
+          ]
+        },
+        {
+          "name": "GitHub Pages",
+          "group": "Developer and Open-Source Products",
+          "url": "https://pages.github.com/",
+          "status": "verified",
+          "description": "Website and project-documentation hosting directly from GitHub repositories.",
+          "note": "This publishes the owner's own site or documentation; it is distinct from an independent directory listing or editorial placement. Assess the actual page's public accessibility and relevance.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://pages.github.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            4
+          ]
+        },
+        {
+          "name": "GoodFirms",
+          "group": "Software Reviews and Deals",
+          "url": "https://www.goodfirms.co/",
+          "status": "verified",
+          "description": "B2B software and service-provider profiles, reviews, and category discovery.",
+          "note": "Use the business listing route for a relevant software vendor or service firm; confirm current eligibility and commercial terms.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.goodfirms.co/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            96
+          ]
+        },
+        {
+          "name": "GrowthMentor",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://www.growthmentor.com/",
+          "status": "verified",
+          "description": "Growth mentoring platform with expert profiles and a mentor application route.",
+          "note": "A fit for qualified mentors and their expertise, rather than an ordinary product directory. Homepage access failed; the official application was readable.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.growthmentor.com/",
+            "https://apply.growthmentor.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            48
+          ]
+        },
+        {
+          "name": "Gumroad",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://gumroad.com/",
+          "status": "verified",
+          "description": "Creator storefront and marketplace for selling products and sharing a creator business.",
+          "note": "Use a genuine storefront or relevant product offer; this is a commerce platform rather than a general startup directory.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://gumroad.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            102
+          ]
+        },
+        {
+          "name": "Hacker News",
+          "group": "Communities and Publishing",
+          "url": "https://news.ycombinator.com/",
+          "status": "verified",
+          "description": "Technology discussion community with regular submissions and Show HN project demonstrations.",
+          "note": "Show HN requires something users can try; reading lists, blog posts, and signup pages belong in regular submissions. Follow community submission rules.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://news.ycombinator.com/showhn.html"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            21
+          ]
+        },
+        {
+          "name": "HackerNoon",
+          "group": "Communities and Publishing",
+          "url": "https://hackernoon.com/",
+          "status": "verified",
+          "description": "Technology publication and contributor platform for useful articles and project stories.",
+          "note": "Article contribution or editorial coverage, rather than a standard product listing; check current publication and linking rules.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://hackernoon.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            31
+          ]
+        },
+        {
+          "name": "Hashnode",
+          "group": "Communities and Publishing",
+          "url": "https://hashnode.com/",
+          "status": "verified",
+          "description": "Blogging platform for developers and engineers to publish technical work.",
+          "note": "Best suited to useful technical articles and a credible author presence; assess publication rules before including promotional links.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://hashnode.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            73
+          ]
+        },
+        {
+          "name": "Imgur",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://imgur.com/",
+          "status": "verified",
+          "description": "Image-sharing community for entertaining and useful visual content.",
+          "note": "Use relevant visual contributions. Community rules prohibit spam; the homepage reader required JavaScript, but official guidance was readable.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://imgur.com/",
+            "https://help.imgur.com/hc/en-us/articles/26510699585691-Imgur-s-Community-Rules"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            26
+          ]
+        },
+        {
+          "name": "Indie Hackers",
+          "group": "Communities and Publishing",
+          "url": "https://www.indiehackers.com/",
+          "status": "verified",
+          "description": "Founder community with product discovery, startup discussions, and business case studies.",
+          "note": "Participate with useful context and founder experience; a community post is not a guaranteed directory placement.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.indiehackers.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            20
+          ]
+        },
+        {
+          "name": "Indie Page",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://indiepa.ge/",
+          "status": "verified",
+          "description": "Founder profile pages that showcase startup portfolios and entrepreneurial journeys.",
+          "note": "Appropriate for an authentic founder portfolio linking relevant startups; check the current account and profile requirements.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://indiepa.ge/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            10
+          ]
+        },
+        {
+          "name": "IndieHunt",
+          "group": "SaaS and Startup Launches",
+          "url": "https://indiehunt.io/",
+          "status": "verified",
+          "description": "Weekly launch platform for AI products and indie makers.",
+          "note": "Submit a relevant project through its launch route; verify current plan requirements and terms instead of assuming a particular link outcome.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://indiehunt.io/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            121
+          ]
+        },
+        {
+          "name": "KEN Moo",
+          "group": "Software Reviews and Deals",
+          "url": "https://kenmoo.me/",
+          "status": "verified",
+          "description": "SaaS lifetime-deal discovery, discussion, and software coverage.",
+          "note": "Potential fit for a suitable software deal or reviewed product; placement is different from an ordinary self-serve startup directory.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://kenmoo.me/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            123
+          ]
+        },
+        {
+          "name": "Latka",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://getlatka.com/add",
+          "status": "verified",
+          "description": "SaaS company database and founder interviews, with reviewed company-profile submissions.",
+          "note": "The company form requires a work email and review. A database submission may lead to interview consideration, but does not guarantee editorial coverage.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://getlatka.com/add"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            75
+          ]
+        },
+        {
+          "name": "Launch Directories",
+          "group": "SaaS and Startup Launches",
+          "url": null,
+          "status": "unresolved",
+          "description": "The source name may refer to a directory of launch destinations rather than a product listing site.",
+          "note": "The author's list supplies no URL. LaunchDirectories and launch.cab both match the name; the intended destination remains unclear.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://launchdirectories.com/",
+            "https://directories.launch.cab/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            33
+          ],
+          "candidates": [
+            {
+              "name": "LaunchDirectories",
+              "url": "https://launchdirectories.com/"
+            },
+            {
+              "name": "Launch Directories by launch.cab",
+              "url": "https://directories.launch.cab/"
+            }
+          ]
+        },
+        {
+          "name": "LaunchIgniter",
+          "group": "SaaS and Startup Launches",
+          "url": "https://launchigniter.com/",
+          "status": "verified",
+          "description": "Product launch platform for creators to showcase products and gather early-adopter feedback.",
+          "note": "The official about page describes a product submission workflow; check current submission requirements before applying.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://launchigniter.com/about"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            79
+          ]
+        },
+        {
+          "name": "LibHunt",
+          "group": "Developer and Open-Source Products",
+          "url": "https://www.libhunt.com/",
+          "status": "identity_verified_access_blocked",
+          "description": "Discovery of open-source projects, software libraries, and alternatives using developer-community mentions.",
+          "note": "Indexed primary pages confirm the identity and focus. Official about and search pages returned 403; current submission availability was not verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.libhunt.com/",
+            "https://www.libhunt.com/about",
+            "https://www.libhunt.com/search"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            110
+          ]
+        },
+        {
+          "name": "Medium",
+          "group": "Communities and Publishing",
+          "url": "https://medium.com/",
+          "status": "verified",
+          "description": "General publishing platform for author profiles, articles, and ideas.",
+          "note": "Use substantive writing with relevant context; publication policies and external-link treatment should be checked for the intended post.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://medium.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            19
+          ]
+        },
+        {
+          "name": "Micro Founder",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://microfounder.com/",
+          "status": "verified",
+          "description": "Curated solo-founder startup examples, revenue profiles, and founder Q&A.",
+          "note": "A fit for credible small internet-business stories. Some startup details require membership; no open product-submission route was verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://microfounder.com/startups"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            62
+          ]
+        },
+        {
+          "name": "Microlaunch",
+          "group": "SaaS and Startup Launches",
+          "url": "https://microlaunch.net/",
+          "status": "verified",
+          "description": "Startup launch and discovery platform with monthly product launches.",
+          "note": "Use the current product-launch process for a relevant startup and review its submission requirements and plans.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://microlaunch.net/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            34
+          ]
+        },
+        {
+          "name": "Mixergy",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://mixergy.com/",
+          "status": "verified",
+          "description": "Entrepreneur interviews, business podcast episodes, and startup courses.",
+          "note": "An editorial interview or story prospect; this is not a self-serve product directory and coverage depends on editorial selection.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://mixergy.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            72
+          ]
+        },
+        {
+          "name": "My First Million",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://www.mfmpod.com/",
+          "status": "verified",
+          "description": "Business-ideas podcast hosted by Shaan Puri and Sam Parr.",
+          "note": "Consider a relevant guest story or editorial mention. No self-serve product listing was verified, and coverage cannot be assumed.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.mfmpod.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            101
+          ]
+        },
+        {
+          "name": "Next Gen Tools",
+          "group": "AI Product Directories",
+          "url": null,
+          "status": "unresolved",
+          "description": "Several similarly named tool-discovery and launch sites match this source name.",
+          "note": "The author's list supplies no URL. nextgentools.co and NxGn Tools have readable primary pages; nextgentools.me timed out. The intended destination remains unclear.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://nextgentools.me/",
+            "https://www.nextgentools.co/",
+            "https://www.nxgntools.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            71
+          ],
+          "candidates": [
+            {
+              "name": "Next Gen Tools",
+              "url": "https://www.nextgentools.co/"
+            },
+            {
+              "name": "NxGn Tools",
+              "url": "https://www.nxgntools.com/"
+            }
+          ]
+        },
+        {
+          "name": "Niche Pursuits",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://www.nichepursuits.com/",
+          "status": "verified",
+          "description": "Online-business publication with SEO articles, founder success stories, and podcast interviews.",
+          "note": "Relevant business stories or expertise may fit its editorial coverage; inclusion is different from a routine product-directory submission.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.nichepursuits.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            54
+          ]
+        },
+        {
+          "name": "Open Tools",
+          "group": "AI Product Directories",
+          "url": "https://opentools.ai/",
+          "status": "verified",
+          "description": "AI tool directory with product discovery, comparisons, and tool or MCP launch options.",
+          "note": "A fit for relevant AI tools or MCP products; confirm current launch requirements and commercial terms.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://opentools.ai/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            126
+          ]
+        },
+        {
+          "name": "OpenAlternative",
+          "group": "Developer and Open-Source Products",
+          "url": "https://openalternative.co/",
+          "status": "verified",
+          "description": "Directory of open-source alternatives to proprietary software.",
+          "note": "The homepage includes a submission route; products need a genuine open-source fit and should meet its current criteria.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://openalternative.co/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            40
+          ]
+        },
+        {
+          "name": "OSS Gallery",
+          "group": "Developer and Open-Source Products",
+          "url": "https://oss.gallery/",
+          "status": "verified",
+          "description": "Crowdsourced gallery of open-source projects.",
+          "note": "Relevant to genuine open-source projects. The gallery and its official source repository were readable; check the current contribution process.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://oss.gallery/",
+            "https://github.com/dubinc/oss-gallery"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            15
+          ]
+        },
+        {
+          "name": "Patreon",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://www.patreon.com/",
+          "status": "verified",
+          "description": "Creator membership, community, and digital-product platform.",
+          "note": "Suitable for an actual creator offering or community; a Patreon page is not a generic software-directory listing.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.patreon.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            44
+          ]
+        },
+        {
+          "name": "Peerlist",
+          "group": "Developer and Open-Source Products",
+          "url": "https://peerlist.io/",
+          "status": "verified",
+          "description": "Professional builder network with portfolios and a Launchpad for projects.",
+          "note": "Show credible work through a builder profile or relevant project launch; review current Launchpad rules.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://peerlist.io/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            70
+          ]
+        },
+        {
+          "name": "PeerPush",
+          "group": "SaaS and Startup Launches",
+          "url": "https://peerpush.com/",
+          "status": "verified",
+          "description": "Product discovery platform for indie makers, startups, and technology products.",
+          "note": "Use a relevant product submission; confirm current requirements and terms. Its official about page was readable.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://peerpush.com/about"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            25
+          ]
+        },
+        {
+          "name": "Pinterest",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://www.pinterest.com/",
+          "status": "verified",
+          "description": "Visual discovery platform where Pins can connect useful images and ideas to websites.",
+          "note": "Use relevant original visual content. Official help confirms website links in Pins; the homepage fetch failed.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.pinterest.com/",
+            "https://help.pinterest.com/en/guide/all-about-pinterest"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            27
+          ]
+        },
+        {
+          "name": "PitchWall",
+          "group": "SaaS and Startup Launches",
+          "url": "https://pitchwall.co/",
+          "status": "verified",
+          "description": "Discovery platform for AI tools, SaaS products, and technology startups.",
+          "note": "Official FAQs describe accepted product categories and listing options; verify the current submission and visibility terms.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://pitchwall.co/pages/faqs"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            50
+          ]
+        },
+        {
+          "name": "Pixabay",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://pixabay.com/",
+          "status": "verified",
+          "description": "Media-sharing platform for images, videos, music, and other creative assets.",
+          "note": "Relevant for legitimate media contributions and creator presence, rather than ordinary SaaS listings; review upload and licensing requirements.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://pixabay.com/",
+            "https://pixabay.com/service/about/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            30
+          ]
+        },
+        {
+          "name": "Powerusers",
+          "group": "AI Product Directories",
+          "url": "https://powerusers.ai/",
+          "status": "verified",
+          "description": "AI tool directory and resource site with a Submit AI Tool route.",
+          "note": "Submit a relevant AI product and check the current listing criteria and terms.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://powerusers.ai/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            120
+          ]
+        },
+        {
+          "name": "Privacy Tools",
+          "group": "Developer and Open-Source Products",
+          "url": "https://privacytools.io/",
+          "status": "verified",
+          "description": "Privacy-focused software and service recommendations, alternatives, and app discovery.",
+          "note": "Suitable only when the product fits its privacy focus and criteria; no general self-serve startup listing was verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://privacytools.io/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            11
+          ]
+        },
+        {
+          "name": "Product Canyon",
+          "group": "Software Reviews and Deals",
+          "url": "https://productcanyon.com/",
+          "status": "verified",
+          "description": "Software marketplace featuring lifetime and subscription deals.",
+          "note": "A fit for a genuine software offer and marketplace partnership; deal placement is different from a standard directory listing.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://productcanyon.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            93
+          ]
+        },
+        {
+          "name": "Product Hunt",
+          "group": "SaaS and Startup Launches",
+          "url": "https://www.producthunt.com/",
+          "status": "verified",
+          "description": "Technology product discovery platform with launches, community discussion, and launch guidance.",
+          "note": "Use its current launch process for a relevant product; verify eligibility, timing, and submission rules.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.producthunt.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            7
+          ]
+        },
+        {
+          "name": "PromptZone",
+          "group": "Communities and Publishing",
+          "url": "https://www.promptzone.com/",
+          "status": "verified",
+          "description": "AI community for prompts, guides, discussion, and builder projects.",
+          "note": "The official about page identifies it as a community. Contribute relevant AI knowledge or projects rather than assuming a directory listing.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.promptzone.com/about-us"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            74
+          ]
+        },
+        {
+          "name": "Public APIs",
+          "group": "Developer and Open-Source Products",
+          "url": "https://github.com/public-apis/public-apis",
+          "status": "verified",
+          "description": "Community-maintained GitHub resource listing publicly available APIs.",
+          "note": "Relevant to an actual API that meets the repository's current contribution criteria; it is not a generic SaaS-product listing.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://github.com/public-apis/public-apis"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            125
+          ]
+        },
+        {
+          "name": "Quora",
+          "group": "Communities and Publishing",
+          "url": "https://www.quora.com/",
+          "status": "verified",
+          "description": "Question-and-answer platform for sharing useful knowledge and expertise.",
+          "note": "Promotional links must form part of a direct, helpful answer under its policies. The homepage was blocked, but official help was readable.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.quora.com/",
+            "https://help.quora.com/hc/en-us/articles/115004145066-What-is-Quora",
+            "https://help.quora.com/hc/en-us/articles/9456583756180-Question-and-Answer-Policies"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            38
+          ]
+        },
+        {
+          "name": "RankYourAI",
+          "group": "AI Product Directories",
+          "url": "https://rankyourai.com/",
+          "status": "verified",
+          "description": "AI tool directory with a product submission page.",
+          "note": "The checked submission page presents a paid featured listing. Recheck current terms and do not assume a specific search or link benefit.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://rankyourai.com/p/submit/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            115
+          ]
+        },
+        {
+          "name": "Reddit",
+          "group": "Communities and Publishing",
+          "url": "https://www.reddit.com/",
+          "status": "verified",
+          "description": "Topic-based discussion communities where relevant projects and knowledge can be shared.",
+          "note": "Follow each community's rules and Reddit's spam policy. Repetitive promotional posting is prohibited; community participation does not guarantee a link placement.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.reddit.com/",
+            "https://support.reddithelp.com/hc/en-us/articles/360043504051-Spam"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            37
+          ]
+        },
+        {
+          "name": "RocketHub",
+          "group": "Software Reviews and Deals",
+          "url": "https://www.rockethub.com/",
+          "status": "verified",
+          "description": "Curated lifetime software deals and startup-perk marketplace.",
+          "note": "The main site returned 403, but its official help center confirms the software-deal model. A suitable curated offer is required rather than an ordinary directory listing.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.rockethub.com/",
+            "https://rockethub.freshdesk.com/support/solutions/articles/72000081186-what-is-rockethub"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            60
+          ]
+        },
+        {
+          "name": "SaaS Club",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://saasclub.io/",
+          "status": "verified",
+          "description": "Founder interview publisher, newsletter and SaaS community.",
+          "note": "Shares an ecosystem with The SaaS Podcast. Founder or expert pitches require editorial fit; this is not an ordinary product-listing directory.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://saasclub.io/",
+            "https://saasclub.io/suggest/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            88
+          ]
+        },
+        {
+          "name": "SaaS Genius",
+          "group": "Software Reviews and Deals",
+          "url": "https://www.saasgenius.com/get-listed/",
+          "status": "verified",
+          "description": "Business software discovery and review catalogue with a vendor listing route.",
+          "note": "The old free-listing URL redirects to Get Listed. The current page offers paid listing services and excludes alpha/beta products; check eligibility and pricing.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.saasgenius.com/",
+            "https://www.saasgenius.com/free-listing/",
+            "https://www.saasgenius.com/get-listed/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            111
+          ]
+        },
+        {
+          "name": "SaaS Pirate",
+          "group": "Software Reviews and Deals",
+          "url": "https://saaspirate.com/submit-a-deal/",
+          "status": "verified",
+          "description": "Curated SaaS and software discounts and lifetime deals.",
+          "note": "Submit a real deal with its offer and destination URL. Deal verification is separate from editorial interviews or software reviews.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://saaspirate.com/",
+            "https://saaspirate.com/submit-a-deal/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            91
+          ]
+        },
+        {
+          "name": "SaaSHub",
+          "group": "Software Reviews and Deals",
+          "url": "https://www.saashub.com/services/submit",
+          "status": "verified",
+          "description": "Software alternatives and reviews directory with a product submission form.",
+          "note": "Submissions undergo approval. Unreleased products, waiting-list pages, development agencies, free-subdomain products and non-English products are excluded.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.saashub.com/services/submit"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            18
+          ],
+          "homepage_url": "https://www.saashub.com/"
+        },
+        {
+          "name": "SaaSZilla",
+          "group": "Software Reviews and Deals",
+          "url": "https://saaszilla.co/",
+          "status": "verified",
+          "description": "Curated software deal platform that selects products and teams for listings.",
+          "note": "Official deal documentation was readable; homepage and partnership-form retrieval failed. A deal partnership needs product and offer fit.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://saaszilla.co/",
+            "https://saaszilla.co/partnership/",
+            "https://saaszilla.co/docs/general-info/product-support-for-saaszilla-deals/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            63
+          ]
+        },
+        {
+          "name": "Scroll Launch",
+          "group": "SaaS and Startup Launches",
+          "url": "https://www.scrolllaunch.com/",
+          "status": "verified",
+          "description": "Weekly product launch platform for indie makers and SaaS founders.",
+          "note": "The www hostname opened successfully after the bare hostname failed. Listing and backlink conditions differ by plan; inspect current terms.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://scrolllaunch.com/",
+            "https://www.scrolllaunch.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            49
+          ]
+        },
+        {
+          "name": "SEO Wins",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://seowins.io/",
+          "status": "verified",
+          "description": "SEO and AI SEO strategies product and educational resource.",
+          "note": "This is the source author's SEO strategies business. No public product-submission directory or ordinary backlink-listing route was verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://seowins.io/",
+            "https://github.com/hridoyreh/launch-startups"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            13,
+            28,
+            55,
+            82,
+            107
+          ]
+        },
+        {
+          "name": "SEOFAI",
+          "group": "AI Product Directories",
+          "url": "https://seofai.com/",
+          "status": "verified",
+          "description": "AI tools directory organized by use cases and job roles.",
+          "note": "AI product fit matters. The official site exposes a Submit AI Tool route and separate advertising options; check current submission requirements.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://seofai.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            124
+          ]
+        },
+        {
+          "name": "Serchen",
+          "group": "Software Reviews and Deals",
+          "url": "https://www.serchen.com/get-listed",
+          "status": "verified",
+          "description": "Business software marketplace with company profiles and a listing route.",
+          "note": "Search for an existing company profile before creating a new listing. The current route supports claiming an existing profile.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.serchen.com/get-listed",
+            "https://www.serchen.com/about"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            105
+          ],
+          "homepage_url": "https://www.serchen.com/"
+        },
+        {
+          "name": "ShowMeBestAI",
+          "group": "AI Product Directories",
+          "url": "https://showmebest.ai/",
+          "status": "verified",
+          "description": "AI tools discovery directory with an explicit AI tool submission link.",
+          "note": "The primary domain is showmebest.ai. Submit an actual AI tool and inspect current eligibility and listing requirements.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://showmebest.ai/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            36
+          ]
+        },
+        {
+          "name": "SideProjectors",
+          "group": "SaaS and Startup Launches",
+          "url": "https://www.sideprojectors.com/",
+          "status": "verified",
+          "description": "Marketplace for showcasing, buying and selling side projects and finding co-founders.",
+          "note": "Choose a listing that reflects the real purpose: showcase, sale or co-founder search. Its marketplace fit differs from a general company directory.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.sideprojectors.com/about",
+            "https://www.sideprojectors.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            29
+          ]
+        },
+        {
+          "name": "SourceForge",
+          "group": "Developer and Open-Source Products",
+          "url": "https://sourceforge.net/",
+          "status": "verified",
+          "description": "Open-source project hosting and distribution platform with a separate B2B software catalogue.",
+          "note": "Choose the correct route for an actual open-source project or commercial software product; project hosting and vendor profiles serve different purposes.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://sourceforge.net/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            12
+          ]
+        },
+        {
+          "name": "Stacker News",
+          "group": "Communities and Publishing",
+          "url": "https://stacker.news/",
+          "status": "verified",
+          "description": "Community discussion and link-posting platform with Bitcoin-oriented participation economics.",
+          "note": "Posting costs and territory rules vary. Participate with relevant contributions and inspect the current FAQ before posting.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://stacker.news/",
+            "https://stacker.news/faq"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            112
+          ]
+        },
+        {
+          "name": "StackShare",
+          "group": "Developer and Open-Source Products",
+          "url": "https://stackshare.io/",
+          "status": "identity_verified_access_blocked",
+          "description": "Developer tool discovery and technology-stack sharing platform.",
+          "note": "Official tool and stack pages are indexed, but homepage and top-tools retrieval failed. Current submission and profile options remain unconfirmed.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://stackshare.io/",
+            "https://stackshare.io/tools/top",
+            "https://stackshare.io/companies/stackshare"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            41
+          ]
+        },
+        {
+          "name": "StackSocial",
+          "group": "Software Reviews and Deals",
+          "url": "https://www.stacksocial.com/",
+          "status": "identity_verified_access_blocked",
+          "description": "Commerce platform for software subscriptions, tech products and promotional deals.",
+          "note": "Official deal catalogue is indexed. Homepage and partner-contact retrieval failed, so current vendor partnership requirements were not verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.stacksocial.com/",
+            "https://partners.stacksocial.com/",
+            "https://partners.stacksocial.com/contact"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            122
+          ]
+        },
+        {
+          "name": "Starter Story",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://www.starterstory.com/share",
+          "status": "verified",
+          "description": "Entrepreneur interview and business case-study publisher.",
+          "note": "The Share Your Story route requests founder information after signup. A published interview is an editorial feature, not a standard product listing.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.starterstory.com/share",
+            "https://www.starterstory.com/about"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            53
+          ]
+        },
+        {
+          "name": "Startup Buffer",
+          "group": "SaaS and Startup Launches",
+          "url": "https://startupbuffer.com/",
+          "status": "verified",
+          "description": "Public startup directory organized by market, location, tags and related products.",
+          "note": "Fits a startup with a clear product and category. Check current profile submission rules before preparing a listing.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://startupbuffer.com/site/about",
+            "https://startupbuffer.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            57
+          ]
+        },
+        {
+          "name": "StartupBase",
+          "group": "SaaS and Startup Launches",
+          "url": "https://startupbase.io/",
+          "status": "verified",
+          "description": "Product launch and discovery platform with product pages and launch rankings.",
+          "note": "Use startupbase.io, the launch platform. Other similarly named startup services exist; current launch options and terms should be checked.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://startupbase.io/about",
+            "https://startupbase.io/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            35
+          ]
+        },
+        {
+          "name": "Startups FYI",
+          "group": "SaaS and Startup Launches",
+          "url": "https://www.startups.fyi/",
+          "status": "verified",
+          "description": "Curated startup and side-project discovery site paired with a founder newsletter.",
+          "note": "The current home focuses on money-making projects and sponsored features. A public self-service submission route was not confirmed from the homepage.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.startups.fyi/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            116
+          ]
+        },
+        {
+          "name": "Substack",
+          "group": "Communities and Publishing",
+          "url": "https://substack.com/",
+          "status": "verified",
+          "description": "Publishing platform for newsletters, articles, podcasts, video and creator communities.",
+          "note": "A relevant publication and useful original content are the fit. Publication creation is separate from earning editorial links from other writers.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://substack.com/features",
+            "https://support.substack.com/hc/en-us/articles/360037825111-How-do-I-create-a-publication-on-Substack"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            8,
+            43
+          ]
+        },
+        {
+          "name": "TechCrunch",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://techcrunch.com/contact-us/",
+          "status": "verified",
+          "description": "Technology news outlet for newsworthy startup and product story pitches.",
+          "note": "Editorial selection applies; the contact page offers no guaranteed placement.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://techcrunch.com/contact-us/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            59
+          ]
+        },
+        {
+          "name": "Tekpon",
+          "group": "Software Reviews and Deals",
+          "url": "https://tekpon.com/software/",
+          "status": "verified",
+          "description": "Software discovery, reviews, pricing and comparison catalogue.",
+          "note": "Match a real software product to the appropriate category. Vendor onboarding and current listing terms require a separate check.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://tekpon.com/software/",
+            "https://tekpon.com/categories/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            106
+          ]
+        },
+        {
+          "name": "That AI Collection",
+          "group": "AI Product Directories",
+          "url": "https://thataicollection.com/",
+          "status": "verified",
+          "description": "AI applications directory with categorized listings, comparisons and a listing route.",
+          "note": "The official site brands itself AI Collection; the supplied source name is retained. Fit is an actual AI application.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://thataicollection.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            90
+          ]
+        },
+        {
+          "name": "The SaaS Podcast",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://saasclub.io/saas-podcast/",
+          "status": "verified",
+          "description": "SaaS Club podcast featuring interviews about building and growing software businesses.",
+          "note": "Guest pitches target B2B SaaS/AI founders or relevant experts. It shares the SaaS Club publisher and is an editorial interview opportunity.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://saasclub.io/saas-podcast/",
+            "https://saasclub.io/suggest/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            118
+          ]
+        },
+        {
+          "name": "There's an AI for That",
+          "group": "AI Product Directories",
+          "url": "https://theresanaiforthat.com/",
+          "status": "identity_verified_access_blocked",
+          "description": "AI application discovery platform organized around finding tools for tasks.",
+          "note": "Its official product profile confirms the identity. Homepage and featured-submission pages blocked retrieval; current listing terms were not verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://theresanaiforthat.com/",
+            "https://theresanaiforthat.com/get-featured/",
+            "https://www.linkedin.com/products/taaft-theres-an-ai-for-that/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            39
+          ]
+        },
+        {
+          "name": "Tiny Startup",
+          "group": "SaaS and Startup Launches",
+          "url": "https://www.tinystartups.com/",
+          "status": "verified",
+          "description": "Curated startup launch and discovery directory for small products and side projects.",
+          "note": "The source uses the singular name; the matched primary site brands itself Tiny Startups. Listings are hand-picked and current launch requirements should be reviewed.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.tinystartups.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            23
+          ]
+        },
+        {
+          "name": "TinyLaunch",
+          "group": "SaaS and Startup Launches",
+          "url": "https://www.tinylaunch.com/",
+          "status": "verified",
+          "description": "Product launch platform with launch rankings, winner badges and product discovery.",
+          "note": "Review current launch and badge rules. Its homepage ties the advertised backlink benefit to embedding a badge with a reciprocal link.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.tinylaunch.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            14
+          ]
+        },
+        {
+          "name": "ToolFame",
+          "group": "SaaS and Startup Launches",
+          "url": "https://toolfame.com/",
+          "status": "verified",
+          "description": "Broad AI, SaaS and online tools directory with a submission link.",
+          "note": "Choose a relevant product category; the directory spans development, design, marketing, productivity and other online tools.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://toolfame.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            83
+          ]
+        },
+        {
+          "name": "Toolfolio",
+          "group": "SaaS and Startup Launches",
+          "url": "https://toolfolio.com/",
+          "status": "verified",
+          "description": "Tool discovery directory spanning AI, design, coding and business resources.",
+          "note": "The official site exposes a Submit tool route. Match the product to its actual category and inspect current submission terms.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://toolfolio.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            109
+          ]
+        },
+        {
+          "name": "Toolify AI",
+          "group": "AI Product Directories",
+          "url": "https://www.toolify.ai/",
+          "status": "verified",
+          "description": "AI tools discovery directory with tool submission and promotional options.",
+          "note": "AI product relevance matters. The menu separates submission, advertising, updates and other business services; check the chosen route's requirements.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.toolify.ai/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            52
+          ]
+        },
+        {
+          "name": "TrustMRR",
+          "group": "SaaS and Startup Launches",
+          "url": "https://trustmrr.com/",
+          "status": "verified",
+          "description": "Verified startup revenue database and marketplace for SaaS and digital business acquisitions.",
+          "note": "Revenue verification is central to its identity. Distinguish a startup revenue profile from a business-for-sale listing and inspect onboarding requirements.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://trustmrr.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            3
+          ]
+        },
+        {
+          "name": "TrustRadius",
+          "group": "Software Reviews and Deals",
+          "url": "https://www.trustradius.com/",
+          "status": "verified",
+          "description": "B2B software review and comparison platform offering claimed vendor product profiles.",
+          "note": "Product profiles and vendor services are separate from customer reviews. Review quality and moderation rules apply.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.trustradius.com/",
+            "https://solutions.trustradius.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            5
+          ]
+        },
+        {
+          "name": "Uneed",
+          "group": "SaaS and Startup Launches",
+          "url": "https://www.uneed.best/",
+          "status": "verified",
+          "description": "Product launch and discovery platform with launch scheduling and product pages.",
+          "note": "Publication retention and link attributes vary by launch route and upvote score. Inspect the current rules before choosing a launch option.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.uneed.best/how-it-works/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            9
+          ]
+        },
+        {
+          "name": "VentureBeat",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://venturebeat.com/contact-2",
+          "status": "verified",
+          "description": "Enterprise AI news publisher for relevant editorial pitches.",
+          "note": "Coverage requires editorial interest; this is not a self-service product directory.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://venturebeat.com/contact-2"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            66
+          ]
+        },
+        {
+          "name": "Vocal Media",
+          "group": "Communities and Publishing",
+          "url": "https://vocal.media/",
+          "status": "verified",
+          "description": "Creator publishing platform and communities for original articles and stories.",
+          "note": "Use vocal.media, distinct from similarly named marketing agencies. Review publishing and external-link rules and choose a relevant community.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://vocal.media/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            65
+          ]
+        },
+        {
+          "name": "Wavel",
+          "group": "AI Product Directories",
+          "url": "https://www.wavel.io/",
+          "status": "verified",
+          "description": "AI tools and agents discovery marketplace with an AI tool submission route.",
+          "note": "The directory is wavel.io, distinct from the wavel.ai video and voice product. Its listing route and current requirements need direct review.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.wavel.io/",
+            "https://wavel.io/submit/",
+            "https://wavel.ai/?via=aitoolsdirectory-com"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            100
+          ]
+        },
+        {
+          "name": "WikiHow",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://www.wikihow.com/",
+          "status": "identity_verified_access_blocked",
+          "description": "How-to publisher with instructional and expert content.",
+          "note": "The official app page confirms its website. Website pages blocked retrieval, so current contribution eligibility and external-link rules could not be checked.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.wikihow.com/About-wikiHow",
+            "https://www.wikihow.com/Main-Page",
+            "https://play.google.com/store/apps/details?hl=en_SG&id=com.wikihow.wikihowapp"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            85
+          ]
+        },
+        {
+          "name": "Wikipedia",
+          "group": "Profiles, Media and Other Platforms",
+          "url": "https://en.wikipedia.org/",
+          "status": "verified",
+          "description": "Encyclopedia where external links must serve article and reader relevance.",
+          "note": "Its external-links guideline excludes links mainly intended to promote a website or sell products. It is unsuitable for routine promotional link submissions.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://en.wikipedia.org/wiki/Wikipedia:External_links"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            77
+          ]
+        },
+        {
+          "name": "WIP",
+          "group": "Communities and Publishing",
+          "url": "https://wip.co/join",
+          "status": "verified",
+          "description": "Maker accountability community for building in public and sharing project progress.",
+          "note": "A recurring membership is listed. Join for relevant participation and inspect current profile and project-link options.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://wip.co/join"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            64
+          ]
+        },
+        {
+          "name": "YourStory",
+          "group": "Editorial, Podcasts and Founder Stories",
+          "url": "https://yourstory.com/",
+          "status": "verified",
+          "description": "Entrepreneurship and startup story publisher with a strong focus on India's startup ecosystem.",
+          "note": "Treat coverage as an editorial pitch. The indexed submit-your-story page opened but exposed no form in retrieved text; use current publisher guidance.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://yourstory.com/about-us",
+            "https://yourstory.com/submit-your-story"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "original_positions": [
+            22
+          ]
+        }
+      ]
+    }
+  ],
+  "review": {
+    "source_list_entries": 165,
+    "names_after_deduplication_within_lists": 160,
+    "verified": 150,
+    "unresolved": 4,
+    "identity_verified_access_blocked": 6,
+    "live_x_review_complete": false
+  },
+  "additional_destinations": [
+    {
+      "name": "Awesome MCP Servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "group": "MCP and Agent Directories",
+      "description": "Propose a useful MCP server through the list's contribution process.",
+      "page_access": "verified",
+      "checked_on": "2026-10-11",
+      "submission_requirements": "check_current_rules",
+      "pricing": "not_verified",
+      "link_follow_status": "not_verified",
+      "dr_effect": "not_verified",
+      "status": "verified",
+      "basis": "Supplementary destination checked separately from the two source lists."
+    },
+    {
+      "name": "Show HN",
+      "url": "https://news.ycombinator.com/showhn.html",
+      "group": "Communities and Editorial Content",
+      "description": "Show something you made that readers can try; follow the Show HN rules.",
+      "page_access": "verified",
+      "checked_on": "2026-10-11",
+      "submission_requirements": "check_current_rules",
+      "pricing": "not_verified",
+      "link_follow_status": "not_verified",
+      "dr_effect": "not_verified",
+      "status": "verified",
+      "basis": "Supplementary destination checked separately from the two source lists."
+    }
+  ]
+}

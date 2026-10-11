@@ -129,6 +129,37 @@
         22
       ],
       "official_page_access": "verified"
+    },
+    {
+      "name": "Bing Webmaster Tools",
+      "url": "https://www.bing.com/webmasters/about",
+      "group": "Measurement and Local Search",
+      "description": "Inspect Bing search performance, crawl and indexing information.",
+      "sources": [
+        61
+      ],
+      "official_page_access": "verified",
+      "documentation_url": "https://learn.microsoft.com/en-us/bingwebmaster/"
+    },
+    {
+      "name": "Google Merchant Center",
+      "url": "https://business.google.com/us/merchant-center/",
+      "group": "Measurement and Local Search",
+      "description": "Manage product information and eligible product listings across Google surfaces.",
+      "sources": [
+        24
+      ],
+      "official_page_access": "verified"
+    },
+    {
+      "name": "Index My Site",
+      "url": "https://indexmysite.app/",
+      "group": "Technical Audits and Automation",
+      "description": "Submit public URLs in bulk and track indexing jobs. Google decides whether to index each page.",
+      "sources": [
+        45
+      ],
+      "official_page_access": "verified"
     }
   ],
   "resources": [
@@ -552,9 +583,9 @@
       "title": "MCP and SaaS directory submission list",
       "category": "Backlinks and Authority",
       "group": "Directories and Launch Listings",
-      "summary": "Names MCP registries, GitHub lists, launch platforms and agent directories used by the author.",
+      "summary": "The full list has 38 names across MCP directories, GitHub lists, SaaS launch sites, and agent/AI-search destinations.",
       "content_status": "exported_text",
-      "notes": "Submission, link-follow status and reported DR changes remain unverified.",
+      "notes": "All 38 names are preserved in the directory catalogue and README. Exact owners for two generic GitHub labels remain unclear; checked candidates are shown. Submission, link-follow status and reported DR changes remain unverified.",
       "sources": [
         {
           "export_row": 40,
@@ -566,6 +597,13 @@
           "short_urls": [],
           "linked_content_access": "not_in_export"
         }
+      ],
+      "additional_evidence": [
+        {
+          "basis": "Full post text supplied by user",
+          "received_on": "2026-10-11",
+          "url": "https://x.com/attenisalluneed/status/2106029974105043227"
+        }
       ]
     },
     {
@@ -573,9 +611,9 @@
       "title": "Startup backlink prospect list",
       "category": "Backlinks and Authority",
       "group": "Directories and Launch Listings",
-      "summary": "The exported post lists 127 entries spanning directories, communities, publications and developer platforms.",
+      "summary": "The full exported list contains 127 positions and 122 unique names across product directories, software reviews, communities, publishers and other platforms.",
       "content_status": "exported_text",
-      "notes": "Repeated names are deduplicated in the extracted prospect list; DR scores are omitted because they were not verified.",
+      "notes": "Every unique name and original list position is preserved. Two names have ambiguous destinations and six have limited reader access. Claimed DR scores remain omitted.",
       "sources": [
         {
           "export_row": 94,
@@ -1196,10 +1234,17 @@
   "supplemental_review": {
     "checked_on": "2026-10-11",
     "basis": "Direct provider documentation and destination pages, separate from the bookmark export.",
-    "mcp_servers": 5,
+    "mcp_servers": 6,
     "backlink_opportunities": 31,
     "mcp_runtime_tested": false,
-    "backlink_attributes_verified": false
+    "backlink_attributes_verified": false,
+    "directory_catalog_entries": 160,
+    "directory_primary_matches": 150,
+    "directory_access_limited": 6,
+    "directory_ambiguous": 4,
+    "extra_named_tools": 3,
+    "research_destinations": 9,
+    "backlink_opportunities_basis": "Initial 31 checked destinations retained as a supplementary subset; the complete source lists are in directory-catalog.json."
   },
   "mcp_servers": [
     {
@@ -1256,6 +1301,21 @@
       "page_access": "verified",
       "checked_on": "2026-10-11",
       "runtime_tested": false
+    },
+    {
+      "name": "Index My Site MCP",
+      "url": "https://indexmysite.app/docs/mcp",
+      "group": "Indexing Job Automation",
+      "publisher_type": "official",
+      "description": "Submit URLs, list indexing jobs and check results and credit balances. Indexing remains Google's decision.",
+      "requirements": "Index My Site account and credits for submissions.",
+      "page_access": "verified",
+      "checked_on": "2026-10-11",
+      "runtime_tested": false,
+      "sources": [
+        45
+      ],
+      "basis": "The bookmark names the service; its MCP connection was checked separately."
     }
   ],
   "backlink_opportunities": [
@@ -1631,5 +1691,124 @@
       "link_follow_status": "not_verified",
       "dr_effect": "not_verified"
     }
-  ]
+  ],
+  "research_destinations": [
+    {
+      "name": "G2",
+      "url": "https://www.g2.com/",
+      "category": "Keyword Research",
+      "description": "Read competitor reviews for recurring problems and customer wording.",
+      "sources": [
+        61
+      ],
+      "page_access": "verified",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "name": "Capterra",
+      "url": "https://www.capterra.com/",
+      "category": "Keyword Research",
+      "description": "Find software reviews and compare recurring product complaints.",
+      "sources": [
+        61
+      ],
+      "page_access": "identity_verified_access_blocked",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "name": "Trustpilot",
+      "url": "https://www.trustpilot.com/",
+      "category": "Keyword Research",
+      "description": "Read customer reviews for problems, expectations and objections.",
+      "sources": [
+        61
+      ],
+      "page_access": "verified",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "name": "Apple App Store",
+      "url": "https://www.apple.com/app-store/",
+      "category": "SaaS and App SEO",
+      "description": "Find competing apps and review the language users use to describe problems.",
+      "sources": [
+        61,
+        65
+      ],
+      "page_access": "verified",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "name": "Google Play",
+      "url": "https://play.google.com/store/apps",
+      "category": "SaaS and App SEO",
+      "description": "Inspect competing app listings and recurring user complaints.",
+      "sources": [
+        61,
+        65
+      ],
+      "page_access": "verified",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/",
+      "category": "Content and On-Page SEO",
+      "description": "Research search-focused tutorial topics and publish useful demonstrations.",
+      "sources": [
+        11,
+        61
+      ],
+      "page_access": "verified",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "name": "Bing Webmaster API",
+      "url": "https://learn.microsoft.com/en-us/bingwebmaster/",
+      "category": "Automation and Skills",
+      "description": "Official documentation for accessing registered-site search and index data.",
+      "sources": [
+        61
+      ],
+      "page_access": "verified",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "name": "Bing AI Performance",
+      "url": "https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/",
+      "category": "AI Search and GEO",
+      "description": "Provider documentation for citation and grounding-query reporting in Bing's supported AI experiences.",
+      "sources": [
+        61
+      ],
+      "page_access": "verified",
+      "basis": "Supplementary provider documentation",
+      "checked_on": "2026-10-11"
+    },
+    {
+      "name": "Index My Site MCP",
+      "url": "https://indexmysite.app/docs/mcp",
+      "category": "Automation and Skills",
+      "description": "Submit URLs, list jobs and check indexing results and credit balances through MCP.",
+      "sources": [
+        45
+      ],
+      "page_access": "verified",
+      "basis": "Supplementary provider documentation",
+      "checked_on": "2026-10-11"
+    }
+  ],
+  "directory_catalog": {
+    "path": "data/directory-catalog.json",
+    "source_rows": [
+      40,
+      94
+    ],
+    "source_list_entries": 165,
+    "unique_names_within_lists": 160,
+    "verified": 150,
+    "identity_verified_access_blocked": 6,
+    "unresolved": 4,
+    "additional_destinations": 2
+  }
 }

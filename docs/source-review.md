@@ -66,7 +66,7 @@ Original CSV row numbers are retained for reconciliation. Dates are the exported
 | 36 | [@borjafat](https://x.com/borjafat/status/2106357433203311049) | 2026-10-03 | Content and On-Page SEO | `full_text` | Preview only | The video, prompt link and worked example could not be reviewed. |
 | 37 | [@asaio87](https://x.com/asaio87/status/2106102846957486356) | 2026-10-02 | Content and On-Page SEO | `note_tweet_text` | Exported text | Live post and any supporting media remain unavailable. |
 | 38 | [@suraj_sharma14](https://x.com/suraj_sharma14/status/2106240327569035424) | 2026-10-03 | Technical SEO | `note_tweet_text` | Exported text | Use as an audit checklist; the post's ranking deadline and blanket schema recommendations are not verified requirements. |
-| 40 | [@attenisalluneed](https://x.com/attenisalluneed/status/2106029974105043227) | 2026-10-02 | Backlinks and Authority | `note_tweet_text` | Exported text | Submission, link-follow status and reported DR changes remain unverified. |
+| 40 | [@attenisalluneed](https://x.com/attenisalluneed/status/2106029974105043227) | 2026-10-02 | Backlinks and Authority | `note_tweet_text` | Exported text | All 38 names are now catalogued. Two generic GitHub labels remain ambiguous; submission, link-follow status and reported DR changes remain unverified. |
 | 41 | [@ConnorShowler](https://x.com/ConnorShowler/status/2105640600766652653) | 2026-10-01 | Case Studies and Experiments | `full_text` | Exported text | Opinion only; no method or outcome evidence is included in the exported text. |
 | 42 | [@MilaChervenkova](https://x.com/MilaChervenkova/status/2105566972893143354) | 2026-10-01 | Case Studies and Experiments | `note_tweet_text` | Exported text | Screenshots and causation were not verified; this is a single reported example. |
 | 43 | [@Charles_SEO](https://x.com/Charles_SEO/status/2106084085068365825) | 2026-10-02 | Case Studies and Experiments | `note_tweet_text` | Exported text | The claims dismissing page experience and helpful content should be checked against official guidance. |
@@ -79,18 +79,26 @@ Original CSV row numbers are retained for reconciliation. Dates are the exported
 | 61 | [@om_patel5](https://x.com/om_patel5/status/2099683744781111419) | 2026-09-15 | AI Search and GEO | `note_tweet_text` | Exported text | The post's llms.txt, bot-eligibility and automatic-citation claims need verification; Google does not require special AI files. |
 | 63 | [@borjafat](https://x.com/borjafat/status/2098755362513953188) | 2026-09-12 | Keyword Research | `note_tweet_text` | Exported text | The claimed feature novelty and faster-ranking outcome were not independently verified. |
 | 65 | [@om_patel5](https://x.com/om_patel5/status/2099003320446616013) | 2026-09-13 | SaaS and App SEO | `note_tweet_text` | Exported text | Live post and any supporting media remain unavailable. |
-| 94 | [@hridoyreh](https://x.com/hridoyreh/status/2079831605863178416) | 2026-07-22 | Backlinks and Authority | `note_tweet_text` | Exported text | Repeated names are deduplicated in the extracted prospect list; DR scores are omitted because they were not verified. |
+| 94 | [@hridoyreh](https://x.com/hridoyreh/status/2079831605863178416) | 2026-07-22 | Backlinks and Authority | `note_tweet_text` | Exported text | All 122 unique names and 127 positions are catalogued. Two destinations remain ambiguous and six have limited reader access; claimed DR scores are omitted. |
 
 ## Grouped sources
 
 - Rows 31 and 35 describe the same unlinked-brand-mention workflow. Both original URLs remain in one entry.
 - Rows 29 and 44 introduce similar parasite-SEO monetization playbooks. Both original URLs remain in one preview entry; the inaccessible playbooks are not assumed to be identical.
 
-## Supplementary MCP and backlink research
+## Complete list and destination audit
 
-The README now includes five SEO-related MCP integrations and 31 clickable listing, community and editorial destinations. Direct provider documentation and destination pages were accessible on 11 October 2026. The structured index records these in `mcp_servers` and `backlink_opportunities`, separately from the 46 bookmark-based entries.
+All 48 confirmed SEO sources in the export were reviewed again for named destination lists and tool references. Two posts contain readable large lists: row 40 has **38 names** in four source groups; row 94 has **127 positions and 122 unique names**. Both lists are now shown in full in the README and recorded in [the directory catalogue](../data/directory-catalog.json). Every repeated position in row 94 is preserved.
 
-MCP projects are labelled official, official experimental or community. No server was installed or executed. Destination-page access does not verify submission eligibility, pricing, a followed backlink or any DR change. Inaccessible candidate sites were left out of the clickable shortlist; their names remain in the original extracted lists when present there.
+Of the 160 entries after deduplicating within each list, 150 are matched using accessible primary websites, provider documentation or support pages; six identities are confirmed from primary indexed pages but reader access is limited; four names have multiple plausible destinations. Ambiguous entries remain visible with checked candidate links. Provider documentation may be accessible when the homepage blocks this reader, so a verified primary match is not a claim that every homepage opened.
+
+The audit also restored direct references for Bing Webmaster Tools, Google Merchant Center, Index My Site, software/app review research, YouTube, Bing's API and AI Performance documentation. Six SEO-related MCP integrations are documented. The previously checked 31 destinations remain in `backlink_opportunities` as a supplementary subset, with the full source lists linked through `directory_catalog`.
+
+Destination matches do not verify universal free submission, editorial acceptance, a followed backlink or a DR increase. No listing was submitted and no MCP server was installed or executed. Names for publications, profiles, wikis and media platforms have fit notes; they are not presented as interchangeable product directories.
+
+### Remaining unavailable list content
+
+The export does not contain the actual lists/media for rows 8 and 20 (two ten-place backlink posts), row 17 (the SEO/GEO article collection) or row 18 (20 SEO skills). They retain preview status. Their entries cannot be reconstructed without the original content. Other preview articles, images and linked implementations remain flagged in the source table.
 
 ## Editorial checks
 
