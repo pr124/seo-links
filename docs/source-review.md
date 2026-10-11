@@ -88,13 +88,23 @@ Original CSV row numbers are retained for reconciliation. Dates are the exported
 
 ## Complete list and destination audit
 
-All 48 confirmed SEO sources in the export were reviewed again for named destination lists and tool references. Two posts contain readable large lists: row 40 has **38 names** in four source groups; row 94 has **127 positions and 122 unique names**. Both lists are now shown in full in the README and recorded in [the directory catalogue](../data/directory-catalog.json). Every repeated position in row 94 is preserved.
+All 48 confirmed SEO sources in the export were reviewed again for named destination lists and tool references. Two export posts contain readable large lists: row 40 has **38 names** in four source groups; row 94 has **127 positions and 122 unique names**. A further user-supplied post has **30 destinations**. All three lists are shown in full in the README and recorded in [the directory catalogue](../data/directory-catalog.json). Every repeated position in row 94 is preserved; the additional post is counted separately from the export.
 
-Of the 160 entries after deduplicating within each list, 150 are matched using accessible primary websites, provider documentation or support pages; six identities are confirmed from primary indexed pages but reader access is limited; four names have multiple plausible destinations. Ambiguous entries remain visible with checked candidate links. Provider documentation may be accessible when the homepage blocks this reader, so a verified primary match is not a claim that every homepage opened.
+Of the 190 entries after deduplicating within each of the three lists, 177 are matched using accessible primary websites, provider documentation or support pages; nine source-list entries have identities confirmed from primary indexed pages but limited reader access; four names have multiple plausible destinations. This count preserves destinations appearing in multiple posts and is not a count of distinct websites. Ambiguous entries remain visible with checked candidate links. Provider documentation may be accessible when the homepage blocks this reader, so a verified primary match is not a claim that every homepage opened.
 
 The audit also restored direct references for Bing Webmaster Tools, Google Merchant Center, Index My Site, software/app review research, YouTube, Bing's API and AI Performance documentation. Six SEO-related MCP integrations are documented. The previously checked 31 destinations remain in `backlink_opportunities` as a supplementary subset, with the full source lists linked through `directory_catalog`.
 
 Destination matches do not verify universal free submission, editorial acceptance, a followed backlink or a DR increase. No listing was submitted and no MCP server was installed or executed. Names for publications, profiles, wikis and media platforms have fit notes; they are not presented as interchangeable product directories.
+
+### Additional user-supplied source
+
+- Source: [@Miracle_NNnn’s 30-site post](https://x.com/Miracle_NNnn/status/2109171648800723025).
+- Basis: full text, all 30 numbered domain labels and shortened links supplied by the user on 11 October 2026. The live X post was unavailable; no posting date is inferred.
+- Coverage: 14 sites already appeared in the directory lists or review-research links; 16 destinations are newly added. All 30 original positions remain in the prospect register and structured catalogue.
+- Corrections: YourStory’s company-listing route is recorded separately from editorial pitches. aitools.neilpatel.com now redirects to the Ubersuggest apps/integrations catalogue and is not presented as a generic submission directory.
+- Access: WhatLaunched’s indexed primary pages establish identity, but its pages could not be retrieved. Existing limited-access labels for StackShare and There’s an AI for That are retained.
+- Claims: the author’s blanket free/followed-backlink statement was not verified. Brownbook advertises free listing; Startup Fame describes a conditional free plan with a badge and review. These provider claims do not establish link attributes or a DR outcome.
+- Provenance: recorded in `additional_resources` rather than adding an invented export row. No listing was submitted.
 
 ### Remaining unavailable list content
 
@@ -109,3 +119,4 @@ The child-sitemap suggestion is described as a reporting workflow, because [Goog
 The AI-search section distinguishes third-party opinions from [Google's AI-features guidance](https://developers.google.com/search/docs/appearance/ai-features), which does not require special AI files or special schema. Keyword-stuffing and mixed link-tactic claims are kept as source opinions, with [official spam guidance](https://developers.google.com/search/docs/essentials/spam-policies) for context.
 
 To complete the article review, use accessible full article text or a functioning signed-in browser session, inspect the missing media and linked destinations, then update the relevant descriptions and status fields in `data/resources.json` and this register.
+

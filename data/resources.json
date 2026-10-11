@@ -1238,13 +1238,16 @@
     "backlink_opportunities": 31,
     "mcp_runtime_tested": false,
     "backlink_attributes_verified": false,
-    "directory_catalog_entries": 160,
-    "directory_primary_matches": 150,
-    "directory_access_limited": 6,
+    "directory_catalog_entries": 190,
+    "directory_primary_matches": 177,
+    "directory_access_limited": 9,
     "directory_ambiguous": 4,
     "extra_named_tools": 3,
     "research_destinations": 9,
-    "backlink_opportunities_basis": "Initial 31 checked destinations retained as a supplementary subset; the complete source lists are in directory-catalog.json."
+    "backlink_opportunities_basis": "Initial 31 checked destinations retained as a supplementary subset; the complete source lists are in directory-catalog.json.",
+    "user_supplied_posts": 1,
+    "user_supplied_destination_entries": 30,
+    "new_destinations_from_user_post": 16
   },
   "mcp_servers": [
     {
@@ -1804,11 +1807,67 @@
       40,
       94
     ],
-    "source_list_entries": 165,
-    "unique_names_within_lists": 160,
-    "verified": 150,
-    "identity_verified_access_blocked": 6,
+    "source_list_entries": 195,
+    "unique_names_within_lists": 190,
+    "verified": 177,
+    "identity_verified_access_blocked": 9,
     "unresolved": 4,
-    "additional_destinations": 2
-  }
+    "additional_destinations": 2,
+    "user_supplied_sources": [
+      "https://x.com/Miracle_NNnn/status/2109171648800723025"
+    ]
+  },
+  "additional_resources": [
+    {
+      "id": "thirty-startup-backlink-destinations",
+      "title": "Thirty startup backlink destinations",
+      "category": "Backlinks and Authority",
+      "summary": "Complete 30-destination list supplied by the user: 14 sites already covered and 16 newly added, grouped by purpose with access and submission-fit notes.",
+      "content_status": "user_supplied_text",
+      "sources": [
+        {
+          "author": "Miracle_NNnn",
+          "url": "https://x.com/Miracle_NNnn/status/2109171648800723025",
+          "received_on": "2026-10-11",
+          "posted_at": null,
+          "live_access": "unavailable",
+          "content_basis": "Full text supplied by user",
+          "short_urls": [
+            "https://t.co/FU8xYhcNR7",
+            "https://t.co/T6zOQZ8I88",
+            "https://t.co/ojCFzAE2mj",
+            "https://t.co/Qc5s1TmeAO",
+            "https://t.co/0Ou7ZoVPiN",
+            "https://t.co/mEGQ6jsFSn",
+            "https://t.co/M4J6FbFLLE",
+            "https://t.co/N1to9SjiAA",
+            "https://t.co/sCkRn4rOd1",
+            "https://t.co/hckwS0AONd",
+            "https://t.co/6974U8QzdY",
+            "https://t.co/SuWDeXc7EW",
+            "https://t.co/BRdnDxbphi",
+            "https://t.co/KLfWLYy2pP",
+            "https://t.co/ipiZY32rVX",
+            "https://t.co/FfxAbd7QNl",
+            "https://t.co/VZDd5o6gg5",
+            "https://t.co/XRML7N44Mz",
+            "https://t.co/WOf9DDqLn2",
+            "https://t.co/4nMoCmDGJx",
+            "https://t.co/Fh8NJsQOuj",
+            "https://t.co/uQIIGNqCE2",
+            "https://t.co/VkNb0Jrxte",
+            "https://t.co/fPP9tzNpoB",
+            "https://t.co/kofrOTrtiH",
+            "https://t.co/dxg2Ys8e6t",
+            "https://t.co/VA2jnmmVgb",
+            "https://t.co/msJDNXEaWB",
+            "https://t.co/dfnSROD0Op",
+            "https://t.co/xKFBSGByiF"
+          ]
+        }
+      ],
+      "directory_list_id": "thirty-startup-backlink-destinations",
+      "notes": "The post is additional to the 100-row bookmark export. Its blanket free/followed-backlink claim is unverified; no listings were submitted."
+    }
+  ]
 }

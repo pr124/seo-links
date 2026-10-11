@@ -1,6 +1,6 @@
 # Complete backlink and submission prospects
 
-The two source lists are preserved in full: **38 MCP/SaaS names** and **122 unique startup prospect names** from 127 original positions. [Browse the grouped README](../README.md#backlink-opportunities-and-dr) or [use the structured catalogue](../data/directory-catalog.json).
+The three source lists are preserved in full: **38 MCP/SaaS names**, **122 unique startup prospect names** from 127 original positions, and **all 30 destinations** from the additional user-supplied post. Repeated destinations across different posts remain associated with each source. [Browse the grouped README](../README.md#backlink-opportunities-and-dr) or [use the structured catalogue](../data/directory-catalog.json).
 
 Primary websites, documentation and support pages were used to identify destinations. **Verified** means an accessible primary reference matched the entry; it does not guarantee submission acceptance or any backlink benefit. **Access limited** means the primary identity is indexed but reader access failed. **Ambiguous** entries show candidates and preserve the source name.
 
@@ -193,7 +193,81 @@ Source: [@hridoyreh's 127-entry list](https://x.com/hridoyreh/status/20798316058
 | WikiHow | [Open](https://www.wikihow.com/) — access limited | 85 | Profiles, Media and Other Platforms |
 | Wikipedia | [Open](https://en.wikipedia.org/) | 77 | Profiles, Media and Other Platforms |
 | WIP | [Open](https://wip.co/join) | 64 | Communities and Publishing |
-| YourStory | [Open](https://yourstory.com/) | 22 | Editorial, Podcasts and Founder Stories |
+| YourStory | [Editorial site](https://yourstory.com/) / [Company directory](https://yourstory.com/companies) | 22 | Editorial, Podcasts and Founder Stories |
+
+## Thirty startup backlink destinations
+
+Source: [@Miracle_NNnn’s post](https://x.com/Miracle_NNnn/status/2109171648800723025), full text supplied by the user on 11 October 2026. This post is outside the 100-row export. All 30 positions and supplied domain labels are preserved in order below.
+
+**14 destinations were already covered and 16 were missing.** The old Neil Patel AI-tools address redirects to Ubersuggest apps and integrations. YourStory’s /companies page adds a company-listing route alongside its editorial site. “Free” and “Do Follow” are the source author’s claims, not verified properties of all 30 destinations.
+
+| Position | Supplied label | Current destination / access | Previous coverage | Purpose |
+| --- | --- | --- | --- | --- |
+| 1 | whatlaunched.today | [Open](https://whatlaunched.today/) - access limited | Added | Startup Launches and Directories |
+| 2 | tools.launchllama.co | [Open](https://tools.launchllama.co/) | Already covered | Startup Launches and Directories |
+| 3 | feedmystartup.com | [Open](https://feedmystartup.com/) | Added | Startup Launches and Directories |
+| 4 | yourstory.com/companies | [Open](https://yourstory.com/companies) | Already covered | Editorial and Company Listings |
+| 5 | brownbook.net | [Open](https://www.brownbook.net/) | Added | Business and Web Directories |
+| 6 | sidebar.io | [Open](https://sidebar.io/) | Added | Editorial and Company Listings |
+| 7 | aitools.neilpatel.com | [Open](https://app.neilpatel.com/en/apps-integrations); [supplied URL](https://aitools.neilpatel.com/) redirects | Added | Search and SEO Integrations |
+| 8 | g2.com | [Open](https://www.g2.com/) | Already covered | Software Reviews and Tool Discovery |
+| 9 | hashnode.com | [Open](https://hashnode.com/) | Already covered | Developer and Digital Products |
+| 10 | stackshare.io | [Open](https://stackshare.io/) - access limited | Already covered | Developer and Digital Products |
+| 11 | twelve.tools | [Open](https://twelve.tools/) | Already covered | Startup Launches and Directories |
+| 12 | fazier.com | [Open](https://fazier.com/) | Already covered | Startup Launches and Directories |
+| 13 | dang.ai | [Open](https://dang.ai/) | Added | AI Product Directories |
+| 14 | activesearchresults.com | [Open](https://www.activesearchresults.com/) | Added | Search and SEO Integrations |
+| 15 | toolpilot.ai | [Open](https://www.toolpilot.ai/) | Added | AI Product Directories |
+| 16 | startupfa.me | [Open](https://startupfa.me/) | Added | Startup Launches and Directories |
+| 17 | theresanaiforthat.com | [Open](https://theresanaiforthat.com/) - access limited | Already covered | AI Product Directories |
+| 18 | comparecamp.com | [Open](https://comparecamp.com/) | Added | Software Reviews and Tool Discovery |
+| 19 | saashub.com | [Open](https://www.saashub.com/) | Already covered | Software Reviews and Tool Discovery |
+| 20 | viesearch.com | [Open](https://viesearch.com/) | Added | Business and Web Directories |
+| 21 | uneed.best | [Open](https://www.uneed.best/) | Already covered | Startup Launches and Directories |
+| 22 | linkcentre.com | [Open](https://www.linkcentre.com/) | Added | Business and Web Directories |
+| 23 | toolify.ai | [Open](https://www.toolify.ai/) | Already covered | AI Product Directories |
+| 24 | magicbox.tools | [Open](https://magicbox.tools/) | Added | AI Product Directories |
+| 25 | code.market | [Open](https://code.market/) | Added | Developer and Digital Products |
+| 26 | sideprojectors.com | [Open](https://www.sideprojectors.com/) | Already covered | Startup Launches and Directories |
+| 27 | startupstash.com | [Open](https://startupstash.com/) | Added | Software Reviews and Tool Discovery |
+| 28 | devhunt.org | [Open](https://devhunt.org/) | Already covered | Developer and Digital Products |
+| 29 | microlaunch.net | [Open](https://microlaunch.net/) | Already covered | Startup Launches and Directories |
+| 30 | ramen.tools | [Open](https://ramen.tools/) | Added | Software Reviews and Tool Discovery |
+
+### Fit and access notes for the 30-site post
+
+- **#1 whatlaunched.today:** Startup launch and discovery directory. Primary indexed pages confirm the directory, but homepage and English-page retrieval failed. Current submission plans and listing rules remain unconfirmed.
+- **#2 tools.launchllama.co:** Curated startup and tool launch directory. The tools subdomain is the actual listing directory. Submission and editorial newsletter selection are separate; current plans and review rules vary.
+- **#3 feedmystartup.com:** Startup and app discovery directory with submission links. The homepage exposes Submit Your Startup and Submit Your App. Check the current editorial process and applicable submission terms.
+- **#4 yourstory.com/companies:** YourStory's searchable company directory with a List Your Company route. This specific company-listing page differs from the editorial story-pitch route already covered. Its linked listing form and acceptance conditions need review before submission.
+- **#5 brownbook.net:** Business directory offering company profiles, listing and claiming. The provider advertises free listing, claiming and Profile+ on its homepage. Listing eligibility and the actual published link attributes were not independently checked.
+- **#6 sidebar.io:** Curated design-link publication and newsletter. Fit is useful design articles and resources selected by editors. No self-serve startup-listing or submission route was found in the retrieved homepage.
+- **#7 aitools.neilpatel.com:** Ubersuggest's apps, connectors and partner integrations catalogue. The supplied aitools.neilpatel.com address now redirects here. It is no longer presented as a generic AI-product submission directory; no public backlink-listing route was verified.
+- **#8 g2.com:** Software reviews and comparisons platform for buyers and vendors. Already linked for competitor-review research. Use an appropriate software vendor/product presence rather than treating reviews as a generic website-link submission.
+- **#9 hashnode.com:** Blogging platform for developers and engineers to publish technical work. Best suited to useful technical articles and a credible author presence; assess publication rules before including promotional links.
+- **#10 stackshare.io:** Developer tool discovery and technology-stack sharing platform. Official tool and stack pages are indexed, but homepage and top-tools retrieval failed. Current submission and profile options remain unconfirmed.
+- **#11 twelve.tools:** Daily curated directory of tools and startups. The primary site has Submit your Tool and Pricing routes; distinct from twelve-tools.com. Current terms and link treatment need review.
+- **#12 fazier.com:** Product discovery and launch platform with a dedicated submission page. The primary /submit page opened successfully. Its plans have different review, timing and badge requirements; check the selected plan instead of assuming uniform listing terms.
+- **#13 dang.ai:** AI tools discovery directory with tool-submission navigation. Suitable for an actual AI product. Submission acceptance, price and published link treatment need checking for the chosen route.
+- **#14 activesearchresults.com:** Independent search engine with an Add a Website route. Submitting to this search engine is distinct from obtaining a directory listing or requesting Google indexing. Current submission conditions and outgoing-link attributes remain unchecked.
+- **#15 toolpilot.ai:** AI tools catalogue with Submit Your AI Tool navigation. Match the product to an AI-tool category and check current submission, review and placement terms; free submission is not assumed.
+- **#16 startupfa.me:** Startup discovery directory with reviewed startup profiles. The homepage describes a free Verified plan requiring a homepage badge and review, plus paid options. Its claimed followed links were not independently inspected.
+- **#17 theresanaiforthat.com:** AI application discovery platform organized around finding tools for tasks. Its official product profile confirms the identity. Homepage and featured-submission pages blocked retrieval; current listing terms were not verified.
+- **#18 comparecamp.com:** Software review and comparison publication. The primary page links Request a Review and Write for Us. Those are review or editorial routes; no unrestricted free company-directory listing was verified.
+- **#19 saashub.com:** Software alternatives and reviews directory with a product submission form. Submissions undergo approval. Unreleased products, waiting-list pages, development agencies, free-subdomain products and non-English products are excluded.
+- **#20 viesearch.com:** Categorized web directory and human-curated discovery index. The primary page offers Add a Website/Submit and separate promotional placements. Check editorial eligibility, the selected option and current terms.
+- **#21 uneed.best:** Product launch and discovery platform with launch scheduling and product pages. Publication retention and link attributes vary by launch route and upvote score. Inspect the current rules before choosing a launch option.
+- **#22 linkcentre.com:** Web directory with website submission and country/category browsing. The homepage exposes Submit Website and Pricing and describes human review. Check the selected submission option and its actual published link.
+- **#23 toolify.ai:** AI tools discovery directory with tool submission and promotional options. AI product relevance matters. The menu separates submission, advertising, updates and other business services; check the chosen route's requirements.
+- **#24 magicbox.tools:** AI tools directory with search, categories and Submit navigation. Suitable for a relevant AI tool. Submission and advertising are shown separately; current acceptance, cost and link treatment need review.
+- **#25 code.market:** Curated digital-product catalogue covering software, templates and developer resources. The page offers Submit to Newsletter. Treat it as curated product/editorial exposure; no automatic general-startup listing or free followed backlink was verified.
+- **#26 sideprojectors.com:** Marketplace for showcasing, buying and selling side projects and finding co-founders. Choose a listing that reflects the real purpose: showcase, sale or co-founder search. Its marketplace fit differs from a general company directory.
+- **#27 startupstash.com:** Curated directory of tools and resources for startups. Fit is a useful startup tool or resource. No Submit route was found in the retrieved homepage; current listing or editorial contact requirements remain unconfirmed.
+- **#28 devhunt.org:** Launch and discovery platform focused on developer tools. Match the product to a developer audience. Current launch criteria, review and placement terms must be checked; a generic business site is a weaker fit.
+- **#29 microlaunch.net:** Startup launch and discovery platform with monthly product launches. Use the current product-launch process for a relevant startup and review its submission requirements and plans.
+- **#30 ramen.tools:** Maker tool-stack sharing and discovery community. Use an accurate maker profile and real tools built or used. Sign-in and maker profiles are visible, but the current tool-listing process was not reviewed.
+
+The structured catalogue retains each supplied short URL, the checked direct destination, the original position, evidence URLs and access status. No submission was made and no resulting backlink was inspected.
 
 ## Fit and ambiguity notes
 
@@ -225,3 +299,4 @@ Source: [@hridoyreh's 127-entry list](https://x.com/hridoyreh/status/20798316058
 - [Find existing unlinked brand mentions](https://x.com/seo_wins/status/2106648293715607936) and [the companion post](https://x.com/hridoyreh/status/2106647803799945615).
 - [Resource-page prospecting example](https://x.com/hridoyreh/status/2108587753319682263) - The underlying example still needs review.
 - [Return to Backlinks and Authority](../README.md#backlinks-and-authority).
+

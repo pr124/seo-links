@@ -2950,29 +2950,755 @@
           "url": "https://yourstory.com/",
           "status": "verified",
           "description": "Entrepreneurship and startup story publisher with a strong focus on India's startup ecosystem.",
-          "note": "Treat coverage as an editorial pitch. The indexed submit-your-story page opened but exposed no form in retrieved text; use current publisher guidance.",
+          "note": "Treat coverage as an editorial pitch. The indexed submit-your-story page opened but exposed no form in retrieved text; use current publisher guidance. The separate company directory at /companies has List Your Company; it is recorded in the user-supplied 30-destination list.",
           "checked_on": "2026-10-11",
           "evidence_urls": [
             "https://yourstory.com/about-us",
-            "https://yourstory.com/submit-your-story"
+            "https://yourstory.com/submit-your-story",
+            "https://yourstory.com/companies"
           ],
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
           "original_positions": [
             22
-          ]
+          ],
+          "listing_url": "https://yourstory.com/companies"
+        }
+      ]
+    },
+    {
+      "id": "thirty-startup-backlink-destinations",
+      "export_row": null,
+      "source_url": "https://x.com/Miracle_NNnn/status/2109171648800723025",
+      "source_author": "Miracle_NNnn",
+      "source_basis": "Full post text and all 30 linked labels supplied by the user; live X post unavailable.",
+      "received_on": "2026-10-11",
+      "source_claim": "30 websites to get free “Do Follow” backlinks for your startup",
+      "claim_status": "not_independently_verified",
+      "original_entries": 30,
+      "unique_names": 30,
+      "already_covered_destinations": 14,
+      "new_destinations": 16,
+      "destination_updates": [
+        {
+          "source_name": "yourstory.com/companies",
+          "change": "Add the specific company-listing route alongside the existing editorial route."
+        },
+        {
+          "source_name": "aitools.neilpatel.com",
+          "change": "Record the current redirect to Ubersuggest apps and integrations; no generic directory-submission route verified."
+        }
+      ],
+      "entries": [
+        {
+          "display_name": "WhatLaunched",
+          "group": "Startup Launches and Directories",
+          "status": "identity_verified_access_blocked",
+          "description": "Startup launch and discovery directory.",
+          "note": "Primary indexed pages confirm the directory, but homepage and English-page retrieval failed. Current submission plans and listing rules remain unconfirmed.",
+          "evidence_urls": [
+            "https://whatlaunched.today/",
+            "https://whatlaunched.today/en"
+          ],
+          "name": "whatlaunched.today",
+          "url": "https://whatlaunched.today/",
+          "supplied_url": "https://whatlaunched.today/",
+          "short_url": "https://t.co/FU8xYhcNR7",
+          "original_positions": [
+            1
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified"
+        },
+        {
+          "name": "tools.launchllama.co",
+          "group": "Startup Launches and Directories",
+          "url": "https://tools.launchllama.co/",
+          "status": "verified",
+          "description": "Curated startup and tool launch directory.",
+          "note": "The tools subdomain is the actual listing directory. Submission and editorial newsletter selection are separate; current plans and review rules vary.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://tools.launchllama.co/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "Launch Llama",
+          "supplied_url": "https://tools.launchllama.co/",
+          "short_url": "https://t.co/T6zOQZ8I88",
+          "original_positions": [
+            2
+          ],
+          "previously_covered": true,
+          "previous_match": "Launch Llama",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "display_name": "FeedMyStartup",
+          "group": "Startup Launches and Directories",
+          "description": "Startup and app discovery directory with submission links.",
+          "note": "The homepage exposes Submit Your Startup and Submit Your App. Check the current editorial process and applicable submission terms.",
+          "evidence_urls": [
+            "https://feedmystartup.com/"
+          ],
+          "name": "feedmystartup.com",
+          "url": "https://feedmystartup.com/",
+          "supplied_url": "https://feedmystartup.com/",
+          "short_url": "https://t.co/ojCFzAE2mj",
+          "original_positions": [
+            3
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "name": "yourstory.com/companies",
+          "group": "Editorial and Company Listings",
+          "url": "https://yourstory.com/companies",
+          "status": "verified",
+          "description": "YourStory's searchable company directory with a List Your Company route.",
+          "note": "This specific company-listing page differs from the editorial story-pitch route already covered. Its linked listing form and acceptance conditions need review before submission.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://yourstory.com/companies"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "YourStory Companies",
+          "supplied_url": "https://yourstory.com/companies",
+          "short_url": "https://t.co/Qc5s1TmeAO",
+          "original_positions": [
+            4
+          ],
+          "previously_covered": true,
+          "previous_match": "YourStory",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "display_name": "Brownbook",
+          "group": "Business and Web Directories",
+          "description": "Business directory offering company profiles, listing and claiming.",
+          "note": "The provider advertises free listing, claiming and Profile+ on its homepage. Listing eligibility and the actual published link attributes were not independently checked.",
+          "evidence_urls": [
+            "https://www.brownbook.net/"
+          ],
+          "name": "brownbook.net",
+          "url": "https://www.brownbook.net/",
+          "supplied_url": "https://www.brownbook.net/",
+          "short_url": "https://t.co/0Ou7ZoVPiN",
+          "original_positions": [
+            5
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "display_name": "Sidebar",
+          "group": "Editorial and Company Listings",
+          "description": "Curated design-link publication and newsletter.",
+          "note": "Fit is useful design articles and resources selected by editors. No self-serve startup-listing or submission route was found in the retrieved homepage.",
+          "evidence_urls": [
+            "https://sidebar.io/"
+          ],
+          "name": "sidebar.io",
+          "url": "https://sidebar.io/",
+          "supplied_url": "https://sidebar.io/",
+          "short_url": "https://t.co/mEGQ6jsFSn",
+          "original_positions": [
+            6
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "display_name": "Ubersuggest Apps and Integrations",
+          "group": "Search and SEO Integrations",
+          "url": "https://app.neilpatel.com/en/apps-integrations",
+          "description": "Ubersuggest's apps, connectors and partner integrations catalogue.",
+          "note": "The supplied aitools.neilpatel.com address now redirects here. It is no longer presented as a generic AI-product submission directory; no public backlink-listing route was verified.",
+          "evidence_urls": [
+            "https://aitools.neilpatel.com/",
+            "https://app.neilpatel.com/en/apps-integrations"
+          ],
+          "name": "aitools.neilpatel.com",
+          "supplied_url": "https://aitools.neilpatel.com/",
+          "short_url": "https://t.co/M4J6FbFLLE",
+          "original_positions": [
+            7
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "display_name": "G2",
+          "group": "Software Reviews and Tool Discovery",
+          "description": "Software reviews and comparisons platform for buyers and vendors.",
+          "note": "Already linked for competitor-review research. Use an appropriate software vendor/product presence rather than treating reviews as a generic website-link submission.",
+          "evidence_urls": [
+            "https://www.g2.com/"
+          ],
+          "name": "g2.com",
+          "url": "https://www.g2.com/",
+          "supplied_url": "https://www.g2.com/",
+          "short_url": "https://t.co/N1to9SjiAA",
+          "original_positions": [
+            8
+          ],
+          "previously_covered": true,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified",
+          "previous_match": "G2",
+          "previous_coverage_basis": "Review research link"
+        },
+        {
+          "name": "hashnode.com",
+          "group": "Developer and Digital Products",
+          "url": "https://hashnode.com/",
+          "status": "verified",
+          "description": "Blogging platform for developers and engineers to publish technical work.",
+          "note": "Best suited to useful technical articles and a credible author presence; assess publication rules before including promotional links.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://hashnode.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "Hashnode",
+          "supplied_url": "https://hashnode.com/",
+          "short_url": "https://t.co/sCkRn4rOd1",
+          "original_positions": [
+            9
+          ],
+          "previously_covered": true,
+          "previous_match": "Hashnode",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "name": "stackshare.io",
+          "group": "Developer and Digital Products",
+          "url": "https://stackshare.io/",
+          "status": "identity_verified_access_blocked",
+          "description": "Developer tool discovery and technology-stack sharing platform.",
+          "note": "Official tool and stack pages are indexed, but homepage and top-tools retrieval failed. Current submission and profile options remain unconfirmed.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://stackshare.io/",
+            "https://stackshare.io/tools/top",
+            "https://stackshare.io/companies/stackshare"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "StackShare",
+          "supplied_url": "https://stackshare.io/",
+          "short_url": "https://t.co/hckwS0AONd",
+          "original_positions": [
+            10
+          ],
+          "previously_covered": true,
+          "previous_match": "StackShare",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "name": "twelve.tools",
+          "group": "Startup Launches and Directories",
+          "url": "https://twelve.tools/",
+          "status": "verified",
+          "description": "Daily curated directory of tools and startups.",
+          "note": "The primary site has Submit your Tool and Pricing routes; distinct from twelve-tools.com. Current terms and link treatment need review.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://twelve.tools/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "Twelve Tools",
+          "supplied_url": "https://twelve.tools/",
+          "short_url": "https://t.co/6974U8QzdY",
+          "original_positions": [
+            11
+          ],
+          "previously_covered": true,
+          "previous_match": "Twelve Tools",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "name": "fazier.com",
+          "group": "Startup Launches and Directories",
+          "url": "https://fazier.com/",
+          "status": "verified",
+          "description": "Product discovery and launch platform with a dedicated submission page.",
+          "note": "The primary /submit page opened successfully. Its plans have different review, timing and badge requirements; check the selected plan instead of assuming uniform listing terms.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://fazier.com/submit"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "Fazier",
+          "supplied_url": "https://fazier.com/",
+          "short_url": "https://t.co/SuWDeXc7EW",
+          "original_positions": [
+            12
+          ],
+          "previously_covered": true,
+          "previous_match": "Fazier",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "display_name": "Dang",
+          "group": "AI Product Directories",
+          "description": "AI tools discovery directory with tool-submission navigation.",
+          "note": "Suitable for an actual AI product. Submission acceptance, price and published link treatment need checking for the chosen route.",
+          "evidence_urls": [
+            "https://dang.ai/"
+          ],
+          "name": "dang.ai",
+          "url": "https://dang.ai/",
+          "supplied_url": "https://dang.ai/",
+          "short_url": "https://t.co/BRdnDxbphi",
+          "original_positions": [
+            13
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "display_name": "Active Search Results",
+          "group": "Search and SEO Integrations",
+          "description": "Independent search engine with an Add a Website route.",
+          "note": "Submitting to this search engine is distinct from obtaining a directory listing or requesting Google indexing. Current submission conditions and outgoing-link attributes remain unchecked.",
+          "evidence_urls": [
+            "https://www.activesearchresults.com/"
+          ],
+          "name": "activesearchresults.com",
+          "url": "https://www.activesearchresults.com/",
+          "supplied_url": "https://www.activesearchresults.com/",
+          "short_url": "https://t.co/KLfWLYy2pP",
+          "original_positions": [
+            14
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "display_name": "ToolPilot",
+          "group": "AI Product Directories",
+          "description": "AI tools catalogue with Submit Your AI Tool navigation.",
+          "note": "Match the product to an AI-tool category and check current submission, review and placement terms; free submission is not assumed.",
+          "evidence_urls": [
+            "https://www.toolpilot.ai/"
+          ],
+          "name": "toolpilot.ai",
+          "url": "https://www.toolpilot.ai/",
+          "supplied_url": "https://www.toolpilot.ai/",
+          "short_url": "https://t.co/ipiZY32rVX",
+          "original_positions": [
+            15
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "display_name": "Startup Fame",
+          "group": "Startup Launches and Directories",
+          "description": "Startup discovery directory with reviewed startup profiles.",
+          "note": "The homepage describes a free Verified plan requiring a homepage badge and review, plus paid options. Its claimed followed links were not independently inspected.",
+          "evidence_urls": [
+            "https://startupfa.me/"
+          ],
+          "name": "startupfa.me",
+          "url": "https://startupfa.me/",
+          "supplied_url": "https://startupfa.me/",
+          "short_url": "https://t.co/FfxAbd7QNl",
+          "original_positions": [
+            16
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "name": "theresanaiforthat.com",
+          "group": "AI Product Directories",
+          "url": "https://theresanaiforthat.com/",
+          "status": "identity_verified_access_blocked",
+          "description": "AI application discovery platform organized around finding tools for tasks.",
+          "note": "Its official product profile confirms the identity. Homepage and featured-submission pages blocked retrieval; current listing terms were not verified.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://theresanaiforthat.com/",
+            "https://theresanaiforthat.com/get-featured/",
+            "https://www.linkedin.com/products/taaft-theres-an-ai-for-that/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "There's an AI for That",
+          "supplied_url": "https://theresanaiforthat.com/",
+          "short_url": "https://t.co/VZDd5o6gg5",
+          "original_positions": [
+            17
+          ],
+          "previously_covered": true,
+          "previous_match": "There's an AI for That",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "display_name": "CompareCamp",
+          "group": "Software Reviews and Tool Discovery",
+          "description": "Software review and comparison publication.",
+          "note": "The primary page links Request a Review and Write for Us. Those are review or editorial routes; no unrestricted free company-directory listing was verified.",
+          "evidence_urls": [
+            "https://comparecamp.com/"
+          ],
+          "name": "comparecamp.com",
+          "url": "https://comparecamp.com/",
+          "supplied_url": "https://comparecamp.com/",
+          "short_url": "https://t.co/XRML7N44Mz",
+          "original_positions": [
+            18
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "name": "saashub.com",
+          "group": "Software Reviews and Tool Discovery",
+          "url": "https://www.saashub.com/",
+          "status": "verified",
+          "description": "Software alternatives and reviews directory with a product submission form.",
+          "note": "Submissions undergo approval. Unreleased products, waiting-list pages, development agencies, free-subdomain products and non-English products are excluded.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.saashub.com/services/submit"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "SaaSHub",
+          "supplied_url": "https://www.saashub.com/",
+          "short_url": "https://t.co/WOf9DDqLn2",
+          "original_positions": [
+            19
+          ],
+          "previously_covered": true,
+          "submission_url": "https://www.saashub.com/services/submit",
+          "previous_match": "SaaSHub",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "display_name": "Viesearch",
+          "group": "Business and Web Directories",
+          "description": "Categorized web directory and human-curated discovery index.",
+          "note": "The primary page offers Add a Website/Submit and separate promotional placements. Check editorial eligibility, the selected option and current terms.",
+          "evidence_urls": [
+            "https://viesearch.com/"
+          ],
+          "name": "viesearch.com",
+          "url": "https://viesearch.com/",
+          "supplied_url": "https://viesearch.com/",
+          "short_url": "https://t.co/4nMoCmDGJx",
+          "original_positions": [
+            20
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "name": "uneed.best",
+          "group": "Startup Launches and Directories",
+          "url": "https://www.uneed.best/",
+          "status": "verified",
+          "description": "Product launch and discovery platform with launch scheduling and product pages.",
+          "note": "Publication retention and link attributes vary by launch route and upvote score. Inspect the current rules before choosing a launch option.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.uneed.best/how-it-works/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "Uneed",
+          "supplied_url": "https://www.uneed.best/",
+          "short_url": "https://t.co/Fh8NJsQOuj",
+          "original_positions": [
+            21
+          ],
+          "previously_covered": true,
+          "previous_match": "Uneed",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "display_name": "LinkCentre",
+          "group": "Business and Web Directories",
+          "description": "Web directory with website submission and country/category browsing.",
+          "note": "The homepage exposes Submit Website and Pricing and describes human review. Check the selected submission option and its actual published link.",
+          "evidence_urls": [
+            "https://www.linkcentre.com/"
+          ],
+          "name": "linkcentre.com",
+          "url": "https://www.linkcentre.com/",
+          "supplied_url": "https://www.linkcentre.com/",
+          "short_url": "https://t.co/uQIIGNqCE2",
+          "original_positions": [
+            22
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "name": "toolify.ai",
+          "group": "AI Product Directories",
+          "url": "https://www.toolify.ai/",
+          "status": "verified",
+          "description": "AI tools discovery directory with tool submission and promotional options.",
+          "note": "AI product relevance matters. The menu separates submission, advertising, updates and other business services; check the chosen route's requirements.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.toolify.ai/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "Toolify AI",
+          "supplied_url": "https://www.toolify.ai/",
+          "short_url": "https://t.co/VkNb0Jrxte",
+          "original_positions": [
+            23
+          ],
+          "previously_covered": true,
+          "previous_match": "Toolify AI",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "display_name": "MagicBox.tools",
+          "group": "AI Product Directories",
+          "description": "AI tools directory with search, categories and Submit navigation.",
+          "note": "Suitable for a relevant AI tool. Submission and advertising are shown separately; current acceptance, cost and link treatment need review.",
+          "evidence_urls": [
+            "https://magicbox.tools/"
+          ],
+          "name": "magicbox.tools",
+          "url": "https://magicbox.tools/",
+          "supplied_url": "https://magicbox.tools/",
+          "short_url": "https://t.co/fPP9tzNpoB",
+          "original_positions": [
+            24
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "display_name": "code.market",
+          "group": "Developer and Digital Products",
+          "description": "Curated digital-product catalogue covering software, templates and developer resources.",
+          "note": "The page offers Submit to Newsletter. Treat it as curated product/editorial exposure; no automatic general-startup listing or free followed backlink was verified.",
+          "evidence_urls": [
+            "https://code.market/"
+          ],
+          "name": "code.market",
+          "url": "https://code.market/",
+          "supplied_url": "https://code.market/",
+          "short_url": "https://t.co/kofrOTrtiH",
+          "original_positions": [
+            25
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "name": "sideprojectors.com",
+          "group": "Startup Launches and Directories",
+          "url": "https://www.sideprojectors.com/",
+          "status": "verified",
+          "description": "Marketplace for showcasing, buying and selling side projects and finding co-founders.",
+          "note": "Choose a listing that reflects the real purpose: showcase, sale or co-founder search. Its marketplace fit differs from a general company directory.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://www.sideprojectors.com/about",
+            "https://www.sideprojectors.com/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "SideProjectors",
+          "supplied_url": "https://www.sideprojectors.com/",
+          "short_url": "https://t.co/dxg2Ys8e6t",
+          "original_positions": [
+            26
+          ],
+          "previously_covered": true,
+          "previous_match": "SideProjectors",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "display_name": "Startup Stash",
+          "group": "Software Reviews and Tool Discovery",
+          "description": "Curated directory of tools and resources for startups.",
+          "note": "Fit is a useful startup tool or resource. No Submit route was found in the retrieved homepage; current listing or editorial contact requirements remain unconfirmed.",
+          "evidence_urls": [
+            "https://startupstash.com/"
+          ],
+          "name": "startupstash.com",
+          "url": "https://startupstash.com/",
+          "supplied_url": "https://startupstash.com/",
+          "short_url": "https://t.co/VA2jnmmVgb",
+          "original_positions": [
+            27
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
+        },
+        {
+          "name": "devhunt.org",
+          "group": "Developer and Digital Products",
+          "url": "https://devhunt.org/",
+          "status": "verified",
+          "description": "Launch and discovery platform focused on developer tools.",
+          "note": "Match the product to a developer audience. Current launch criteria, review and placement terms must be checked; a generic business site is a weaker fit.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://devhunt.org/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "DevHunt",
+          "supplied_url": "https://devhunt.org/",
+          "short_url": "https://t.co/msJDNXEaWB",
+          "original_positions": [
+            28
+          ],
+          "previously_covered": true,
+          "previous_match": "DevHunt",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "name": "microlaunch.net",
+          "group": "Startup Launches and Directories",
+          "url": "https://microlaunch.net/",
+          "status": "verified",
+          "description": "Startup launch and discovery platform with monthly product launches.",
+          "note": "Use the current product-launch process for a relevant startup and review its submission requirements and plans.",
+          "checked_on": "2026-10-11",
+          "evidence_urls": [
+            "https://microlaunch.net/"
+          ],
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "display_name": "Microlaunch",
+          "supplied_url": "https://microlaunch.net/",
+          "short_url": "https://t.co/dfnSROD0Op",
+          "original_positions": [
+            29
+          ],
+          "previously_covered": true,
+          "previous_match": "Microlaunch",
+          "previous_coverage_basis": "Earlier source list"
+        },
+        {
+          "display_name": "Ramen.tools",
+          "group": "Software Reviews and Tool Discovery",
+          "description": "Maker tool-stack sharing and discovery community.",
+          "note": "Use an accurate maker profile and real tools built or used. Sign-in and maker profiles are visible, but the current tool-listing process was not reviewed.",
+          "evidence_urls": [
+            "https://ramen.tools/"
+          ],
+          "name": "ramen.tools",
+          "url": "https://ramen.tools/",
+          "supplied_url": "https://ramen.tools/",
+          "short_url": "https://t.co/xKFBSGByiF",
+          "original_positions": [
+            30
+          ],
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "status": "verified"
         }
       ]
     }
   ],
   "review": {
-    "source_list_entries": 165,
-    "names_after_deduplication_within_lists": 160,
-    "verified": 150,
+    "source_list_entries": 195,
+    "names_after_deduplication_within_lists": 190,
+    "verified": 177,
     "unresolved": 4,
-    "identity_verified_access_blocked": 6,
-    "live_x_review_complete": false
+    "identity_verified_access_blocked": 9,
+    "live_x_review_complete": false,
+    "export_source_lists": 2,
+    "user_supplied_source_lists": 1
   },
   "additional_destinations": [
     {

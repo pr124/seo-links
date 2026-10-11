@@ -4,7 +4,7 @@ A curated SEO toolkit for indie founders: research demand, fix technical issues,
 
 > Browse by the stage of your SEO work. Each section brings together tools, practical playbooks and examples.
 
-Curated from **48 SEO-related bookmarks** in the 11 October 2026 export, grouped into **46 entries**. Summaries use the exported post text. **Preview only** marks resources whose article, media or implementation details could not be reviewed. [Review coverage](docs/source-review.md).
+Curated from **48 SEO-related bookmarks** in the 11 October 2026 export, grouped into **46 entries**. Summaries use the exported post text. One additional user-supplied post contributes a complete [30-destination list](#thirty-startup-backlink-destinations), recorded separately from the export. **Preview only** marks resources whose article, media or implementation details could not be reviewed. [Review coverage](docs/source-review.md).
 
 ## Contents
 
@@ -40,7 +40,7 @@ Tools named in the bookmarks, with direct links to their official websites. Choo
 - [Google Trends](https://trends.google.com/trends/) - Explore interest by topic, location and time.
 - [Ahrefs](https://ahrefs.com/) - Keyword, competitor and backlink research.
 - [Semrush](https://www.semrush.com/) - SEO research, audits and visibility tracking.
-- [Ubersuggest](https://neilpatel.com/ubersuggest/) - Keyword and competitor research.
+- [Ubersuggest](https://neilpatel.com/ubersuggest/) - Keyword and competitor research; [apps and integrations](https://app.neilpatel.com/en/apps-integrations) is the current destination of the supplied aitools.neilpatel.com link.
 - [Mangools](https://mangools.com/) - Keyword, SERP, backlink and rank-tracking tools.
 - [SE Ranking](https://seranking.com/) - Keyword research, rank tracking and site audits.
 
@@ -211,13 +211,14 @@ Find relevant listings, existing mentions and outreach prospects.
 
 ## Backlink Opportunities and DR
 
-The full source lists are included here: **38 names** from the MCP/SaaS submission post and **122 unique names** from the 127-entry startup backlink post. Repeated names in the latter retain every original position in the [source catalogue](data/directory-catalog.json) and [prospect register](docs/backlink-prospects.md).
+The full source lists are included here: **38 names** from the MCP/SaaS submission post, **122 unique names** from the 127-entry startup backlink post, and **all 30 destinations** from the additional user-supplied post. Repeated names in the latter retain every original position in the [source catalogue](data/directory-catalog.json) and [prospect register](docs/backlink-prospects.md).
 
 - [MCP and SaaS submission list](#mcp-and-saas-submission-list) - All four groups from the post.
 - [Startup backlink prospect list](#startup-backlink-prospect-list) - Launch sites, AI products, developer resources, reviews, communities, publications and other platforms.
+- [Thirty startup backlink destinations](#thirty-startup-backlink-destinations) - The complete new post, with 16 missing destinations added and 14 previously covered sites cross-referenced.
 - [Additional checked destinations](#additional-checked-destinations) - Two separately researched resources.
 
-Of the 160 source-list entries, **150 were matched using accessible primary websites, documentation or support pages**, **six have limited reader access**, and **four names remain ambiguous** with candidate links shown. A primary reference can be readable even when its homepage requires JavaScript or blocks this reader. Submission acceptance, fees and backlink attributes have not been verified for every entry.
+Of the 190 entries across the three source lists after deduplicating within each list, **177 were matched using accessible primary websites, documentation or support pages**, **nine have limited reader access**, and **four names remain ambiguous** with candidate links shown. Some destinations recur across posts; 190 is a source-list entry count, not a count of distinct websites. A primary reference can be readable even when its homepage requires JavaScript or blocks this reader. Submission acceptance, fees and backlink attributes have not been verified for every entry.
 
 [Domain Rating (DR)](https://help.ahrefs.com/en/articles/1409408-what-is-domain-rating-dr) measures relative backlink-profile strength in Ahrefs; it is [not a Google ranking factor](https://help.ahrefs.com/en/articles/907673-do-search-engines-use-domain-authority-domain-rating-as-a-ranking-factor). The authors' DR results remain unverified. Choose relevant destinations, then record the actual listing URL, link attributes and referral traffic.
 
@@ -443,7 +444,7 @@ Publications and interviews for a substantive founder story, expert contribution
 - [TechCrunch](https://techcrunch.com/contact-us/) - Technology news outlet for newsworthy startup and product story pitches.
 - [The SaaS Podcast](https://saasclub.io/saas-podcast/) - SaaS Club podcast featuring interviews about building and growing software businesses.
 - [VentureBeat](https://venturebeat.com/contact-2) - Enterprise AI news publisher for relevant editorial pitches.
-- [YourStory](https://yourstory.com/) - Entrepreneurship and startup story publisher with a strong focus on India's startup ecosystem.
+- [YourStory](https://yourstory.com/) - Entrepreneurship and startup story publisher with a strong focus on India's startup ecosystem. The separate [company directory](https://yourstory.com/companies) has a List Your Company route.
 
 </details>
 
@@ -466,6 +467,84 @@ Creator profiles, media platforms and other names from the source. These serve s
 - [SEO Wins](https://seowins.io/) - SEO and AI SEO strategies product and educational resource. This is the source author's SEO strategies business. No public product-submission directory or ordinary backlink-listing route was verified.
 - [WikiHow](https://www.wikihow.com/) - How-to publisher with instructional and expert content. **Access limited.** Primary indexed pages confirm the identity; current submission details could not be checked.
 - [Wikipedia](https://en.wikipedia.org/) - Encyclopedia where external links must serve article and reader relevance. Its external-links guideline excludes links mainly intended to promote a website or sell products. It is unsuitable for routine promotional link submissions.
+
+</details>
+
+### Thirty Startup Backlink Destinations
+
+Source: [@Miracle_NNnn’s 30-site post](https://x.com/Miracle_NNnn/status/2109171648800723025). The user supplied the full text; the live X post was unavailable. All 30 labels and their original positions are retained. **14 destinations were already covered; 16 were missing and are now added.**
+
+The author describes the list as free “Do Follow” backlinks. That blanket claim is unverified: these sites include launch platforms, curated publications, profiles, software reviews and a search engine. Check the actual submission rules and resulting listing link. **Access limited** identifies WhatLaunched, StackShare and There’s an AI for That.
+
+<details>
+<summary><strong>Startup Launches and Directories</strong> - 9 destinations</summary>
+
+- **#1** [whatlaunched.today](https://whatlaunched.today/) - Startup launch and discovery directory. Primary indexed pages confirm the directory, but homepage and English-page retrieval failed. Current submission plans and listing rules remain unconfirmed. **Access limited.**
+- **#2** [tools.launchllama.co](https://tools.launchllama.co/) - Curated startup and tool launch directory. The tools subdomain is the actual listing directory. Submission and editorial newsletter selection are separate; current plans and review rules vary. Already covered elsewhere in this repo.
+- **#3** [feedmystartup.com](https://feedmystartup.com/) - Startup and app discovery directory with submission links. The homepage exposes Submit Your Startup and Submit Your App. Check the current editorial process and applicable submission terms.
+- **#11** [twelve.tools](https://twelve.tools/) - Daily curated directory of tools and startups. The primary site has Submit your Tool and Pricing routes; distinct from twelve-tools.com. Current terms and link treatment need review. Already covered elsewhere in this repo.
+- **#12** [fazier.com](https://fazier.com/) - Product discovery and launch platform with a dedicated submission page. The primary /submit page opened successfully. Its plans have different review, timing and badge requirements; check the selected plan instead of assuming uniform listing terms. Already covered elsewhere in this repo.
+- **#16** [startupfa.me](https://startupfa.me/) - Startup discovery directory with reviewed startup profiles. The homepage describes a free Verified plan requiring a homepage badge and review, plus paid options. Its claimed followed links were not independently inspected.
+- **#21** [uneed.best](https://www.uneed.best/) - Product launch and discovery platform with launch scheduling and product pages. Publication retention and link attributes vary by launch route and upvote score. Inspect the current rules before choosing a launch option. Already covered elsewhere in this repo.
+- **#26** [sideprojectors.com](https://www.sideprojectors.com/) - Marketplace for showcasing, buying and selling side projects and finding co-founders. Choose a listing that reflects the real purpose: showcase, sale or co-founder search. Its marketplace fit differs from a general company directory. Already covered elsewhere in this repo.
+- **#29** [microlaunch.net](https://microlaunch.net/) - Startup launch and discovery platform with monthly product launches. Use the current product-launch process for a relevant startup and review its submission requirements and plans. Already covered elsewhere in this repo.
+
+</details>
+
+<details>
+<summary><strong>AI Product Directories</strong> - 5 destinations</summary>
+
+- **#13** [dang.ai](https://dang.ai/) - AI tools discovery directory with tool-submission navigation. Suitable for an actual AI product. Submission acceptance, price and published link treatment need checking for the chosen route.
+- **#15** [toolpilot.ai](https://www.toolpilot.ai/) - AI tools catalogue with Submit Your AI Tool navigation. Match the product to an AI-tool category and check current submission, review and placement terms; free submission is not assumed.
+- **#17** [theresanaiforthat.com](https://theresanaiforthat.com/) - AI application discovery platform organized around finding tools for tasks. Its official product profile confirms the identity. Homepage and featured-submission pages blocked retrieval; current listing terms were not verified. **Access limited.** Already covered elsewhere in this repo.
+- **#23** [toolify.ai](https://www.toolify.ai/) - AI tools discovery directory with tool submission and promotional options. AI product relevance matters. The menu separates submission, advertising, updates and other business services; check the chosen route's requirements. Already covered elsewhere in this repo.
+- **#24** [magicbox.tools](https://magicbox.tools/) - AI tools directory with search, categories and Submit navigation. Suitable for a relevant AI tool. Submission and advertising are shown separately; current acceptance, cost and link treatment need review.
+
+</details>
+
+<details>
+<summary><strong>Software Reviews and Tool Discovery</strong> - 5 destinations</summary>
+
+- **#8** [g2.com](https://www.g2.com/) - Software reviews and comparisons platform for buyers and vendors. Already linked for competitor-review research. Use an appropriate software vendor/product presence rather than treating reviews as a generic website-link submission. Already covered elsewhere in this repo.
+- **#18** [comparecamp.com](https://comparecamp.com/) - Software review and comparison publication. The primary page links Request a Review and Write for Us. Those are review or editorial routes; no unrestricted free company-directory listing was verified.
+- **#19** [saashub.com](https://www.saashub.com/) - Software alternatives and reviews directory with a product submission form. Submissions undergo approval. Unreleased products, waiting-list pages, development agencies, free-subdomain products and non-English products are excluded. Already covered elsewhere in this repo. [Submission page](https://www.saashub.com/services/submit).
+- **#27** [startupstash.com](https://startupstash.com/) - Curated directory of tools and resources for startups. Fit is a useful startup tool or resource. No Submit route was found in the retrieved homepage; current listing or editorial contact requirements remain unconfirmed.
+- **#30** [ramen.tools](https://ramen.tools/) - Maker tool-stack sharing and discovery community. Use an accurate maker profile and real tools built or used. Sign-in and maker profiles are visible, but the current tool-listing process was not reviewed.
+
+</details>
+
+<details>
+<summary><strong>Developer and Digital Products</strong> - 4 destinations</summary>
+
+- **#9** [hashnode.com](https://hashnode.com/) - Blogging platform for developers and engineers to publish technical work. Best suited to useful technical articles and a credible author presence; assess publication rules before including promotional links. Already covered elsewhere in this repo.
+- **#10** [stackshare.io](https://stackshare.io/) - Developer tool discovery and technology-stack sharing platform. Official tool and stack pages are indexed, but homepage and top-tools retrieval failed. Current submission and profile options remain unconfirmed. **Access limited.** Already covered elsewhere in this repo.
+- **#25** [code.market](https://code.market/) - Curated digital-product catalogue covering software, templates and developer resources. The page offers Submit to Newsletter. Treat it as curated product/editorial exposure; no automatic general-startup listing or free followed backlink was verified.
+- **#28** [devhunt.org](https://devhunt.org/) - Launch and discovery platform focused on developer tools. Match the product to a developer audience. Current launch criteria, review and placement terms must be checked; a generic business site is a weaker fit. Already covered elsewhere in this repo.
+
+</details>
+
+<details>
+<summary><strong>Editorial and Company Listings</strong> - 2 destinations</summary>
+
+- **#4** [yourstory.com/companies](https://yourstory.com/companies) - YourStory's searchable company directory with a List Your Company route. This specific company-listing page differs from the editorial story-pitch route already covered. Its linked listing form and acceptance conditions need review before submission. Already covered elsewhere in this repo.
+- **#6** [sidebar.io](https://sidebar.io/) - Curated design-link publication and newsletter. Fit is useful design articles and resources selected by editors. No self-serve startup-listing or submission route was found in the retrieved homepage.
+
+</details>
+
+<details>
+<summary><strong>Business and Web Directories</strong> - 3 destinations</summary>
+
+- **#5** [brownbook.net](https://www.brownbook.net/) - Business directory offering company profiles, listing and claiming. The provider advertises free listing, claiming and Profile+ on its homepage. Listing eligibility and the actual published link attributes were not independently checked.
+- **#20** [viesearch.com](https://viesearch.com/) - Categorized web directory and human-curated discovery index. The primary page offers Add a Website/Submit and separate promotional placements. Check editorial eligibility, the selected option and current terms.
+- **#22** [linkcentre.com](https://www.linkcentre.com/) - Web directory with website submission and country/category browsing. The homepage exposes Submit Website and Pricing and describes human review. Check the selected submission option and its actual published link.
+
+</details>
+
+<details>
+<summary><strong>Search and SEO Integrations</strong> - 2 destinations</summary>
+
+- **#7** [aitools.neilpatel.com](https://app.neilpatel.com/en/apps-integrations) - Ubersuggest's apps, connectors and partner integrations catalogue. The supplied aitools.neilpatel.com address now redirects here. It is no longer presented as a generic AI-product submission directory; no public backlink-listing route was verified.
+- **#14** [activesearchresults.com](https://www.activesearchresults.com/) - Independent search engine with an Add a Website route. Submitting to this search engine is distinct from obtaining a directory listing or requesting Google indexing. Current submission conditions and outgoing-link attributes remain unchecked.
 
 </details>
 
@@ -654,7 +733,7 @@ Author-reported examples and opinions. Outcomes and ranking claims have not been
 
 The export contained 100 bookmarks: 48 confirmed SEO sources, 26 clearly outside SEO and 26 link-only items whose subjects could not be established. The link-only items are not counted as non-SEO.
 
-The complete directory inventory expands the two large source lists: 38 names from row 40 and 122 unique names from row 94. Primary destination research, six documented MCP integrations and missing review/webmaster links are recorded separately from the 48-source bookmark count. Four ambiguous names remain visible with candidate links; six entries have limited reader access.
+The complete directory inventory covers 38 names from export row 40, 122 unique names from row 94 and all 30 destinations from the additional user-supplied post. The new post added 16 previously missing destinations and clarified the YourStory company-listing route and Neil Patel redirect. Primary destination research, six documented MCP integrations and the additional post are recorded separately from the 48-source bookmark count. Four ambiguous names remain visible with candidate links; nine source-list entries have limited reader access.
 
 Live X access was unavailable for every attempted post. Linked article bodies, images, videos and replies have not been treated as read. The source register records what each summary is based on and which details still need review.
 
@@ -672,3 +751,4 @@ Live X access was unavailable for every attempted post. Linked article bodies, i
 - [Evaluating Third-Party SEO Advice](https://developers.google.com/search/docs/fundamentals/third-party-seo) - How to assess external tools and ranking claims.
 
 To add a resource, record its original URL, author, date, topic, useful takeaway and whether the full content was accessible. Keep repeated posts together and update the review status after reading the linked material.
+
