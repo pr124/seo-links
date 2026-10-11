@@ -211,3 +211,7 @@ The cited research figures were not independently checked, and correlations are 
 The bookmark's [OpenSEO announcement](https://x.com/ossalternative/status/2102518350178091297), original row 55, names the project behind https://t.co/GedlnKeyOf. The short URL still could not be resolved, but the matching [upstream repository](https://github.com/every-app/open-seo) and its README were read directly. Added once under Core Tools, with a link to MCP setup rather than duplicating the tool as a second resource.
 
 The README documents keyword research, rank tracking, competitor insights, backlinks, audits, AI visibility, self-hosting and an MCP server. Self-hosted SEO data requires a DataForSEO API key and paid API usage; hosting can add costs. No installation or runtime test was performed, and the announcement's star count was not verified.
+
+## Additional SEO resource collections
+
+Reviewed teles/awesome-seo and bmpi-dev/awesome-seo on 11 October 2026. Added 24 selected destinations to the existing tools/implementation index; original bookmark resource counts remain unchanged. [Review, additions, duplicate identities and deferred links](awesome-seo-review.md). No tools were installed or runtime-tested.

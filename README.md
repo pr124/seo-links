@@ -39,7 +39,7 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 </details>
 
 <details>
-<summary><strong>Keyword Research and Competitors</strong> - 6 tools</summary>
+<summary><strong>Keyword Research and Competitors</strong> - 10 resources</summary>
 
 - [Google Trends](https://trends.google.com/trends/) - Explore interest by topic, location and time.
 - [Ahrefs](https://ahrefs.com/) - Keyword, competitor and backlink research.
@@ -48,15 +48,22 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 - [Mangools](https://mangools.com/) - Keyword, SERP, backlink and rank-tracking tools.
 - [SE Ranking](https://seranking.com/) - Keyword research, rank tracking and site audits.
 
+- [Keyword Tool](https://keywordtool.io/) - Find autocomplete-based keyword ideas across search platforms; advanced metrics depend on the plan.
+- [SpyFu](https://www.spyfu.com/) - Research competitor organic keywords, ranking history and backlink opportunities; vendor estimates are not first-party analytics.
+- [Majestic](https://majestic.com/) - Inspect backlinks, referring domains and link context; its proprietary scores are not Google ranking scores.
+- [Similarweb](https://www.similarweb.com/) - Explore competitor traffic and channel research; use external measurements for context alongside your own analytics.
 </details>
 
 <details>
-<summary><strong>Technical Audits and Automation</strong> - 3 tools</summary>
+<summary><strong>Technical Audits and Automation</strong> - 6 resources</summary>
 
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Crawl pages to inspect technical SEO issues.
 - [DataForSEO](https://dataforseo.com/) - SEO data APIs for repeatable research workflows.
 - [Index My Site](https://indexmysite.app/) - Bulk URL submissions and indexing-job tracking. Indexing is Google's decision.
 
+- [Seobility](https://www.seobility.net/en/) - Website audits, rank monitoring and backlink analysis; review current plan limits.
+- [Screpy](https://screpy.com/) - Website audits, rank tracking, performance monitoring and SEO reporting.
+- [Raven Tools](https://raventools.com/) - Site auditing, rank tracking, backlink research and reporting.
 </details>
 
 <details>
@@ -67,27 +74,74 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 </details>
 
 <details>
-<summary><strong>GitHub Repositories and Self-Hosted SEO</strong> - 2 projects</summary>
+<summary><strong>GitHub Repositories and Self-Hosted SEO</strong> - 6 resources</summary>
 
 - [OpenSEO](https://github.com/every-app/open-seo) - Self-hosted keyword research, rank tracking, competitor insights, backlinks, site audits and AI visibility; includes an MCP server and agent skills. Requires a DataForSEO API key and paid usage; [MCP setup](https://openseo.so/docs/mcp).
 - [Jev SEO](https://github.com/AgriciDaniel/jev-seo) - Local SEO crawler and audit-report generator, usable as a CLI or Claude Code skill. Produces PDF, spreadsheet and Markdown reports. Jev judgments require TypeSafe API access; optional extended research uses paid DataForSEO. Audit scores are heuristics, not ranking predictions. Documentation reviewed; not installed or runtime-tested.
 
+- [advertools](https://github.com/eliasdabbas/advertools) - Python library for crawling, sitemap and robots.txt analysis, URL processing and server-log analysis. Some integrations require separate provider access.
+- [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Self-hosted dashboard for prompts, brand mentions and citations. Live tracking uses Bright Data; analysis may use OpenRouter and other paid APIs. Demo mode uses sample data, and its heuristic scores are not ranking factors.
+- [mesure-citations](https://github.com/thomasmerlaud/mesure-citations) - French-language Node CLI to maintain a fixed prompt corpus, record manual observations and compare mentions with linked citations. Does not query AI services automatically; no API key required.
+- [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - Node CLI and GitHub Action for robots.txt checks, live reachability and log analysis. Treat its visibility score as a heuristic; check current operator documentation rather than adopting its default bot policies blindly.
 </details>
 
 <details>
-<summary><strong>Reusable SEO Skills</strong> - 2 collections</summary>
+<summary><strong>Reusable SEO Skills</strong> - 3 resources</summary>
 
 - [OpenSEO Agent Skills](https://openseo.so/docs/skills/setup) - Workflows for keyword research and clustering, competitor analysis, local SEO, link prospecting and audits. Requires a working OpenSEO MCP connection; [skill source files](https://github.com/every-app/open-seo/tree/main/plugins/openseo/skills). The keyword-research skill was inspected directly.
 - [Jev SEO skill workflow](https://github.com/AgriciDaniel/jev-seo/blob/main/SKILL.md) - Workflow for running the audit, checking surprising findings and producing reports. Uses the Jev SEO repo above and its API/dependency setup. Review model-generated judgments before acting on them.
 
+- [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - SEO and analytics workflows for audits, keyword research, sitemaps, local SEO and content. Former NotFair and toprank links resolve to this one repo. Live account workflows need its OAuth-connected MCP and authorized provider access; documentation reviewed, not installed.
 </details>
 
 <details>
-<summary><strong>SEO Reference Websites and Validators</strong> - 3 destinations</summary>
+<summary><strong>SEO Reference Websites and Validators</strong> - 5 resources</summary>
 
 - [Google Search Central](https://developers.google.com/search/docs) - Official documentation for crawl access, indexing, content, structured data and search appearance. See the [selected official references](#official-references).
 - [Schema Markup Validator](https://validator.schema.org/) - Check Schema.org markup syntax and vocabulary; validation does not establish rich-result eligibility or ranking benefits.
 - [Bing Webmaster API documentation](https://learn.microsoft.com/en-us/bingwebmaster/) - Documentation for registered-site search and indexing data.
+
+- [Schema.org vocabulary](https://schema.org/docs/schemas.html) - Look up structured-data types and properties; Schema.org vocabulary is broader than Google's supported rich-result types.
+- [Open Graph protocol](https://ogp.me/) - Reference for social-preview metadata; distinct from Google structured-data eligibility.
+</details>
+
+<details>
+<summary><strong>Performance and Accessibility</strong> - 3 resources</summary>
+
+- [PageSpeed Insights](https://pagespeed.web.dev/) - Inspect page performance and available real-user data; a test score is not a ranking guarantee.
+- [GTmetrix](https://gtmetrix.com/) - Analyze page loads, request waterfalls and performance changes; account and plan limits apply.
+- [WAVE](https://wave.webaim.org/) - Find accessibility issues and support manual evaluation; automated checks cannot establish complete compliance.
+
+</details>
+
+<details>
+<summary><strong>Browser Extensions</strong> - 2 resources</summary>
+
+- [Keyword Surfer](https://surferseo.com/keyword-surfer-extension/) - View keyword ideas and volume estimates in search results, with keyword collections and CSV export.
+- [META SEO inspector](https://www.omiod.com/meta-seo-inspector/) - Inspect page metadata and identify missing or inconsistent on-page information.
+
+</details>
+
+<details>
+<summary><strong>Structured Data and Metadata</strong> - 1 resources</summary>
+
+- [Google Rich Results Test](https://search.google.com/test/rich-results) - Test URLs or code for supported Google rich-result markup; a valid test does not guarantee display.
+
+</details>
+
+<details>
+<summary><strong>SEO Learning and Updates</strong> - 2 resources</summary>
+
+- [Google Search Central Blog](https://developers.google.com/search/blog) - Official search announcements and documentation updates.
+- [Ahrefs Blog](https://ahrefs.com/blog/) - Research and practical SEO tutorials from the tool provider; distinguish studies, opinions and current search-engine requirements.
+
+</details>
+
+<details>
+<summary><strong>More SEO Resource Collections</strong> - 2 resources</summary>
+
+- [teles/awesome-seo](https://github.com/teles/awesome-seo) - Broad discovery list of SEO tools and references; individual listings and claims need their own checks.
+- [bmpi-dev/awesome-seo](https://github.com/bmpi-dev/awesome-seo) - SEO learning and tool collection with English and Chinese resources; includes older material and non-SEO monetization topics.
 
 </details>
 
@@ -642,6 +696,7 @@ User text recovered two backlink fragments, two Mehrab signal fragments and the 
 - [Full directory source archive and original positions](docs/backlink-prospects.md)
 - [Unique destination index](data/destinations.json)
 - [Structured resources and curation policy](data/resources.json)
+- [Awesome SEO collection review and additions](docs/awesome-seo-review.md)
 - [Ranking claims and primary references](docs/content-quality.md)
 
 ### Official References

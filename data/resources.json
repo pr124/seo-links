@@ -191,6 +191,192 @@
       ],
       "official_page_access": "verified",
       "runtime_tested": false
+    },
+    {
+      "name": "Keyword Tool",
+      "url": "https://keywordtool.io/",
+      "group": "Keyword Research and Competitors",
+      "description": "Find autocomplete-based keyword ideas across search platforms; advanced metrics depend on the plan.",
+      "origin": [
+        "teles"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
+    },
+    {
+      "name": "SpyFu",
+      "url": "https://www.spyfu.com/",
+      "group": "Keyword Research and Competitors",
+      "description": "Research competitor organic keywords, ranking history and backlink opportunities; vendor estimates are not first-party analytics.",
+      "origin": [
+        "bmpi"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
+    },
+    {
+      "name": "Majestic",
+      "url": "https://majestic.com/",
+      "group": "Keyword Research and Competitors",
+      "description": "Inspect backlinks, referring domains and link context; its proprietary scores are not Google ranking scores.",
+      "origin": [
+        "bmpi"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
+    },
+    {
+      "name": "Similarweb",
+      "url": "https://www.similarweb.com/",
+      "group": "Keyword Research and Competitors",
+      "description": "Explore competitor traffic and channel research; use external measurements for context alongside your own analytics.",
+      "origin": [
+        "teles",
+        "bmpi"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
+    },
+    {
+      "name": "Seobility",
+      "url": "https://www.seobility.net/en/",
+      "group": "Technical Audits and Automation",
+      "description": "Website audits, rank monitoring and backlink analysis; review current plan limits.",
+      "origin": [
+        "teles"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
+    },
+    {
+      "name": "Screpy",
+      "url": "https://screpy.com/",
+      "group": "Technical Audits and Automation",
+      "description": "Website audits, rank tracking, performance monitoring and SEO reporting.",
+      "origin": [
+        "teles",
+        "bmpi"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
+    },
+    {
+      "name": "Raven Tools",
+      "url": "https://raventools.com/",
+      "group": "Technical Audits and Automation",
+      "description": "Site auditing, rank tracking, backlink research and reporting.",
+      "origin": [
+        "teles",
+        "bmpi"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
+    },
+    {
+      "name": "PageSpeed Insights",
+      "url": "https://pagespeed.web.dev/",
+      "group": "Performance and Accessibility",
+      "description": "Inspect page performance and available real-user data; a test score is not a ranking guarantee.",
+      "origin": [
+        "teles",
+        "bmpi"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
+    },
+    {
+      "name": "GTmetrix",
+      "url": "https://gtmetrix.com/",
+      "group": "Performance and Accessibility",
+      "description": "Analyze page loads, request waterfalls and performance changes; account and plan limits apply.",
+      "origin": [
+        "teles"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
+    },
+    {
+      "name": "WAVE",
+      "url": "https://wave.webaim.org/",
+      "group": "Performance and Accessibility",
+      "description": "Find accessibility issues and support manual evaluation; automated checks cannot establish complete compliance.",
+      "origin": [
+        "teles"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
+    },
+    {
+      "name": "Keyword Surfer",
+      "url": "https://surferseo.com/keyword-surfer-extension/",
+      "group": "Browser Extensions",
+      "description": "View keyword ideas and volume estimates in search results, with keyword collections and CSV export.",
+      "origin": [
+        "bmpi"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
+    },
+    {
+      "name": "META SEO inspector",
+      "url": "https://www.omiod.com/meta-seo-inspector/",
+      "group": "Browser Extensions",
+      "description": "Inspect page metadata and identify missing or inconsistent on-page information.",
+      "origin": [
+        "bmpi"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
+    },
+    {
+      "name": "Google Rich Results Test",
+      "url": "https://search.google.com/test/rich-results",
+      "group": "Structured Data and Metadata",
+      "description": "Test URLs or code for supported Google rich-result markup; a valid test does not guarantee display.",
+      "origin": [
+        "teles"
+      ],
+      "checked_on": "2026-10-11",
+      "documentation_reviewed": true,
+      "runtime_tested": false,
+      "official_page_access": "verified",
+      "sources": []
     }
   ],
   "resources": [
@@ -2551,6 +2737,55 @@
         "requirements": "Local Python and report-rendering dependencies; TypeSafe API for judgments; optional paid DataForSEO research.",
         "documentation_reviewed": true,
         "runtime_tested": false
+      },
+      {
+        "name": "advertools",
+        "url": "https://github.com/eliasdabbas/advertools",
+        "group": "GitHub Repositories and Self-Hosted SEO",
+        "description": "Python library for crawling, sitemap and robots.txt analysis, URL processing and server-log analysis. Some integrations require separate provider access.",
+        "origin": [
+          "bmpi"
+        ],
+        "checked_on": "2026-10-11",
+        "documentation_reviewed": true,
+        "runtime_tested": false
+      },
+      {
+        "name": "GEO/AEO Tracker",
+        "url": "https://github.com/danishashko/geo-aeo-tracker",
+        "group": "GitHub Repositories and Self-Hosted SEO",
+        "description": "Self-hosted dashboard for prompts, brand mentions and citations. Live tracking uses Bright Data; analysis may use OpenRouter and other paid APIs. Demo mode uses sample data, and its heuristic scores are not ranking factors.",
+        "origin": [
+          "teles",
+          "bmpi"
+        ],
+        "checked_on": "2026-10-11",
+        "documentation_reviewed": true,
+        "runtime_tested": false
+      },
+      {
+        "name": "mesure-citations",
+        "url": "https://github.com/thomasmerlaud/mesure-citations",
+        "group": "GitHub Repositories and Self-Hosted SEO",
+        "description": "French-language Node CLI to maintain a fixed prompt corpus, record manual observations and compare mentions with linked citations. Does not query AI services automatically; no API key required.",
+        "origin": [
+          "teles"
+        ],
+        "checked_on": "2026-10-11",
+        "documentation_reviewed": true,
+        "runtime_tested": false
+      },
+      {
+        "name": "ai-crawler-bots",
+        "url": "https://github.com/TryGeoSuite/ai-crawler-bots",
+        "group": "GitHub Repositories and Self-Hosted SEO",
+        "description": "Node CLI and GitHub Action for robots.txt checks, live reachability and log analysis. Treat its visibility score as a heuristic; check current operator documentation rather than adopting its default bot policies blindly.",
+        "origin": [
+          "teles"
+        ],
+        "checked_on": "2026-10-11",
+        "documentation_reviewed": true,
+        "runtime_tested": false
       }
     ],
     "skills": [
@@ -2568,6 +2803,18 @@
         "requirements": "Jev SEO repo and API/dependency setup",
         "review_basis": "Upstream README documents skill workflow; installation not tested.",
         "runtime_tested": false
+      },
+      {
+        "name": "NotFair Plugin",
+        "url": "https://github.com/nowork-studio/notfair-plugin",
+        "group": "Reusable SEO Skills",
+        "description": "SEO and analytics workflows for audits, keyword research, sitemaps, local SEO and content. Former NotFair and toprank links resolve to this one repo. Live account workflows need its OAuth-connected MCP and authorized provider access; documentation reviewed, not installed.",
+        "origin": [
+          "teles"
+        ],
+        "checked_on": "2026-10-11",
+        "documentation_reviewed": true,
+        "runtime_tested": false
       }
     ],
     "websites": [
@@ -2582,6 +2829,78 @@
       {
         "name": "Bing Webmaster API documentation",
         "url": "https://learn.microsoft.com/en-us/bingwebmaster/"
+      },
+      {
+        "name": "Schema.org vocabulary",
+        "url": "https://schema.org/docs/schemas.html",
+        "group": "SEO Reference Websites and Validators",
+        "description": "Look up structured-data types and properties; Schema.org vocabulary is broader than Google's supported rich-result types.",
+        "origin": [
+          "teles"
+        ],
+        "checked_on": "2026-10-11",
+        "documentation_reviewed": true,
+        "runtime_tested": false
+      },
+      {
+        "name": "Open Graph protocol",
+        "url": "https://ogp.me/",
+        "group": "SEO Reference Websites and Validators",
+        "description": "Reference for social-preview metadata; distinct from Google structured-data eligibility.",
+        "origin": [
+          "teles"
+        ],
+        "checked_on": "2026-10-11",
+        "documentation_reviewed": true,
+        "runtime_tested": false
+      },
+      {
+        "name": "Google Search Central Blog",
+        "url": "https://developers.google.com/search/blog",
+        "group": "SEO Learning and Updates",
+        "description": "Official search announcements and documentation updates.",
+        "origin": [
+          "bmpi"
+        ],
+        "checked_on": "2026-10-11",
+        "documentation_reviewed": true,
+        "runtime_tested": false
+      },
+      {
+        "name": "Ahrefs Blog",
+        "url": "https://ahrefs.com/blog/",
+        "group": "SEO Learning and Updates",
+        "description": "Research and practical SEO tutorials from the tool provider; distinguish studies, opinions and current search-engine requirements.",
+        "origin": [
+          "bmpi"
+        ],
+        "checked_on": "2026-10-11",
+        "documentation_reviewed": true,
+        "runtime_tested": false
+      },
+      {
+        "name": "teles/awesome-seo",
+        "url": "https://github.com/teles/awesome-seo",
+        "group": "More SEO Resource Collections",
+        "description": "Broad discovery list of SEO tools and references; individual listings and claims need their own checks.",
+        "origin": [
+          "user"
+        ],
+        "checked_on": "2026-10-11",
+        "documentation_reviewed": true,
+        "runtime_tested": false
+      },
+      {
+        "name": "bmpi-dev/awesome-seo",
+        "url": "https://github.com/bmpi-dev/awesome-seo",
+        "group": "More SEO Resource Collections",
+        "description": "SEO learning and tool collection with English and Chinese resources; includes older material and non-SEO monetization topics.",
+        "origin": [
+          "user"
+        ],
+        "checked_on": "2026-10-11",
+        "documentation_reviewed": true,
+        "runtime_tested": false
       }
     ]
   },
@@ -2599,6 +2918,197 @@
       },
       "reviewed_on": "2026-10-11",
       "guide_display": "Text tip within existing outreach group"
+    }
+  ],
+  "collection_reviews": [
+    {
+      "reviewed_on": "2026-10-11",
+      "sources": [
+        "https://github.com/teles/awesome-seo",
+        "https://github.com/bmpi-dev/awesome-seo"
+      ],
+      "selected_destinations": [
+        {
+          "name": "Keyword Tool",
+          "url": "https://keywordtool.io/",
+          "source_collections": [
+            "teles"
+          ]
+        },
+        {
+          "name": "SpyFu",
+          "url": "https://www.spyfu.com/",
+          "source_collections": [
+            "bmpi"
+          ]
+        },
+        {
+          "name": "Majestic",
+          "url": "https://majestic.com/",
+          "source_collections": [
+            "bmpi"
+          ]
+        },
+        {
+          "name": "Similarweb",
+          "url": "https://www.similarweb.com/",
+          "source_collections": [
+            "teles",
+            "bmpi"
+          ]
+        },
+        {
+          "name": "Seobility",
+          "url": "https://www.seobility.net/en/",
+          "source_collections": [
+            "teles"
+          ]
+        },
+        {
+          "name": "Screpy",
+          "url": "https://screpy.com/",
+          "source_collections": [
+            "teles",
+            "bmpi"
+          ]
+        },
+        {
+          "name": "Raven Tools",
+          "url": "https://raventools.com/",
+          "source_collections": [
+            "teles",
+            "bmpi"
+          ]
+        },
+        {
+          "name": "PageSpeed Insights",
+          "url": "https://pagespeed.web.dev/",
+          "source_collections": [
+            "teles",
+            "bmpi"
+          ]
+        },
+        {
+          "name": "GTmetrix",
+          "url": "https://gtmetrix.com/",
+          "source_collections": [
+            "teles"
+          ]
+        },
+        {
+          "name": "WAVE",
+          "url": "https://wave.webaim.org/",
+          "source_collections": [
+            "teles"
+          ]
+        },
+        {
+          "name": "Keyword Surfer",
+          "url": "https://surferseo.com/keyword-surfer-extension/",
+          "source_collections": [
+            "bmpi"
+          ]
+        },
+        {
+          "name": "META SEO inspector",
+          "url": "https://www.omiod.com/meta-seo-inspector/",
+          "source_collections": [
+            "bmpi"
+          ]
+        },
+        {
+          "name": "Google Rich Results Test",
+          "url": "https://search.google.com/test/rich-results",
+          "source_collections": [
+            "teles"
+          ]
+        },
+        {
+          "name": "advertools",
+          "url": "https://github.com/eliasdabbas/advertools",
+          "source_collections": [
+            "bmpi"
+          ]
+        },
+        {
+          "name": "GEO/AEO Tracker",
+          "url": "https://github.com/danishashko/geo-aeo-tracker",
+          "source_collections": [
+            "teles",
+            "bmpi"
+          ]
+        },
+        {
+          "name": "mesure-citations",
+          "url": "https://github.com/thomasmerlaud/mesure-citations",
+          "source_collections": [
+            "teles"
+          ]
+        },
+        {
+          "name": "ai-crawler-bots",
+          "url": "https://github.com/TryGeoSuite/ai-crawler-bots",
+          "source_collections": [
+            "teles"
+          ]
+        },
+        {
+          "name": "NotFair Plugin",
+          "url": "https://github.com/nowork-studio/notfair-plugin",
+          "source_collections": [
+            "teles"
+          ]
+        },
+        {
+          "name": "Schema.org vocabulary",
+          "url": "https://schema.org/docs/schemas.html",
+          "source_collections": [
+            "teles"
+          ]
+        },
+        {
+          "name": "Open Graph protocol",
+          "url": "https://ogp.me/",
+          "source_collections": [
+            "teles"
+          ]
+        },
+        {
+          "name": "Google Search Central Blog",
+          "url": "https://developers.google.com/search/blog",
+          "source_collections": [
+            "bmpi"
+          ]
+        },
+        {
+          "name": "Ahrefs Blog",
+          "url": "https://ahrefs.com/blog/",
+          "source_collections": [
+            "bmpi"
+          ]
+        },
+        {
+          "name": "teles/awesome-seo",
+          "url": "https://github.com/teles/awesome-seo",
+          "source_collections": [
+            "user"
+          ]
+        },
+        {
+          "name": "bmpi-dev/awesome-seo",
+          "url": "https://github.com/bmpi-dev/awesome-seo",
+          "source_collections": [
+            "user"
+          ]
+        }
+      ],
+      "source_links_reviewed_for_relevance": 156,
+      "method": "Read both READMEs; compared with current resource index; verified the selected entries against primary websites or repository documentation. Unselected destinations are not individually verified or endorsed.",
+      "canonical_aliases": {
+        "https://github.com/nowork-studio/toprank": "https://github.com/nowork-studio/notfair-plugin",
+        "https://github.com/nowork-studio/NotFair": "https://github.com/nowork-studio/notfair-plugin"
+      },
+      "notes": "NotFair and toprank merged. Existing Ahrefs, Semrush, Screaming Frog and Ubersuggest entries retained without duplication. Access-limited Moz and WebPageTest held for later verification. General advertising, monetization, compliance-only tools, old year-specific guides and unsubstantiated GEO promises were not bulk imported."
     }
   ]
 }
