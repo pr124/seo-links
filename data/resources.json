@@ -8,7 +8,7 @@
     "confirmed_seo_sources": 48,
     "out_of_scope_sources": 26,
     "unclassified_link_only_sources": 26,
-    "curated_entries": 26,
+    "curated_entries": 27,
     "live_x_review_complete": false,
     "live_posts_successfully_read": 0,
     "shortened_seo_links_attempted": 42,
@@ -24,8 +24,8 @@
     ],
     "grouped_resource_entries": 46,
     "resource_curation_statuses": {
-      "included": 26,
-      "pending_content": 9,
+      "included": 27,
+      "pending_content": 8,
       "source_reference": 2,
       "source_only": 9
     },
@@ -180,6 +180,17 @@
         45
       ],
       "official_page_access": "verified"
+    },
+    {
+      "name": "OpenSEO",
+      "url": "https://github.com/every-app/open-seo",
+      "group": "Technical Audits and Automation",
+      "description": "Self-hosted SEO workspace for keyword research, rank tracking, competitor insights, backlinks, site audits and AI visibility, with an MCP server and agent skills. Self-hosting requires a DataForSEO API key and paid usage.",
+      "sources": [
+        55
+      ],
+      "official_page_access": "verified",
+      "runtime_tested": false
     }
   ],
   "resources": [
@@ -1382,9 +1393,9 @@
       "title": "OpenSEO self-hosted toolkit",
       "category": "Automation and Skills",
       "group": "Audits and Self-Hosted Tools",
-      "summary": "The post describes keyword research, backlink analysis, rank tracking and competitor monitoring.",
-      "content_status": "preview_only",
-      "notes": "The repository link, license, features and star-count claim were not independently verified.",
+      "summary": "Self-hosted SEO workspace for keyword research, rank tracking, competitor insights, backlinks, site audits and AI visibility, with an MCP server and agent skills.",
+      "content_status": "exported_text",
+      "notes": "Reviewed upstream README directly. Self-hosting needs a DataForSEO API key and paid API usage; hosting costs may also apply. The t.co redirect itself remains unresolved; project identity was matched from the bookmark's OpenSEO description and upstream documentation. Star-count claim not verified. Runtime not tested.",
       "sources": [
         {
           "export_row": 55,
@@ -1396,14 +1407,19 @@
           "short_urls": [
             "https://t.co/GedlnKeyOf"
           ],
-          "linked_content_access": "unavailable"
+          "linked_content_access": "matching_upstream_repository_reviewed"
         }
       ],
       "curation": {
-        "status": "pending_content",
-        "reason": "The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed.",
+        "status": "included",
+        "reason": "Relevant self-hosted SEO toolkit; upstream workflows and MCP documentation reviewed directly, with API-cost limitation recorded.",
         "reviewed_on": "2026-10-11"
-      }
+      },
+      "display_url": "https://github.com/every-app/open-seo",
+      "primary_references": [
+        "https://github.com/every-app/open-seo",
+        "https://github.com/every-app/open-seo/blob/main/README.md"
+      ]
     },
     {
       "id": "x-2105566972893143354",

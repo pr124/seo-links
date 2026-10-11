@@ -4,7 +4,7 @@ A curated SEO toolkit for indie founders: research demand, fix technical issues,
 
 > Browse by the job you need to do. Expand a group for its tools, articles or submission destinations.
 
-The export contains **48 SEO source posts**, grouped into **46 source records**. After relevance review, **26 selected resources from the export**, plus **1 supplemental article**, appear below. Directory posts are merged into one destination index; incomplete articles, repeated advice and unsupported promotions remain in the [source register](docs/source-review.md).
+The export contains **48 SEO source posts**, grouped into **46 source records**. After relevance review, **27 selected resources from the export**, plus **1 supplemental article**, appear below. Directory posts are merged into one destination index; incomplete articles, repeated advice and unsupported promotions remain in the [source register](docs/source-review.md).
 
 Relevant articles use a link and a short takeaway. Partial supplied text stays labelled partial; the full article is not copied into the guide.
 
@@ -49,6 +49,7 @@ Choose tools around measurement, research and technical work.
 
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Crawl pages to inspect technical SEO issues.
 - [DataForSEO](https://dataforseo.com/) - SEO data APIs for repeatable research workflows.
+- [OpenSEO](https://github.com/every-app/open-seo) - Self-hosted keyword research, rank tracking, competitor insights, backlinks, site audits and AI visibility; includes an MCP server and agent skills. Requires a DataForSEO API key and paid usage; [MCP setup](https://openseo.so/docs/mcp).
 - [Index My Site](https://indexmysite.app/) - Bulk URL submissions and indexing-job tracking. Indexing is Google's decision.
 
 <details>

@@ -9,13 +9,13 @@ Reviewed export: `bookmarks_2026-10-11-1314.csv`, with later user-supplied text,
 | Export rows inspected | 100 |
 | Confirmed SEO source posts | 48 |
 | Grouped source records | 46 |
-| Practical resources included in the main guide | 26 |
+| Practical resources included in the main guide | 27 |
 | Clearly outside SEO | 26 |
 | Link-only export items with unknown relevance | 26 |
 | Original SEO posts read successfully live | 0 |
 | Original shortened SEO links attempted | 42 |
-| SEO sources based on exported text | 31 |
-| SEO sources with preview content only | 9 |
+| SEO sources based on exported text | 32 |
+| SEO sources with preview content only | 8 |
 | SEO source records enriched with a complete supplied article | 1 |
 | SEO sources recovered partly from user text | 7 |
 
@@ -81,7 +81,7 @@ Original CSV row numbers, authors and UTC publication dates are preserved. Descr
 | 45 | [@SearchForRyan](https://x.com/SearchForRyan/status/2105951799995728084) | 2026-10-02 | Case Studies and Experiments | `note_tweet_text` | Exported text | source only |
 | 52 | [@regalstreak](https://x.com/regalstreak/status/2103014475947483462) | 2026-09-24 | Automation and Skills | `full_text` | Exported text | source only |
 | 54 | [@RobHoffman_](https://x.com/RobHoffman_/status/2102842925793378496) | 2026-09-23 | Content and On-Page SEO | `full_text` | Preview only | pending content |
-| 55 | [@ossalternative](https://x.com/ossalternative/status/2102518350178091297) | 2026-09-22 | Automation and Skills | `full_text` | Preview only | pending content |
+| 55 | [@ossalternative](https://x.com/ossalternative/status/2102518350178091297) | 2026-09-22 | Automation and Skills | `full_text` | Exported text | included |
 | 56 | [@james_dooley](https://x.com/james_dooley/status/2100907455890800881) | 2026-09-18 | AI Search and GEO | `full_text` | Exported text | included |
 | 61 | [@om_patel5](https://x.com/om_patel5/status/2099683744781111419) | 2026-09-15 | AI Search and GEO | `note_tweet_text` | Exported text | included |
 | 63 | [@borjafat](https://x.com/borjafat/status/2098755362513953188) | 2026-09-12 | Keyword Research | `note_tweet_text` | Exported text | included |
@@ -111,7 +111,7 @@ The same relevance rule was applied to every existing resource. Directory source
 | 23 | [Google preferred-source button skill](https://x.com/tarasshyn/status/2107514947483910182) | pending content | The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed. |
 | 17 | [AI-assisted SEO workflow](https://x.com/NicholasDulait/status/2108212094214529135) | included | Supplied excerpt through Module 15 reviewed; linked once with qualifications. Promised GEO section absent. |
 | 52 | [Refix quick-win SEO audit](https://x.com/regalstreak/status/2103014475947483462) | source only | Promotional audit offer without audit output or a method to review. |
-| 55 | [OpenSEO self-hosted toolkit](https://x.com/ossalternative/status/2102518350178091297) | pending content | The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed. |
+| 55 | [OpenSEO self-hosted toolkit](https://github.com/every-app/open-seo) | included | Upstream README reviewed; DataForSEO API costs recorded. Short-link redirect remains unresolved. |
 | 42 | [Exact-match-domain affiliate-site example](https://x.com/MilaChervenkova/status/2105566972893143354) | source only | Single ranking anecdote without a reviewed method or evidence of causation. |
 | 45 | [Rapid-indexing case study for a new 500-page site](https://x.com/SearchForRyan/status/2105951799995728084) | source only | Overlapping content/structure advice mixed with fabricated author identity and unsupported forced-indexing claims. |
 | 33 | [Claude-assisted content refresh example](https://x.com/hridoyreh/status/2106680222527672817) | pending content | The useful article, implementation, media or supporting method remains unavailable; retain the source until enough content can be reviewed. |
@@ -205,3 +205,9 @@ Model/version and product-plan claims, traffic anecdotes, mandatory quotas, auto
 The useful addition is a repeatable buyer-prompt baseline: keep prompts and testing conditions consistent, repeat runs, record cited URLs and uncited recommendations separately, map recurring sources, and compare visibility with referral conversions. Existing original-evidence, business-profile and crawler advice is not duplicated as separate resources.
 
 The cited research figures were not independently checked, and correlations are not causal ranking factors. The 30-day timetable and prompt/outreach/profile/page counts are example workloads rather than requirements or outcome promises. [OpenAI's crawler documentation](https://developers.openai.com/api/docs/bots) supports the distinction between search and training crawlers. The publisher FAQ URL redirected to unrelated content during verification, so the referral parameter assertion remains attributed to the author.
+
+## OpenSEO repository recovery
+
+The bookmark's [OpenSEO announcement](https://x.com/ossalternative/status/2102518350178091297), original row 55, names the project behind https://t.co/GedlnKeyOf. The short URL still could not be resolved, but the matching [upstream repository](https://github.com/every-app/open-seo) and its README were read directly. Added once under Core Tools, with a link to MCP setup rather than duplicating the tool as a second resource.
+
+The README documents keyword research, rank tracking, competitor insights, backlinks, audits, AI visibility, self-hosting and an MCP server. Self-hosted SEO data requires a DataForSEO API key and paid API usage; hosting can add costs. No installation or runtime test was performed, and the announcement's star count was not verified.
