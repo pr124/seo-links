@@ -1,6 +1,9 @@
-# Complete backlink and submission prospects
+# Backlink and submission source archive
 
-The three source lists are preserved in full: **38 MCP/SaaS names**, **122 unique startup prospect names** from 127 original positions, and **all 30 destinations** from the additional user-supplied post. Repeated destinations across different posts remain associated with each source. [Browse the grouped README](../README.md#backlink-opportunities-and-dr) or [use the structured catalogue](../data/directory-catalog.json).
+This is a source archive: it preserves all supplied names, repeated mentions and original list positions. It is not the recommended submission queue. Use the [curated guide](../README.md#backlink-opportunities-and-dr) or [unique destination index](../data/destinations.json) for relevant destinations, each listed once. Poor-fit platforms, promotions and ambiguous names remain here for reconciliation. [Review decisions](source-review.md#destination-curation).
+
+
+The three source lists are preserved in full: **38 MCP/SaaS names**, **122 unique startup prospect names** from 127 original positions, and **all 30 destinations** from the additional user-supplied post. Two further threads have 15 supplied entries: three new destinations and twelve references to already covered items, with five original positions still unavailable. Repeated destinations across different posts remain associated with each source. [Browse the grouped README](../README.md#backlink-opportunities-and-dr) or [use the structured catalogue](../data/directory-catalog.json).
 
 Primary websites, documentation and support pages were used to identify destinations. **Verified** means an accessible primary reference matched the entry; it does not guarantee submission acceptance or any backlink benefit. **Access limited** means the primary identity is indexed but reader access failed. **Ambiguous** entries show candidates and preserve the source name.
 
@@ -268,6 +271,47 @@ Source: [@Miracle_NNnn’s post](https://x.com/Miracle_NNnn/status/2109171648800
 - **#30 ramen.tools:** Maker tool-stack sharing and discovery community. Use an accurate maker profile and real tools built or used. Sign-in and maker profiles are visible, but the current tool-listing process was not reviewed.
 
 The structured catalogue retains each supplied short URL, the checked direct destination, the original position, evidence URLs and access status. No submission was made and no resulting backlink was inspected.
+
+## Recovered backlink thread lists
+
+The user supplied 15 entries on 11 October 2026. **Three new relevant destinations are added; twelve already covered items reference existing entries.** Exact reply permalinks were not supplied, and the live image and replies remain unread.
+
+DR, monthly visitors and strategy count below are **unverified source claims**, retained for provenance rather than used as current measurements or a reason to duplicate a destination.
+
+### Backlink Places v4
+
+Source: [@hridoyreh’s 2026-10-10 thread](https://x.com/hridoyreh/status/2108810186941247540) (export row 8). Supplied 6 of 10 positions; missing 1, 2, 3, 4.
+
+| Original position | Source name | Action / destination | Suggested use | Source claims, unverified |
+| --- | --- | --- | --- | --- |
+| 5 | SaaSHub | [Already covered](../README.md#backlink-opportunities-and-dr) | List your SaaS product and position it as an alternative to competing software to attract potential users. | DR 80; 494,000+ visitors/month |
+| 6 | Vocal Media | [Already covered](../README.md#backlink-opportunities-and-dr) | Publish various stories, guides, and informative articles to reach readers and generate referral traffic. | DR 82; 2.1M+ visitors/month |
+| 7 | Hacker News | [Already covered](../README.md#backlink-opportunities-and-dr) | Share valuable projects, technical insights, or startup launches with a community of developers and tech enthusiasts. | DR 91; 23.2M+ visitors/month |
+| 8 | AlternativeMe | [Already covered](../README.md#backlink-opportunities-and-dr) | Showcase your product as an alternative to existing tools to reach people exploring similar solutions. | DR 76; 669,000+ visitors/month |
+| 9 | SaaS Club | [Already covered](../README.md#backlink-opportunities-and-dr) | Connect with SaaS founders and share your product or business insights to increase visibility within the SaaS community. | DR 60; 31,000+ visitors/month |
+| 10 | SEO Wins | [Source-only promotion](source-review.md#destination-curation); not a submission directory | You can also use the SEO Wins (150+ SEO and AI SEO strategies) database to get more quality backlinks for your SaaS. Grab it from my BIO/PIN link. | 150+ strategies |
+
+### Backlink Places v3
+
+Source: [@hridoyreh’s 2026-10-08 thread](https://x.com/hridoyreh/status/2108084799479169279) (export row 20). Supplied 9 of 10 positions; missing 10.
+
+| Original position | Source name | Action / destination | Suggested use | Source claims, unverified |
+| --- | --- | --- | --- | --- |
+| 1 | Hashnode | [Already covered](../README.md#backlink-opportunities-and-dr) | Publish technical and educational content to reach developers while boosting your brand and referral traffic. | DR 83 |
+| 2 | Failory | [Already covered](../README.md#backlink-opportunities-and-dr) | Share your startup story, lessons, and experiences with an audience interested in startups and entrepreneurship. | DR 75 |
+| 3 | Software World | Added: [Open](https://www.softwareworld.co/register/) | List your software or SaaS to increase product visibility and reach people searching for business tools. | DR 73 |
+| 4 | Pinterest | [Already covered](../README.md#backlink-opportunities-and-dr) | Share visual content, guides, and infographics that can generate long-term referral and search traffic. | DR 97 |
+| 5 | Micro Founder | [Already covered](../README.md#backlink-opportunities-and-dr) | Showcase your startup or indie project to connect with other founders and potential customers. | DR 40 |
+| 6 | Flickr | [Already covered](../README.md#backlink-opportunities-and-dr) | Share your useful images, graphics, and visual assets easily to boost brand awareness and referral traffic. | DR 94 |
+| 7 | Vimeo | Added: [Open](https://vimeo.com/) | Publish videos about your product, tutorials, or brand to reach a wider audience and drive traffic. | DR 96 |
+| 8 | Software Suggest | Added: [Open](https://www.softwaresuggest.com/vendors) | Create a software listing to get noticed by businesses looking for tools and software solutions. | DR 78 |
+| 9 | YouTube | [Already covered](../README.md#content-and-on-page-seo) | Publish tutorials, reviews, and product videos to build visibility, attract viewers, and drive targeted traffic. | DR 99 |
+
+Notes for newly added destinations:
+
+- **Software World:** The provider currently states that claiming an existing profile is free, while publishing a new listing requires a one-time $99 approval fee. Check current terms before submitting; a listing and followed link are not guaranteed.
+- **Vimeo:** The homepage has upload, watch and pricing routes. Choose public visibility and a suitable plan for the actual video; it is not a general startup-directory listing and backlink attributes remain unchecked.
+- **Software Suggest:** The vendor page advertises a free listing and requires a business email rather than a consumer email address. Review vendor guidelines and distinguish optional paid promotion from the basic listing; published link attributes were not checked.
 
 ## Fit and ambiguity notes
 

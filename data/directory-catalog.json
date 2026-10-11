@@ -26,7 +26,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 1
+          "group_position": 1,
+          "canonical_destination_id": "site:registry.modelcontextprotocol.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Glama",
@@ -42,7 +48,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 2
+          "group_position": 2,
+          "canonical_destination_id": "site:glama.ai",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "MCP Servers",
@@ -58,7 +70,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 3
+          "group_position": 3,
+          "canonical_destination_id": "site:mcpservers.org",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "AllMCPs",
@@ -74,7 +92,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 4
+          "group_position": 4,
+          "canonical_destination_id": "site:allmcps.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "MCP Market",
@@ -90,7 +114,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 5
+          "group_position": 5,
+          "canonical_destination_id": "site:mcpmarket.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "MCP Directory",
@@ -106,7 +136,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 6
+          "group_position": 6,
+          "canonical_destination_id": "site:mcp.directory",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "MCP Repository",
@@ -122,7 +158,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 7
+          "group_position": 7,
+          "canonical_destination_id": "site:mcprepository.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "TensorBlock MCP",
@@ -139,7 +181,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 8
+          "group_position": 8,
+          "canonical_destination_id": "site:tensorblock.co",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "AI Indigo",
@@ -156,7 +204,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 9
+          "group_position": 9,
+          "canonical_destination_id": "site:aiindigo.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "MCP So",
@@ -172,7 +226,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 10
+          "group_position": 10,
+          "canonical_destination_id": "site:mcp.so",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "awesome remote mcp servers",
@@ -208,7 +268,13 @@
               "url": "https://github.com/sylviangth/awesome-remote-mcp-servers",
               "status": "verified"
             }
-          ]
+          ],
+          "canonical_destination_id": "unresolved:awesome-remote-mcp-servers",
+          "curation": {
+            "status": "pending_identity",
+            "reason": "The source name does not identify one destination reliably; candidates remain in the source archive.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "awesome mcp list",
@@ -239,7 +305,13 @@
               "status": "unresolved",
               "note": "Indexed historical candidate; primary page could not be fetched."
             }
-          ]
+          ],
+          "canonical_destination_id": "unresolved:awesome-mcp-list",
+          "curation": {
+            "status": "pending_identity",
+            "reason": "The source name does not identify one destination reliably; candidates remain in the source archive.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "awesome mcp lists",
@@ -255,7 +327,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 3
+          "group_position": 3,
+          "canonical_destination_id": "github:collabnix/awesome-mcp-lists",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "toolsdk mcp registry",
@@ -272,7 +350,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 4
+          "group_position": 4,
+          "canonical_destination_id": "github:toolsdk-ai/toolsdk-mcp-registry",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "xAI plugin marketplace",
@@ -289,7 +373,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 5
+          "group_position": 5,
+          "canonical_destination_id": "github:xai-org/plugin-marketplace",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Product Hunt",
@@ -305,7 +395,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 1
+          "group_position": 1,
+          "canonical_destination_id": "site:producthunt.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "AlternativeTo",
@@ -321,7 +417,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 2
+          "group_position": 2,
+          "canonical_destination_id": "site:alternativeto.net",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Better Launch",
@@ -338,7 +440,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 3
+          "group_position": 3,
+          "canonical_destination_id": "site:betterlaunch.co",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "DanielLaunches",
@@ -354,7 +462,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 4
+          "group_position": 4,
+          "canonical_destination_id": "site:daniellaunches.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "IndieTool",
@@ -370,7 +484,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 5
+          "group_position": 5,
+          "canonical_destination_id": "site:indietool.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Tinyshelf",
@@ -386,7 +506,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 6
+          "group_position": 6,
+          "canonical_destination_id": "site:tinyshelf.co",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Stork",
@@ -404,7 +530,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 7
+          "group_position": 7,
+          "canonical_destination_id": "site:stork.ai",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Findly",
@@ -421,7 +553,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 8
+          "group_position": 8,
+          "canonical_destination_id": "site:findly.tools",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Twelve Tools",
@@ -437,7 +575,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 9
+          "group_position": 9,
+          "canonical_destination_id": "site:twelve.tools",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Turbo0",
@@ -454,7 +598,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 10
+          "group_position": 10,
+          "canonical_destination_id": "site:turbo0.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Noonlaunch",
@@ -470,7 +620,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 11
+          "group_position": 11,
+          "canonical_destination_id": "site:noonlaunch.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "LaunchPanda",
@@ -487,7 +643,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 12
+          "group_position": 12,
+          "canonical_destination_id": "site:launchpanda.dev",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Launch Streak",
@@ -503,7 +665,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 13
+          "group_position": 13,
+          "canonical_destination_id": "site:launchstreak.dev",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "ScrollLaunch",
@@ -519,7 +687,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 14
+          "group_position": 14,
+          "canonical_destination_id": "site:scrolllaunch.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "ConfettiSaaS",
@@ -535,7 +709,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 15
+          "group_position": 15,
+          "canonical_destination_id": "site:confettisaas.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "AI Directories",
@@ -553,7 +733,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 16
+          "group_position": 16,
+          "canonical_destination_id": "site:aidirectori.es",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Launch Llama",
@@ -569,7 +755,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 17
+          "group_position": 17,
+          "canonical_destination_id": "site:tools.launchllama.co",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Acid Tools",
@@ -585,7 +777,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 18
+          "group_position": 18,
+          "canonical_destination_id": "site:acidtools.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Claude Code plugin directory",
@@ -603,7 +801,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 1
+          "group_position": 1,
+          "canonical_destination_id": "site:claude.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "ClawHub",
@@ -620,7 +824,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 2
+          "group_position": 2,
+          "canonical_destination_id": "site:clawhub.ai",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Public APIs",
@@ -637,7 +847,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 3
+          "group_position": 3,
+          "canonical_destination_id": "github:public-apis/public-apis",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "llms txt Hub",
@@ -654,7 +870,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 4
+          "group_position": 4,
+          "canonical_destination_id": "site:llmstxthub.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "llms txt Site",
@@ -671,7 +893,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "group_position": 5
+          "group_position": 5,
+          "canonical_destination_id": "site:llmstxt.site",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         }
       ]
     },
@@ -701,7 +929,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             89
-          ]
+          ],
+          "canonical_destination_id": "site:500px.com",
+          "curation": {
+            "status": "source_only",
+            "reason": "Photography community without a general startup submission or SEO workflow role in this collection.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Affiliate Watch",
@@ -721,7 +955,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             114
-          ]
+          ],
+          "canonical_destination_id": "site:affiliate.watch",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "AI Agent Store",
@@ -739,7 +979,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             97
-          ]
+          ],
+          "canonical_destination_id": "site:aiagentstore.ai",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "AI Parabellum",
@@ -757,7 +1003,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             117
-          ]
+          ],
+          "canonical_destination_id": "site:aiparabellum.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "AI Tool Trek",
@@ -775,7 +1027,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             119
-          ]
+          ],
+          "canonical_destination_id": "site:aitooltrek.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "AIxploria",
@@ -793,7 +1051,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             113
-          ]
+          ],
+          "canonical_destination_id": "site:aixploria.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Altern",
@@ -811,7 +1075,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             98
-          ]
+          ],
+          "canonical_destination_id": "site:altern.ai",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Alternative Me",
@@ -829,7 +1099,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             17
-          ]
+          ],
+          "canonical_destination_id": "site:alternative.me",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "AlternativeTo",
@@ -847,7 +1123,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             6
-          ]
+          ],
+          "canonical_destination_id": "site:alternativeto.net",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "API List",
@@ -865,7 +1147,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             47
-          ]
+          ],
+          "canonical_destination_id": "site:apilist.fun",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Appscribed",
@@ -883,7 +1171,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             108
-          ]
+          ],
+          "canonical_destination_id": "site:appscribed.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "AppSumo",
@@ -902,7 +1196,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             58
-          ]
+          ],
+          "canonical_destination_id": "site:appsumo.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "AppSumo Blog",
@@ -921,7 +1221,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             80
-          ]
+          ],
+          "canonical_destination_id": "site:appsumo.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Aura Plus Plus",
@@ -939,7 +1245,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             84
-          ]
+          ],
+          "canonical_destination_id": "site:auraplusplus.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Beehiiv",
@@ -957,7 +1269,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             42
-          ]
+          ],
+          "canonical_destination_id": "site:beehiiv.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "BetaList",
@@ -975,7 +1293,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             16
-          ]
+          ],
+          "canonical_destination_id": "site:betalist.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Bootstrappers",
@@ -993,7 +1317,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             103
-          ]
+          ],
+          "canonical_destination_id": "site:bootstrappers.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Boring Cash Cow",
@@ -1011,7 +1341,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             61
-          ]
+          ],
+          "canonical_destination_id": "site:boringcashcow.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "BotsFloor",
@@ -1030,7 +1366,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             99
-          ]
+          ],
+          "canonical_destination_id": "site:botsfloor.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Chrome Web Store",
@@ -1049,7 +1391,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             1
-          ]
+          ],
+          "canonical_destination_id": "site:chromewebstore.google.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Dan Recommends",
@@ -1067,7 +1415,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             51
-          ]
+          ],
+          "canonical_destination_id": "site:danrecommends.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Dealify",
@@ -1085,7 +1439,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             95
-          ]
+          ],
+          "canonical_destination_id": "site:dealify.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "DealMirror",
@@ -1103,7 +1463,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             94
-          ]
+          ],
+          "canonical_destination_id": "site:dealmirror.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "DevHunt",
@@ -1121,7 +1487,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             32
-          ]
+          ],
+          "canonical_destination_id": "site:devhunt.org",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "DevTo",
@@ -1139,7 +1511,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             86
-          ]
+          ],
+          "canonical_destination_id": "site:dev.to",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "EarlyHunt",
@@ -1157,7 +1535,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             104
-          ]
+          ],
+          "canonical_destination_id": "site:earlyhunt.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Evernote",
@@ -1175,7 +1559,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             45
-          ]
+          ],
+          "canonical_destination_id": "site:evernote.com",
+          "curation": {
+            "status": "source_only",
+            "reason": "Private note-taking product; no useful independent listing route established.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Failory",
@@ -1193,7 +1583,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             69
-          ]
+          ],
+          "canonical_destination_id": "site:failory.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Fandom",
@@ -1213,7 +1609,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             127
-          ]
+          ],
+          "canonical_destination_id": "site:fandom.com",
+          "curation": {
+            "status": "source_only",
+            "reason": "Fan-wiki platform, a poor fit for general indie SaaS/product submissions.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Fazier",
@@ -1231,7 +1633,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             68
-          ]
+          ],
+          "canonical_destination_id": "site:fazier.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "First Round Review",
@@ -1249,7 +1657,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             78
-          ]
+          ],
+          "canonical_destination_id": "site:review.firstround.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Firsto",
@@ -1268,7 +1682,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             81
-          ]
+          ],
+          "canonical_destination_id": "site:firsto.co",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Flickr",
@@ -1286,7 +1706,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             56
-          ]
+          ],
+          "canonical_destination_id": "site:flickr.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Forbes",
@@ -1305,7 +1731,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             2
-          ]
+          ],
+          "canonical_destination_id": "site:forbes.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Founder Reports",
@@ -1323,7 +1755,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             67
-          ]
+          ],
+          "canonical_destination_id": "site:founderreports.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "FounderPass",
@@ -1341,7 +1779,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             87
-          ]
+          ],
+          "canonical_destination_id": "site:founderpass.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "FoundrList",
@@ -1359,7 +1803,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             46
-          ]
+          ],
+          "canonical_destination_id": "site:foundrlist.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Futurepedia",
@@ -1377,7 +1827,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             76
-          ]
+          ],
+          "canonical_destination_id": "site:futurepedia.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "GIPHY",
@@ -1396,7 +1852,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             92
-          ]
+          ],
+          "canonical_destination_id": "site:giphy.com",
+          "curation": {
+            "status": "source_only",
+            "reason": "GIF distribution is not a useful general SEO/backlink submission route here.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "GitHub",
@@ -1415,7 +1877,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             24
-          ]
+          ],
+          "canonical_destination_id": "site:github.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "GitHub Pages",
@@ -1433,7 +1901,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             4
-          ]
+          ],
+          "canonical_destination_id": "site:pages.github.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "GoodFirms",
@@ -1451,7 +1925,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             96
-          ]
+          ],
+          "canonical_destination_id": "site:goodfirms.co",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "GrowthMentor",
@@ -1470,7 +1950,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             48
-          ]
+          ],
+          "canonical_destination_id": "site:growthmentor.com",
+          "curation": {
+            "status": "source_only",
+            "reason": "Mentoring marketplace; no distinct SEO workflow or general product listing established.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Gumroad",
@@ -1488,7 +1974,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             102
-          ]
+          ],
+          "canonical_destination_id": "site:gumroad.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Hacker News",
@@ -1506,7 +1998,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             21
-          ]
+          ],
+          "canonical_destination_id": "site:news.ycombinator.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "HackerNoon",
@@ -1524,7 +2022,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             31
-          ]
+          ],
+          "canonical_destination_id": "site:hackernoon.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Hashnode",
@@ -1542,7 +2046,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             73
-          ]
+          ],
+          "canonical_destination_id": "site:hashnode.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Imgur",
@@ -1561,7 +2071,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             26
-          ]
+          ],
+          "canonical_destination_id": "site:imgur.com",
+          "curation": {
+            "status": "source_only",
+            "reason": "General image sharing without a verified product-listing role; useful visual distribution options are already covered.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Indie Hackers",
@@ -1579,7 +2095,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             20
-          ]
+          ],
+          "canonical_destination_id": "site:indiehackers.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Indie Page",
@@ -1597,7 +2119,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             10
-          ]
+          ],
+          "canonical_destination_id": "site:indiepa.ge",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "IndieHunt",
@@ -1615,7 +2143,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             121
-          ]
+          ],
+          "canonical_destination_id": "site:indiehunt.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "KEN Moo",
@@ -1633,7 +2167,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             123
-          ]
+          ],
+          "canonical_destination_id": "site:kenmoo.me",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Latka",
@@ -1651,7 +2191,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             75
-          ]
+          ],
+          "canonical_destination_id": "site:getlatka.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Launch Directories",
@@ -1680,7 +2226,13 @@
               "name": "Launch Directories by launch.cab",
               "url": "https://directories.launch.cab/"
             }
-          ]
+          ],
+          "canonical_destination_id": "unresolved:launch-directories",
+          "curation": {
+            "status": "pending_identity",
+            "reason": "The source name does not identify one destination reliably; candidates remain in the source archive.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "LaunchIgniter",
@@ -1698,7 +2250,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             79
-          ]
+          ],
+          "canonical_destination_id": "site:launchigniter.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "LibHunt",
@@ -1718,7 +2276,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             110
-          ]
+          ],
+          "canonical_destination_id": "site:libhunt.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Medium",
@@ -1736,7 +2300,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             19
-          ]
+          ],
+          "canonical_destination_id": "site:medium.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Micro Founder",
@@ -1754,7 +2324,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             62
-          ]
+          ],
+          "canonical_destination_id": "site:microfounder.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Microlaunch",
@@ -1772,7 +2348,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             34
-          ]
+          ],
+          "canonical_destination_id": "site:microlaunch.net",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Mixergy",
@@ -1790,7 +2372,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             72
-          ]
+          ],
+          "canonical_destination_id": "site:mixergy.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "My First Million",
@@ -1808,7 +2396,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             101
-          ]
+          ],
+          "canonical_destination_id": "site:mfmpod.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Next Gen Tools",
@@ -1838,7 +2432,13 @@
               "name": "NxGn Tools",
               "url": "https://www.nxgntools.com/"
             }
-          ]
+          ],
+          "canonical_destination_id": "unresolved:next-gen-tools",
+          "curation": {
+            "status": "pending_identity",
+            "reason": "The source name does not identify one destination reliably; candidates remain in the source archive.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Niche Pursuits",
@@ -1856,7 +2456,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             54
-          ]
+          ],
+          "canonical_destination_id": "site:nichepursuits.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Open Tools",
@@ -1874,7 +2480,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             126
-          ]
+          ],
+          "canonical_destination_id": "site:opentools.ai",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "OpenAlternative",
@@ -1892,7 +2504,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             40
-          ]
+          ],
+          "canonical_destination_id": "site:openalternative.co",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "OSS Gallery",
@@ -1911,7 +2529,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             15
-          ]
+          ],
+          "canonical_destination_id": "site:oss.gallery",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Patreon",
@@ -1929,7 +2553,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             44
-          ]
+          ],
+          "canonical_destination_id": "site:patreon.com",
+          "curation": {
+            "status": "source_only",
+            "reason": "Creator memberships are outside the relevant product-listing and SEO workflow scope here.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Peerlist",
@@ -1947,7 +2577,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             70
-          ]
+          ],
+          "canonical_destination_id": "site:peerlist.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "PeerPush",
@@ -1965,7 +2601,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             25
-          ]
+          ],
+          "canonical_destination_id": "site:peerpush.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Pinterest",
@@ -1984,7 +2626,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             27
-          ]
+          ],
+          "canonical_destination_id": "site:pinterest.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "PitchWall",
@@ -2002,7 +2650,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             50
-          ]
+          ],
+          "canonical_destination_id": "site:pitchwall.co",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Pixabay",
@@ -2021,7 +2675,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             30
-          ]
+          ],
+          "canonical_destination_id": "site:pixabay.com",
+          "curation": {
+            "status": "source_only",
+            "reason": "Stock media contribution platform; a poor fit for general startup backlinks.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Powerusers",
@@ -2039,7 +2699,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             120
-          ]
+          ],
+          "canonical_destination_id": "site:powerusers.ai",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Privacy Tools",
@@ -2057,7 +2723,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             11
-          ]
+          ],
+          "canonical_destination_id": "site:privacytools.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Product Canyon",
@@ -2075,7 +2747,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             93
-          ]
+          ],
+          "canonical_destination_id": "site:productcanyon.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Product Hunt",
@@ -2093,7 +2771,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             7
-          ]
+          ],
+          "canonical_destination_id": "site:producthunt.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "PromptZone",
@@ -2111,7 +2795,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             74
-          ]
+          ],
+          "canonical_destination_id": "site:promptzone.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Public APIs",
@@ -2129,7 +2819,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             125
-          ]
+          ],
+          "canonical_destination_id": "github:public-apis/public-apis",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Quora",
@@ -2149,7 +2845,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             38
-          ]
+          ],
+          "canonical_destination_id": "site:quora.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "RankYourAI",
@@ -2167,7 +2869,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             115
-          ]
+          ],
+          "canonical_destination_id": "site:rankyourai.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Reddit",
@@ -2186,7 +2894,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             37
-          ]
+          ],
+          "canonical_destination_id": "site:reddit.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "RocketHub",
@@ -2205,7 +2919,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             60
-          ]
+          ],
+          "canonical_destination_id": "site:rockethub.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "SaaS Club",
@@ -2224,7 +2944,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             88
-          ]
+          ],
+          "canonical_destination_id": "site:saasclub.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "SaaS Genius",
@@ -2244,7 +2970,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             111
-          ]
+          ],
+          "canonical_destination_id": "site:saasgenius.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "SaaS Pirate",
@@ -2263,7 +2995,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             91
-          ]
+          ],
+          "canonical_destination_id": "site:saaspirate.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "SaaSHub",
@@ -2282,7 +3020,13 @@
           "original_positions": [
             18
           ],
-          "homepage_url": "https://www.saashub.com/"
+          "homepage_url": "https://www.saashub.com/",
+          "canonical_destination_id": "site:saashub.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "SaaSZilla",
@@ -2302,7 +3046,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             63
-          ]
+          ],
+          "canonical_destination_id": "site:saaszilla.co",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Scroll Launch",
@@ -2321,7 +3071,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             49
-          ]
+          ],
+          "canonical_destination_id": "site:scrolllaunch.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "SEO Wins",
@@ -2344,7 +3100,13 @@
             55,
             82,
             107
-          ]
+          ],
+          "canonical_destination_id": "site:seowins.io",
+          "curation": {
+            "status": "source_only",
+            "reason": "The source author’s strategy-product promotion, not a verified public submission directory.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "SEOFAI",
@@ -2362,7 +3124,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             124
-          ]
+          ],
+          "canonical_destination_id": "site:seofai.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Serchen",
@@ -2382,7 +3150,13 @@
           "original_positions": [
             105
           ],
-          "homepage_url": "https://www.serchen.com/"
+          "homepage_url": "https://www.serchen.com/",
+          "canonical_destination_id": "site:serchen.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "ShowMeBestAI",
@@ -2400,7 +3174,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             36
-          ]
+          ],
+          "canonical_destination_id": "site:showmebest.ai",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "SideProjectors",
@@ -2419,7 +3199,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             29
-          ]
+          ],
+          "canonical_destination_id": "site:sideprojectors.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "SourceForge",
@@ -2437,7 +3223,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             12
-          ]
+          ],
+          "canonical_destination_id": "site:sourceforge.net",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Stacker News",
@@ -2456,7 +3248,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             112
-          ]
+          ],
+          "canonical_destination_id": "site:stacker.news",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "StackShare",
@@ -2476,7 +3274,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             41
-          ]
+          ],
+          "canonical_destination_id": "site:stackshare.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "StackSocial",
@@ -2496,7 +3300,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             122
-          ]
+          ],
+          "canonical_destination_id": "site:stacksocial.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Starter Story",
@@ -2515,7 +3325,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             53
-          ]
+          ],
+          "canonical_destination_id": "site:starterstory.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Startup Buffer",
@@ -2534,7 +3350,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             57
-          ]
+          ],
+          "canonical_destination_id": "site:startupbuffer.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "StartupBase",
@@ -2553,7 +3375,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             35
-          ]
+          ],
+          "canonical_destination_id": "site:startupbase.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Startups FYI",
@@ -2571,7 +3399,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             116
-          ]
+          ],
+          "canonical_destination_id": "site:startups.fyi",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Substack",
@@ -2591,7 +3425,13 @@
           "original_positions": [
             8,
             43
-          ]
+          ],
+          "canonical_destination_id": "site:substack.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "TechCrunch",
@@ -2609,7 +3449,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             59
-          ]
+          ],
+          "canonical_destination_id": "site:techcrunch.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Tekpon",
@@ -2628,7 +3474,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             106
-          ]
+          ],
+          "canonical_destination_id": "site:tekpon.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "That AI Collection",
@@ -2646,7 +3498,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             90
-          ]
+          ],
+          "canonical_destination_id": "site:thataicollection.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "The SaaS Podcast",
@@ -2665,7 +3523,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             118
-          ]
+          ],
+          "canonical_destination_id": "site:saasclub.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "There's an AI for That",
@@ -2685,7 +3549,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             39
-          ]
+          ],
+          "canonical_destination_id": "site:theresanaiforthat.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Tiny Startup",
@@ -2703,7 +3573,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             23
-          ]
+          ],
+          "canonical_destination_id": "site:tinystartups.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "TinyLaunch",
@@ -2721,7 +3597,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             14
-          ]
+          ],
+          "canonical_destination_id": "site:tinylaunch.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "ToolFame",
@@ -2739,7 +3621,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             83
-          ]
+          ],
+          "canonical_destination_id": "site:toolfame.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Toolfolio",
@@ -2757,7 +3645,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             109
-          ]
+          ],
+          "canonical_destination_id": "site:toolfolio.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Toolify AI",
@@ -2775,7 +3669,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             52
-          ]
+          ],
+          "canonical_destination_id": "site:toolify.ai",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "TrustMRR",
@@ -2793,7 +3693,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             3
-          ]
+          ],
+          "canonical_destination_id": "site:trustmrr.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "TrustRadius",
@@ -2812,7 +3718,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             5
-          ]
+          ],
+          "canonical_destination_id": "site:trustradius.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Uneed",
@@ -2830,7 +3742,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             9
-          ]
+          ],
+          "canonical_destination_id": "site:uneed.best",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "VentureBeat",
@@ -2848,7 +3766,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             66
-          ]
+          ],
+          "canonical_destination_id": "site:venturebeat.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Vocal Media",
@@ -2866,7 +3790,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             65
-          ]
+          ],
+          "canonical_destination_id": "site:vocal.media",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Wavel",
@@ -2886,7 +3816,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             100
-          ]
+          ],
+          "canonical_destination_id": "site:wavel.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "WikiHow",
@@ -2906,7 +3842,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             85
-          ]
+          ],
+          "canonical_destination_id": "site:wikihow.com",
+          "curation": {
+            "status": "source_only",
+            "reason": "No verified suitable SaaS contribution route or external-link eligibility; contribution rules were inaccessible.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "Wikipedia",
@@ -2924,7 +3866,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             77
-          ]
+          ],
+          "canonical_destination_id": "site:en.wikipedia.org",
+          "curation": {
+            "status": "source_only",
+            "reason": "Its external-link rules exclude routine promotional submissions; not a startup backlink directory.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "WIP",
@@ -2942,7 +3890,13 @@
           "dr_effect": "not_verified",
           "original_positions": [
             64
-          ]
+          ],
+          "canonical_destination_id": "site:wip.co",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "YourStory",
@@ -2963,7 +3917,13 @@
           "original_positions": [
             22
           ],
-          "listing_url": "https://yourstory.com/companies"
+          "listing_url": "https://yourstory.com/companies",
+          "canonical_destination_id": "site:yourstory.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         }
       ]
     },
@@ -3012,7 +3972,13 @@
           "checked_on": "2026-10-11",
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
-          "dr_effect": "not_verified"
+          "dr_effect": "not_verified",
+          "canonical_destination_id": "site:whatlaunched.today",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "tools.launchllama.co",
@@ -3036,7 +4002,13 @@
           ],
           "previously_covered": true,
           "previous_match": "Launch Llama",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:tools.launchllama.co",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "FeedMyStartup",
@@ -3058,7 +4030,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:feedmystartup.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "yourstory.com/companies",
@@ -3082,7 +4060,13 @@
           ],
           "previously_covered": true,
           "previous_match": "YourStory",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:yourstory.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "Brownbook",
@@ -3104,7 +4088,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:brownbook.net",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "Sidebar",
@@ -3126,7 +4116,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:sidebar.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "Ubersuggest Apps and Integrations",
@@ -3149,7 +4145,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:neilpatel.com",
+          "curation": {
+            "status": "listed_elsewhere",
+            "reason": "Already has a relevant entry in the tools or research section; use an internal cross-reference instead of repeating the destination.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "G2",
@@ -3173,7 +4175,13 @@
           "dr_effect": "not_verified",
           "status": "verified",
           "previous_match": "G2",
-          "previous_coverage_basis": "Review research link"
+          "previous_coverage_basis": "Review research link",
+          "canonical_destination_id": "site:g2.com",
+          "curation": {
+            "status": "listed_elsewhere",
+            "reason": "Already has a relevant entry in the tools or research section; use an internal cross-reference instead of repeating the destination.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "hashnode.com",
@@ -3197,7 +4205,13 @@
           ],
           "previously_covered": true,
           "previous_match": "Hashnode",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:hashnode.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "stackshare.io",
@@ -3223,7 +4237,13 @@
           ],
           "previously_covered": true,
           "previous_match": "StackShare",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:stackshare.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "twelve.tools",
@@ -3247,7 +4267,13 @@
           ],
           "previously_covered": true,
           "previous_match": "Twelve Tools",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:twelve.tools",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "fazier.com",
@@ -3271,7 +4297,13 @@
           ],
           "previously_covered": true,
           "previous_match": "Fazier",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:fazier.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "Dang",
@@ -3293,7 +4325,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:dang.ai",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "Active Search Results",
@@ -3315,7 +4353,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:activesearchresults.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "ToolPilot",
@@ -3337,7 +4381,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:toolpilot.ai",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "Startup Fame",
@@ -3359,7 +4409,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:startupfa.me",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "theresanaiforthat.com",
@@ -3385,7 +4441,13 @@
           ],
           "previously_covered": true,
           "previous_match": "There's an AI for That",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:theresanaiforthat.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "CompareCamp",
@@ -3407,7 +4469,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:comparecamp.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "saashub.com",
@@ -3432,7 +4500,13 @@
           "previously_covered": true,
           "submission_url": "https://www.saashub.com/services/submit",
           "previous_match": "SaaSHub",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:saashub.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "Viesearch",
@@ -3454,7 +4528,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:viesearch.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "uneed.best",
@@ -3478,7 +4558,13 @@
           ],
           "previously_covered": true,
           "previous_match": "Uneed",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:uneed.best",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "LinkCentre",
@@ -3500,7 +4586,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:linkcentre.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "toolify.ai",
@@ -3524,7 +4616,13 @@
           ],
           "previously_covered": true,
           "previous_match": "Toolify AI",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:toolify.ai",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "MagicBox.tools",
@@ -3546,7 +4644,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:magicbox.tools",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "code.market",
@@ -3568,7 +4672,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:code.market",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "sideprojectors.com",
@@ -3593,7 +4703,13 @@
           ],
           "previously_covered": true,
           "previous_match": "SideProjectors",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:sideprojectors.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "Startup Stash",
@@ -3615,7 +4731,13 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:startupstash.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "devhunt.org",
@@ -3639,7 +4761,13 @@
           ],
           "previously_covered": true,
           "previous_match": "DevHunt",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:devhunt.org",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "name": "microlaunch.net",
@@ -3663,7 +4791,13 @@
           ],
           "previously_covered": true,
           "previous_match": "Microlaunch",
-          "previous_coverage_basis": "Earlier source list"
+          "previous_coverage_basis": "Earlier source list",
+          "canonical_destination_id": "site:microlaunch.net",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         },
         {
           "display_name": "Ramen.tools",
@@ -3685,20 +4819,458 @@
           "submission_requirements": "check_current_rules",
           "link_follow_status": "not_verified",
           "dr_effect": "not_verified",
-          "status": "verified"
+          "status": "verified",
+          "canonical_destination_id": "site:ramen.tools",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
         }
       ]
+    },
+    {
+      "id": "backlink-places-v4",
+      "export_row": 8,
+      "source_url": "https://x.com/hridoyreh/status/2108810186941247540",
+      "source_author": "hridoyreh",
+      "source_basis": "Exported parent post plus partial thread text supplied by the user on 2026-10-11. Exact reply permalinks were not supplied and no live image or reply was opened.",
+      "supplied_reply_date": "2026-10-10",
+      "received_on": "2026-10-11",
+      "coverage": "partial",
+      "original_entries": 10,
+      "supplied_entries": 6,
+      "unique_names": 6,
+      "missing_original_positions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "already_covered_destinations": 6,
+      "new_destinations": 0,
+      "claim_status": "not_independently_verified",
+      "entries": [],
+      "existing_entry_references": [
+        {
+          "name": "SaaSHub",
+          "original_positions": [
+            5
+          ],
+          "source_summary": "List your SaaS product and position it as an alternative to competing software to attract potential users.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 80,
+            "monthly_visitors": "494,000+"
+          },
+          "action": "already_covered",
+          "matched_name": "SaaSHub",
+          "target_type": "directory_catalog_entry",
+          "catalog_source_list_id": "startup-backlink-prospects",
+          "catalog_name": "SaaSHub",
+          "canonical_destination_id": "site:saashub.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        },
+        {
+          "name": "Vocal Media",
+          "original_positions": [
+            6
+          ],
+          "source_summary": "Publish various stories, guides, and informative articles to reach readers and generate referral traffic.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 82,
+            "monthly_visitors": "2.1M+"
+          },
+          "action": "already_covered",
+          "matched_name": "Vocal Media",
+          "target_type": "directory_catalog_entry",
+          "catalog_source_list_id": "startup-backlink-prospects",
+          "catalog_name": "Vocal Media",
+          "canonical_destination_id": "site:vocal.media",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        },
+        {
+          "name": "Hacker News",
+          "original_positions": [
+            7
+          ],
+          "source_summary": "Share valuable projects, technical insights, or startup launches with a community of developers and tech enthusiasts.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 91,
+            "monthly_visitors": "23.2M+"
+          },
+          "action": "already_covered",
+          "matched_name": "Hacker News",
+          "target_type": "directory_catalog_entry",
+          "catalog_source_list_id": "startup-backlink-prospects",
+          "catalog_name": "Hacker News",
+          "canonical_destination_id": "site:news.ycombinator.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        },
+        {
+          "name": "AlternativeMe",
+          "original_positions": [
+            8
+          ],
+          "source_summary": "Showcase your product as an alternative to existing tools to reach people exploring similar solutions.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 76,
+            "monthly_visitors": "669,000+"
+          },
+          "action": "already_covered",
+          "matched_name": "Alternative Me",
+          "target_type": "directory_catalog_entry",
+          "catalog_source_list_id": "startup-backlink-prospects",
+          "catalog_name": "Alternative Me",
+          "canonical_destination_id": "site:alternative.me",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        },
+        {
+          "name": "SaaS Club",
+          "original_positions": [
+            9
+          ],
+          "source_summary": "Connect with SaaS founders and share your product or business insights to increase visibility within the SaaS community.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 60,
+            "monthly_visitors": "31,000+"
+          },
+          "action": "already_covered",
+          "matched_name": "SaaS Club",
+          "target_type": "directory_catalog_entry",
+          "catalog_source_list_id": "startup-backlink-prospects",
+          "catalog_name": "SaaS Club",
+          "canonical_destination_id": "site:saasclub.io",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        },
+        {
+          "name": "SEO Wins",
+          "original_positions": [
+            10
+          ],
+          "source_summary": "You can also use the SEO Wins (150+ SEO and AI SEO strategies) database to get more quality backlinks for your SaaS. Grab it from my BIO/PIN link.",
+          "source_claims": {
+            "status": "not_verified",
+            "strategy_count": "150+"
+          },
+          "action": "already_covered",
+          "matched_name": "SEO Wins",
+          "entry_type": "author_promotion",
+          "target_type": "directory_catalog_entry",
+          "catalog_source_list_id": "startup-backlink-prospects",
+          "catalog_name": "SEO Wins",
+          "canonical_destination_id": "site:seowins.io",
+          "curation": {
+            "status": "source_only",
+            "reason": "The source author’s strategy-product promotion, not a verified public submission directory.",
+            "reviewed_on": "2026-10-11"
+          }
+        }
+      ],
+      "deduplication_basis": "Match against earlier directory lists and research destinations. Store only new relevant destinations; already covered items retain source-position references without another destination record."
+    },
+    {
+      "id": "backlink-places-v3",
+      "export_row": 20,
+      "source_url": "https://x.com/hridoyreh/status/2108084799479169279",
+      "source_author": "hridoyreh",
+      "source_basis": "Exported parent post plus partial thread text supplied by the user on 2026-10-11. Exact reply permalinks were not supplied and no live image or reply was opened.",
+      "supplied_reply_date": "2026-10-08",
+      "received_on": "2026-10-11",
+      "coverage": "partial",
+      "original_entries": 10,
+      "supplied_entries": 9,
+      "unique_names": 9,
+      "missing_original_positions": [
+        10
+      ],
+      "already_covered_destinations": 6,
+      "new_destinations": 3,
+      "claim_status": "not_independently_verified",
+      "entries": [
+        {
+          "url": "https://www.softwareworld.co/register/",
+          "homepage_url": "https://www.softwareworld.co/",
+          "group": "Software Reviews and Deals",
+          "status": "verified",
+          "description": "Business software and services review directory with a vendor-account listing route.",
+          "note": "The provider currently states that claiming an existing profile is free, while publishing a new listing requires a one-time $99 approval fee. Check current terms before submitting; a listing and followed link are not guaranteed.",
+          "evidence_urls": [
+            "https://www.softwareworld.co/",
+            "https://www.softwareworld.co/register/"
+          ],
+          "pricing_basis": "Provider register page checked on 2026-10-11",
+          "pricing": "Existing-profile claim free; new-listing approval fee $99 one-time.",
+          "name": "Software World",
+          "original_positions": [
+            3
+          ],
+          "source_summary": "List your software or SaaS to increase product visibility and reach people searching for business tools.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 73
+          },
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "canonical_destination_id": "site:softwareworld.co",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        },
+        {
+          "url": "https://vimeo.com/",
+          "group": "Profiles, Media and Other Platforms",
+          "status": "verified",
+          "description": "Video hosting, sharing and discovery platform for original product videos and tutorials.",
+          "note": "The homepage has upload, watch and pricing routes. Choose public visibility and a suitable plan for the actual video; it is not a general startup-directory listing and backlink attributes remain unchecked.",
+          "evidence_urls": [
+            "https://vimeo.com/"
+          ],
+          "name": "Vimeo",
+          "original_positions": [
+            7
+          ],
+          "source_summary": "Publish videos about your product, tutorials, or brand to reach a wider audience and drive traffic.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 96
+          },
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "canonical_destination_id": "site:vimeo.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        },
+        {
+          "url": "https://www.softwaresuggest.com/vendors",
+          "homepage_url": "https://www.softwaresuggest.com/",
+          "group": "Software Reviews and Deals",
+          "status": "verified",
+          "description": "Business software and service recommendations platform with a vendor listing route.",
+          "note": "The vendor page advertises a free listing and requires a business email rather than a consumer email address. Review vendor guidelines and distinguish optional paid promotion from the basic listing; published link attributes were not checked.",
+          "evidence_urls": [
+            "https://www.softwaresuggest.com/",
+            "https://www.softwaresuggest.com/vendors"
+          ],
+          "pricing_basis": "Provider vendor page checked on 2026-10-11",
+          "pricing": "Provider advertises a free basic listing; paid services are separate.",
+          "name": "Software Suggest",
+          "original_positions": [
+            8
+          ],
+          "source_summary": "Create a software listing to get noticed by businesses looking for tools and software solutions.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 78
+          },
+          "previously_covered": false,
+          "checked_on": "2026-10-11",
+          "submission_requirements": "check_current_rules",
+          "link_follow_status": "not_verified",
+          "dr_effect": "not_verified",
+          "canonical_destination_id": "site:softwaresuggest.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        }
+      ],
+      "existing_entry_references": [
+        {
+          "name": "Hashnode",
+          "original_positions": [
+            1
+          ],
+          "source_summary": "Publish technical and educational content to reach developers while boosting your brand and referral traffic.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 83
+          },
+          "action": "already_covered",
+          "matched_name": "Hashnode",
+          "target_type": "directory_catalog_entry",
+          "catalog_source_list_id": "startup-backlink-prospects",
+          "catalog_name": "Hashnode",
+          "canonical_destination_id": "site:hashnode.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        },
+        {
+          "name": "Failory",
+          "original_positions": [
+            2
+          ],
+          "source_summary": "Share your startup story, lessons, and experiences with an audience interested in startups and entrepreneurship.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 75
+          },
+          "action": "already_covered",
+          "matched_name": "Failory",
+          "target_type": "directory_catalog_entry",
+          "catalog_source_list_id": "startup-backlink-prospects",
+          "catalog_name": "Failory",
+          "canonical_destination_id": "site:failory.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        },
+        {
+          "name": "Pinterest",
+          "original_positions": [
+            4
+          ],
+          "source_summary": "Share visual content, guides, and infographics that can generate long-term referral and search traffic.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 97
+          },
+          "action": "already_covered",
+          "matched_name": "Pinterest",
+          "target_type": "directory_catalog_entry",
+          "catalog_source_list_id": "startup-backlink-prospects",
+          "catalog_name": "Pinterest",
+          "canonical_destination_id": "site:pinterest.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        },
+        {
+          "name": "Micro Founder",
+          "original_positions": [
+            5
+          ],
+          "source_summary": "Showcase your startup or indie project to connect with other founders and potential customers.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 40
+          },
+          "action": "already_covered",
+          "matched_name": "Micro Founder",
+          "target_type": "directory_catalog_entry",
+          "catalog_source_list_id": "startup-backlink-prospects",
+          "catalog_name": "Micro Founder",
+          "canonical_destination_id": "site:microfounder.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        },
+        {
+          "name": "Flickr",
+          "original_positions": [
+            6
+          ],
+          "source_summary": "Share your useful images, graphics, and visual assets easily to boost brand awareness and referral traffic.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 94
+          },
+          "action": "already_covered",
+          "matched_name": "Flickr",
+          "target_type": "directory_catalog_entry",
+          "catalog_source_list_id": "startup-backlink-prospects",
+          "catalog_name": "Flickr",
+          "canonical_destination_id": "site:flickr.com",
+          "curation": {
+            "status": "included",
+            "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
+            "reviewed_on": "2026-10-11"
+          }
+        },
+        {
+          "name": "YouTube",
+          "original_positions": [
+            9
+          ],
+          "source_summary": "Publish tutorials, reviews, and product videos to build visibility, attract viewers, and drive targeted traffic.",
+          "source_claims": {
+            "status": "not_verified",
+            "domain_rating": 99
+          },
+          "action": "already_covered",
+          "matched_name": "YouTube",
+          "target_type": "research_destination",
+          "resource_name": "YouTube",
+          "canonical_destination_id": "site:youtube.com",
+          "curation": {
+            "status": "listed_elsewhere",
+            "reason": "Already has a relevant entry in the tools or research section; use an internal cross-reference instead of repeating the destination.",
+            "reviewed_on": "2026-10-11"
+          }
+        }
+      ],
+      "deduplication_basis": "Match against earlier directory lists and research destinations. Store only new relevant destinations; already covered items retain source-position references without another destination record."
     }
   ],
   "review": {
-    "source_list_entries": 195,
-    "names_after_deduplication_within_lists": 190,
-    "verified": 177,
+    "source_list_entries": 215,
+    "names_after_deduplication_within_lists": 205,
+    "verified": 180,
     "unresolved": 4,
     "identity_verified_access_blocked": 9,
     "live_x_review_complete": false,
-    "export_source_lists": 2,
-    "user_supplied_source_lists": 1
+    "export_source_lists": 4,
+    "user_supplied_source_lists": 1,
+    "supplied_source_positions": 210,
+    "uncaptured_source_positions": 5,
+    "complete_source_lists": 3,
+    "partial_source_lists": 2,
+    "user_supplied_partial_recoveries": 2,
+    "stored_destination_entries": 193,
+    "existing_destination_references": 12,
+    "referenced_verified": 12,
+    "unique_destination_identities_across_lists": 176,
+    "canonical_curation_statuses": {
+      "included": 158,
+      "pending_identity": 4,
+      "source_only": 11,
+      "listed_elsewhere": 3
+    }
   },
   "additional_destinations": [
     {
@@ -3713,7 +5285,8 @@
       "link_follow_status": "not_verified",
       "dr_effect": "not_verified",
       "status": "verified",
-      "basis": "Supplementary destination checked separately from the two source lists."
+      "basis": "Supplementary destination checked separately from the two source lists.",
+      "canonical_destination_id": "github:punkpeye/awesome-mcp-servers"
     },
     {
       "name": "Show HN",
@@ -3727,7 +5300,10 @@
       "link_follow_status": "not_verified",
       "dr_effect": "not_verified",
       "status": "verified",
-      "basis": "Supplementary destination checked separately from the two source lists."
+      "basis": "Supplementary destination checked separately from the two source lists.",
+      "canonical_destination_id": "site:news.ycombinator.com"
     }
-  ]
+  ],
+  "deduplication_policy": "Compare the whole repository, including tools, research sources, MCP integrations and destination identities. Normalize www, redirects, alternate names and homepage/submission routes. Keep independent GitHub repositories separate. Store additional source references against an existing destination rather than creating another guide listing.",
+  "canonical_index": "destinations.json"
 }
