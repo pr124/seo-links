@@ -27,7 +27,8 @@ Relevant articles use a link and a short takeaway. Partial supplied text stays l
 
 A single index of the reviewed SEO websites, tools, MCP integrations, reusable skills and source repositories. Expand the groups below; each project is listed once by its main purpose. Submission directories remain in [Backlink Opportunities and DR](#backlink-opportunities-and-dr).
 
-### Measurement and Local Search
+<details>
+<summary><strong>Measurement and Local Search</strong> - 5 tools</summary>
 
 - [Google Search Console](https://search.google.com/search-console/about) - Query, click, impression and indexing reports.
 - [Google Analytics](https://marketingplatform.google.com/about/analytics/) - Measure visitors and conversions after the click.
@@ -35,7 +36,37 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 - [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - Review search performance, crawl and indexing information for your registered sites.
 - [Google Merchant Center](https://business.google.com/us/merchant-center/) - Manage product data and eligible product listings across Google surfaces.
 
-#<details>
+</details>
+
+<details>
+<summary><strong>Keyword Research and Competitors</strong> - 6 tools</summary>
+
+- [Google Trends](https://trends.google.com/trends/) - Explore interest by topic, location and time.
+- [Ahrefs](https://ahrefs.com/) - Keyword, competitor and backlink research.
+- [Semrush](https://www.semrush.com/) - SEO research, audits and visibility tracking.
+- [Ubersuggest](https://neilpatel.com/ubersuggest/) - Keyword and competitor research; [apps and integrations](https://app.neilpatel.com/en/apps-integrations) is the current destination of the supplied aitools.neilpatel.com link.
+- [Mangools](https://mangools.com/) - Keyword, SERP, backlink and rank-tracking tools.
+- [SE Ranking](https://seranking.com/) - Keyword research, rank tracking and site audits.
+
+</details>
+
+<details>
+<summary><strong>Technical Audits and Automation</strong> - 3 tools</summary>
+
+- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Crawl pages to inspect technical SEO issues.
+- [DataForSEO](https://dataforseo.com/) - SEO data APIs for repeatable research workflows.
+- [Index My Site](https://indexmysite.app/) - Bulk URL submissions and indexing-job tracking. Indexing is Google's decision.
+
+</details>
+
+<details>
+<summary><strong>Choosing a Toolkit</strong> - 1 resource</summary>
+
+- [Build an SEO toolkit around the work you need to do](https://x.com/seo_bint_ejamil/status/2108267666855416056) - Start with Search Console, Analytics, a crawler and Business Profile; add paid research tools when the strategy needs them.
+
+</details>
+
+<details>
 <summary><strong>GitHub Repositories and Self-Hosted SEO</strong> - 2 projects</summary>
 
 - [OpenSEO](https://github.com/every-app/open-seo) - Self-hosted keyword research, rank tracking, competitor insights, backlinks, site audits and AI visibility; includes an MCP server and agent skills. Requires a DataForSEO API key and paid usage; [MCP setup](https://openseo.so/docs/mcp).
@@ -100,29 +131,6 @@ If you publish your own MCP server, use the [MCP directories](#mcp-directories) 
 
 ---
 
-## Keyword Research and Competitors
-
-- [Google Trends](https://trends.google.com/trends/) - Explore interest by topic, location and time.
-- [Ahrefs](https://ahrefs.com/) - Keyword, competitor and backlink research.
-- [Semrush](https://www.semrush.com/) - SEO research, audits and visibility tracking.
-- [Ubersuggest](https://neilpatel.com/ubersuggest/) - Keyword and competitor research; [apps and integrations](https://app.neilpatel.com/en/apps-integrations) is the current destination of the supplied aitools.neilpatel.com link.
-- [Mangools](https://mangools.com/) - Keyword, SERP, backlink and rank-tracking tools.
-- [SE Ranking](https://seranking.com/) - Keyword research, rank tracking and site audits.
-
-### Technical Audits and Automation
-
-- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Crawl pages to inspect technical SEO issues.
-- [DataForSEO](https://dataforseo.com/) - SEO data APIs for repeatable research workflows.
-- [Index My Site](https://indexmysite.app/) - Bulk URL submissions and indexing-job tracking. Indexing is Google's decision.
-
-<details>
-<summary><strong>Choosing a Toolkit</strong> - 1 resource</summary>
-
-- [Build an SEO toolkit around the work you need to do](https://x.com/seo_bint_ejamil/status/2108267666855416056) - Start with Search Console, Analytics, a crawler and Business Profile; add paid research tools when the strategy needs them.
-
-</details>
-
----
 
 ## Keyword Research
 
@@ -209,7 +217,12 @@ Improve original value, accurate search titles, useful answers and genuinely out
 
 </details>
 
+<details>
+<summary><strong>Video Research and Product Demonstrations</strong> - 1 destination</summary>
+
 - [YouTube](https://www.youtube.com/) - Research tutorial questions and publish useful original product demonstrations.
+
+</details>
 
 [Checked guidance and ranking-claim qualifications](docs/content-quality.md) - Original value, titles, real updates, click evidence and brand measurement.
 
@@ -508,7 +521,7 @@ Use original tutorials, visual assets or public documentation. Hosting and profi
 ### Search Submissions
 
 <details>
-<summary><strong>1 destinations</strong></summary>
+<summary><strong>1 destination</strong></summary>
 
 Submission to an independent search engine does not request Google indexing.
 
@@ -516,7 +529,7 @@ Submission to an independent search engine does not request Google indexing.
 
 </details>
 
-Already covered in other sections: [G2 review research](#keyword-research), [YouTube tutorials](#content-and-on-page-seo) and [Ubersuggest / Neil Patel integrations](#core-tools). Their supplied source references are attached to those existing destinations.
+Already covered in other sections: [G2 review research](#keyword-research), [YouTube tutorials](#content-and-on-page-seo) and [Ubersuggest / Neil Patel integrations](#seo-websites-tools-skills-and-github-repos). Their supplied source references are attached to those existing destinations.
 
 Ambiguous names and platforms without a useful SEO or submission role are retained in the [source archive](docs/backlink-prospects.md), with [review decisions](docs/source-review.md#destination-curation).
 
@@ -550,7 +563,12 @@ Build useful evidence, inspect crawler requirements and measure answer visibilit
 
 </details>
 
+<details>
+<summary><strong>AI Visibility Reporting</strong> - 1 reference</summary>
+
 - [Bing AI Performance documentation](https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/) - Citation and grounding-query reporting across supported AI experiences.
+
+</details>
 
 > [Google’s AI-features guidance](https://developers.google.com/search/docs/appearance/ai-features) says the usual SEO foundations apply to AI Overviews and AI Mode. Special AI files or schema are not required.
 
