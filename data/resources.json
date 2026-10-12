@@ -2590,8 +2590,8 @@
     "stored_destination_entries": 193,
     "existing_destination_references": 12,
     "canonical_index": "data/destinations.json",
-    "unique_destination_identities": 176,
-    "active_destination_identities": 158
+    "unique_destination_identities": 177,
+    "active_destination_identities": 159
   },
   "additional_resources": [
     {

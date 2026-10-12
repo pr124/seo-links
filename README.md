@@ -309,7 +309,7 @@ The directory bookmarks contribute destinations to the next section. [Source lis
 
 ## Backlink Opportunities and DR
 
-**158 unique relevant destinations**, grouped by purpose. Each publisher or product appears once; its submission, homepage and related routes belong to that entry.
+**159 unique relevant destinations**, grouped by purpose. Each publisher or product appears once; its submission, homepage and related routes belong to that entry.
 
 Use directories that fit the product, communities where you can contribute and publications where you have a credible story. DR, “free dofollow” and ranking gains are unverified source claims. Current listing terms and link attributes need checking before submission.
 
@@ -367,7 +367,7 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 ### SaaS and Startup Launches
 
 <details>
-<summary><strong>42 destinations</strong></summary>
+<summary><strong>43 destinations</strong></summary>
 
 - [Acid Tools](https://acidtools.com/) - AI tools directory focused on automation, writing, design and productivity.
 - [AI Directories](https://www.aidirectori.es/) - AI tool catalog and service for submissions to other directories.
@@ -394,6 +394,7 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 - [PeerPush](https://peerpush.com/) - Product discovery platform for indie makers, startups, and technology products.
 - [PitchWall](https://pitchwall.co/) - Discovery platform for AI tools, SaaS products, and technology startups.
 - [Product Hunt](https://www.producthunt.com/) - Technology product discovery and launch community.
+- [RankCert](https://rankcert.com/) - Product launch board with public product listings and domain verification. Basic listing is advertised as free; optional upgrades are paid. Check current badge and link terms.
 - [ScrollLaunch](https://www.scrolllaunch.com/) - Weekly product launches and startup directory.
 - [SideProjectors](https://www.sideprojectors.com/) - Marketplace for showcasing, buying and selling side projects and finding co-founders.
 - [Startup Buffer](https://startupbuffer.com/) - Public startup directory organized by market, location, tags and related products.

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-10-11",
+  "checked_on": "2026-10-12",
   "scope": "One identity per destination across all supplied directory lists, plus the separately checked destinations and the already-covered YouTube reference. Original source records remain in directory-catalog.json.",
   "identity_rule": "Compare the whole repository, including tools, research sources, MCP integrations and destination identities. Normalize www, redirects, alternate names and homepage/submission routes. Keep independent GitHub repositories separate. Store additional source references against an existing destination rather than creating another guide listing.",
   "curation_policy": {
@@ -14,11 +14,11 @@
     "source_preservation": "Retain original post URLs, authors, dates, list positions, supplied-text coverage and remaining access gaps. Partial threads must remain labelled partial."
   },
   "review": {
-    "unique_destination_identities": 176,
+    "unique_destination_identities": 177,
     "source_catalog_records": 193,
     "source_reference_only_positions": 12,
     "statuses": {
-      "included": 158,
+      "included": 159,
       "pending_identity": 4,
       "source_only": 11,
       "listed_elsewhere": 3
@@ -7139,6 +7139,47 @@
         "status": "listed_elsewhere",
         "reason": "Already has a relevant entry in the tools or research section; use an internal cross-reference instead of repeating the destination.",
         "reviewed_on": "2026-10-11"
+      }
+    },
+    {
+      "id": "site:rankcert.com",
+      "name": "RankCert",
+      "url": "https://rankcert.com/",
+      "aliases": [],
+      "group": "SaaS and Startup Launches",
+      "description": "Product launch board with public product listings and domain verification. Basic listing is advertised as free; optional upgrades are paid. Check current badge and link terms.",
+      "notes": [
+        "Reviewed homepage, a public product listing, FAQ and pricing on 2026-10-12.",
+        "Pricing and FAQ differ on badge requirements for followed links; actual link attributes and SEO effects were not verified.",
+        "Submission form could not be read; no product was submitted."
+      ],
+      "routes": [
+        "https://rankcert.com/",
+        "https://rankcert.com/home/products/new",
+        "https://rankcert.com/pricing"
+      ],
+      "status": "verified",
+      "evidence_urls": [
+        "https://rankcert.com/",
+        "https://rankcert.com/product/smoothmock",
+        "https://rankcert.com/pricing",
+        "https://rankcert.com/faq"
+      ],
+      "source_references": [
+        {
+          "source_list_id": "user-direct-additions",
+          "source_url": "https://rankcert.com/",
+          "source_name": "RankCert",
+          "received_on": "2026-10-12"
+        }
+      ],
+      "checked_on": "2026-10-12",
+      "link_follow_status": "not_verified",
+      "dr_effect": "not_verified",
+      "curation": {
+        "status": "included",
+        "reason": "Relevant product-launch and discovery destination; added once to the launch listings.",
+        "reviewed_on": "2026-10-12"
       }
     }
   ]
