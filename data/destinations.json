@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-10-12",
+  "checked_on": "2026-10-14",
   "scope": "One identity per destination across all supplied directory lists, plus the separately checked destinations and the already-covered YouTube reference. Original source records remain in directory-catalog.json.",
   "identity_rule": "Compare the whole repository, including tools, research sources, MCP integrations and destination identities. Normalize www, redirects, alternate names and homepage/submission routes. Keep independent GitHub repositories separate. Store additional source references against an existing destination rather than creating another guide listing.",
   "curation_policy": {
@@ -14,11 +14,11 @@
     "source_preservation": "Retain original post URLs, authors, dates, list positions, supplied-text coverage and remaining access gaps. Partial threads must remain labelled partial."
   },
   "review": {
-    "unique_destination_identities": 177,
+    "unique_destination_identities": 178,
     "source_catalog_records": 193,
     "source_reference_only_positions": 12,
     "statuses": {
-      "included": 159,
+      "included": 160,
       "pending_identity": 4,
       "source_only": 11,
       "listed_elsewhere": 3
@@ -7180,6 +7180,49 @@
         "status": "included",
         "reason": "Relevant product-launch and discovery destination; added once to the launch listings.",
         "reviewed_on": "2026-10-12"
+      }
+    },
+    {
+      "id": "site:vercel.com/connect",
+      "name": "Vercel Connect",
+      "url": "https://vercel.com/connect/browse",
+      "aliases": [
+        "Vercel Connectors"
+      ],
+      "group": "Agent, API and llms.txt Discovery",
+      "description": "Directory for services agents can connect to. Use the dashboard's Submit a Service flow, describe the service, add OAuth or API-key connection methods, test OAuth methods where applicable, and submit for Vercel review.",
+      "notes": [
+        "Official submission announcement and dashboard route reviewed on 2026-10-14; provider documentation timed out.",
+        "Creating a connector for personal use is distinct from submitting a service for public listing.",
+        "No account connection or submission performed. Approval speed, followed-link status, DR 92 and SEO effects are not verified."
+      ],
+      "routes": [
+        "https://vercel.com/connect/browse",
+        "https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fconnect%2Fsubmit-service",
+        "https://vercel.com/docs/connect/providers"
+      ],
+      "status": "verified",
+      "evidence_urls": [
+        "https://vercel.com/changelog/vercel-connect-service-submissions",
+        "https://vercel.com/connect/browse",
+        "https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fconnect%2Fsubmit-service"
+      ],
+      "source_references": [
+        {
+          "source_list_id": "user-direct-additions",
+          "source_url": "https://vercel.com/connect/browse",
+          "source_name": "Vercel Connect",
+          "received_on": "2026-10-14",
+          "basis": "User-pasted visibility tip; no post URL supplied."
+        }
+      ],
+      "checked_on": "2026-10-14",
+      "link_follow_status": "not_verified",
+      "dr_effect": "not_verified",
+      "curation": {
+        "status": "included",
+        "reason": "Relevant service-discovery destination for an actual connectable SaaS/API/MCP; official public submission process verified.",
+        "reviewed_on": "2026-10-14"
       }
     }
   ]

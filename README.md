@@ -323,7 +323,7 @@ The directory bookmarks contribute destinations to the next section. [Source lis
 
 ## Backlink Opportunities and DR
 
-**159 unique relevant destinations**, grouped by purpose. Each publisher or product appears once; its submission, homepage and related routes belong to that entry.
+**160 unique relevant destinations**, grouped by purpose. Each publisher or product appears once; its submission, homepage and related routes belong to that entry.
 
 Use directories that fit the product, communities where you can contribute and publications where you have a credible story. DR, “free dofollow” and ranking gains are unverified source claims. Current listing terms and link attributes need checking before submission.
 
@@ -366,7 +366,7 @@ Contribute an eligible server or plugin using each repository’s contribution r
 ### Agent, API and llms.txt Discovery
 
 <details>
-<summary><strong>5 destinations</strong></summary>
+<summary><strong>6 destinations</strong></summary>
 
 Match the actual API, plugin, agent skill or documentation to the destination. llms.txt directories do not establish a Google AI eligibility requirement.
 
@@ -375,6 +375,8 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 - [llms txt Hub](https://llmstxthub.com/) - Directory of AI-ready documentation and websites implementing llms.txt.
 - [llms txt Site](https://llmstxt.site/) - Directory of llms.txt file locations and related file statistics.
 - [Public APIs](https://github.com/public-apis/public-apis) - Community list of public APIs and a separate MCP server section.
+
+- [Vercel Connect](https://vercel.com/connect/browse) - Directory for services agents can connect to. Use the dashboard's Submit a Service flow, describe the service, add OAuth or API-key connection methods, test OAuth methods where applicable, and submit for Vercel review. [Submit a service](https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fconnect%2Fsubmit-service).
 
 </details>
 
