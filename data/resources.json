@@ -2815,6 +2815,21 @@
         "checked_on": "2026-10-11",
         "documentation_reviewed": true,
         "runtime_tested": false
+      },
+      {
+        "name": "Illyism SEO Skills",
+        "url": "https://github.com/Illyism/seo-skills",
+        "description": "SEO skills for technical audits, SERP research, title improvements, content refreshes, comparison pages and AI-answer tracking. Requires an agent that reads SKILL.md plus connected research/analytics data where needed. Review before use: includes paid-backlink promotion and opinionated publishing, linking and page-merging rules; these are not universal SEO requirements. Documentation inspected; not installed or runtime-tested.",
+        "source": "User-supplied repository and announcement, 14 October 2026",
+        "checked_on": "2026-10-14",
+        "documentation_reviewed": true,
+        "inspected_files": [
+          "README.md",
+          "seo/seo-autopilot/SKILL.md",
+          "seo/seo-title-optimization/SKILL.md"
+        ],
+        "runtime_tested": false,
+        "notes": "Listing does not endorse LinkDR paid ranking links, rank deadlines, automatic query-to-page merging, title-length targets or fixed output quotas. External access and provider charges depend on selected workflows."
       }
     ],
     "websites": [
