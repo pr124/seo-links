@@ -2918,6 +2918,81 @@
       },
       "reviewed_on": "2026-10-11",
       "guide_display": "Text tip within existing outreach group"
+    },
+    {
+      "id": "calculator-validation",
+      "category": "SaaS and App SEO",
+      "text": "Before publishing a calculator, record authoritative formula sources and their dates, test known examples, units, rounding, boundaries and invalid inputs, and check displayed explanations against outputs. Health-related calculations need qualified review; a traffic anecdote does not validate a formula.",
+      "source": {
+        "author": "huyphamm85",
+        "url": "https://getdoz.app/",
+        "basis": "User-pasted partial Oct 13 thread; website identifies the app, not a verified permalink to the thread.",
+        "coverage": "Supplied numbered steps 1, 2, 4 and 5; step 3 missing. Testing checklist is editorial guidance, not claimed verbatim thread content."
+      },
+      "reviewed_on": "2026-10-14",
+      "guide_display": "Short text within existing relevant section"
+    },
+    {
+      "id": "local-citation-audit",
+      "category": "Technical SEO",
+      "text": "Keep a reference record of the business name, address, phone and website. Compare public directory and review listings with it, flag outdated or incorrect facts, and prioritize prominent relevant listings. Equivalent phone/address formatting alone is not necessarily an error.",
+      "source": {
+        "basis": "User-pasted Complete Guide To Using Claude In SEO, law-firm example; no source URL supplied."
+      },
+      "reviewed_on": "2026-10-14",
+      "guide_display": "Short text within existing relevant section"
+    },
+    {
+      "id": "review-response-checks",
+      "category": "Technical SEO",
+      "text": "Use AI to draft concise replies, then check the tone and facts before publishing. Avoid disclosing or confirming private customer or case details in public replies; route sensitive complaints to the responsible person.",
+      "source": {
+        "basis": "User-pasted Complete Guide To Using Claude In SEO, law-firm example; generalized as a publishing check, not jurisdiction-specific legal advice."
+      },
+      "reviewed_on": "2026-10-14",
+      "guide_display": "Short text within existing relevant section"
+    },
+    {
+      "id": "smo-deo-glossary",
+      "category": "AI Search and GEO",
+      "text": "SMO means Social Media Optimisation: discovery and discussion on social platforms. In the supplied author's framework, DEO means Decision Engine Optimisation: making product suitability, pricing, availability, limitations and policies clear for comparison. DEO is an emerging, nonstandard label; this is terminology, not a demonstrated ranking system.",
+      "source": {
+        "basis": "Pasted markdown(8).md, The Modern Search Optimisation Stack: SEO, SMO, AEO, GEO, DEO & SXO; read locally on Oct 11."
+      },
+      "reviewed_on": "2026-10-14",
+      "guide_display": "Short text within existing relevant section"
+    },
+    {
+      "id": "ai-overview-query-observations",
+      "category": "AI Search and GEO",
+      "text": "Track the same Google AI Overview query on several dates. Log whether an overview appears, its linked sources, the claims each supports, location/device and available search-context settings. Look for unanswered questions or better evidence you can provide. Source changes are observations, not proof of what causes citation selection.",
+      "source": {
+        "basis": "Screenshot 2026-10-11 174944.png visually inspected; author and post URL unavailable."
+      },
+      "reviewed_on": "2026-10-14",
+      "guide_display": "Short text within existing relevant section"
+    },
+    {
+      "id": "landing-page-conversion-priorities",
+      "category": "SaaS and App SEO",
+      "text": "Compare search performance by landing page with signups, demos or other meaningful outcomes using a stated attribution model and comparable date ranges. Investigate pages with visits but few outcomes; prioritize pages that attract suitable customers. Keep Search Console clicks distinct from analytics sessions, and account for small samples and delayed conversions.",
+      "source": {
+        "basis": "User-pasted Refix 47x SEO loop; no post URL supplied. Growth outcomes remain unverified."
+      },
+      "reviewed_on": "2026-10-14",
+      "guide_display": "Short text within existing relevant section"
+    },
+    {
+      "id": "translated-page-quality",
+      "category": "SaaS and App SEO",
+      "text": "For translated tools and guides, review local terminology, units, examples, formulas and disclosures in each language. Link equivalent language versions and check language targeting. Expand only where the localized page serves real demand; language and page counts are not success targets.",
+      "source": {
+        "author": "huyphamm85",
+        "url": "https://getdoz.app/",
+        "basis": "User-pasted partial Oct 13 thread mentions eight languages; quality checklist is editorial guidance, not verified implementation."
+      },
+      "reviewed_on": "2026-10-14",
+      "guide_display": "Short text within existing relevant section"
     }
   ],
   "collection_reviews": [

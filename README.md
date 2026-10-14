@@ -239,6 +239,16 @@ Make important pages discoverable, crawlable and understandable, then inspect th
 
 ---
 
+<details>
+<summary><strong>Local Listings and Review Replies</strong> - 2 practical tips</summary>
+
+1. **Audit business citations.** Keep a reference record of the business name, address, phone and website. Compare public directory and review listings with it, flag outdated or incorrect facts, and prioritize prominent relevant listings. Equivalent phone/address formatting alone is not necessarily an error.
+2. **Review public replies before publishing.** AI can draft concise responses, but a person should check tone and facts. Avoid disclosing or confirming private customer or case details, and route sensitive complaints to the responsible person.
+
+</details>
+
+---
+
 ## Content and On-Page SEO
 
 Improve original value, accurate search titles, useful answers and genuinely outdated information.
@@ -609,12 +619,17 @@ Build useful evidence, inspect crawler requirements and measure answer visibilit
 - [A 30-day ChatGPT citation and buyer-question audit](https://x.com/TheCoolestCool/status/2105787365126226359) - Repeat a fixed set of buyer questions with web search, log cited URLs separately from brand recommendations, map recurring sources, and compare referral visits with leads. Publish evidence with methods and limitations. The schedule is an example; study correlations and numerical claims are not verified ranking rules or citation guarantees.
 - [Review-led SEO, GEO and AEO workflow](https://x.com/om_patel5/status/2099683744781111419) - Mine customer complaints and People Also Ask, build linked topic clusters, reuse useful videos and inspect search queries and AI recommendations. The post's llms.txt, bot-eligibility and automatic-citation claims need verification; Google does not require special AI files.
 
+**Track a single AI Overview query over time.** Repeat the same query on several dates and record whether an overview appears, its linked sources, the claims each supports, location/device and available search-context settings. Use gaps to plan useful evidence or answers. Changing citations are observations, not proof of what causes selection.
+
 </details>
 
 <details>
 <summary><strong>Terminology</strong> - 1 resource</summary>
 
 - [SEO, AEO, GEO and SXO terminology](https://x.com/james_dooley/status/2100907455890800881) - A short positioning framework connecting search discovery, answers, citations and conversion. A terminology reference rather than a documented ranking model.
+
+- **SMO — Social Media Optimisation:** discovery, distribution and discussion across relevant social platforms.
+- **DEO — Decision Engine Optimisation:** the supplied author's emerging framework for making suitability, pricing, availability, limitations and policies clear for comparison. This is a nonstandard label, not a demonstrated ranking system.
 
 </details>
 
@@ -638,6 +653,8 @@ Connect customer problems and commercial searches to useful product and comparis
 
 - [Build distribution into the product](https://x.com/hridoyreh/status/2108742814507159609) - Free tools, calculators, templates, public reports and integrations can give people a reason to discover and reference a product.
 - [Search-focused channels from a SaaS marketing checklist](https://x.com/jessievbreugel/status/2108543866563432845) - The SEO-related ideas include competitor-alternative pages, free tools, AI search and integration marketplace listings.
+
+**Validate calculators before launch.** Record authoritative formula sources and their dates. Test known examples, units, rounding, boundary values and invalid inputs, and check that the explanations match the outputs. Health-related calculations need qualified review; search traffic does not validate a formula.
 
 </details>
 
@@ -665,6 +682,10 @@ Connect customer problems and commercial searches to useful product and comparis
 4. **Measure and improve.** Review search-query coverage and user outcomes. Prioritize useful pages over a target page count or daily publishing quota.
 
 Adapted from a supplied SaaS case study. Its revenue, signup, traffic and AI-recommendation outcomes are unverified. [Evidence and source review](docs/content-quality.md#programmatic-seo-case-study).
+
+**Prioritize landing-page outcomes.** Compare search performance by landing page with signups, demos or other meaningful outcomes using comparable date ranges and a stated attribution model. Investigate pages with visits but few outcomes. Keep Search Console clicks distinct from analytics sessions, and account for small samples and delayed conversions.
+
+**Review translated pages.** Check local terminology, units, examples, formulas and disclosures in each language. Link equivalent language versions and check language targeting. Expand where the localized page serves real demand; language and page counts are not success targets.
 
 </details>
 

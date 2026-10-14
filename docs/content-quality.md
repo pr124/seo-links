@@ -54,3 +54,13 @@ Keep a post when readable content supplies a useful, distinct SEO method or refe
 Use an article title, its original URL and a brief takeaway. Unreadable titles, pure promotions, unsupported ranking/revenue guarantees and ambiguous destinations stay in the source register until they add something usable. Preserve original authors, dates and positions; never turn an incomplete thread into a complete checklist.
 
 [Return to the guide](../README.md#content-and-on-page-seo).
+
+## Calculator and translation review
+
+Calculator pages should record formula provenance and assumptions, with checks for units, rounding, known results, boundary values and invalid inputs. Review explanations alongside computed outputs. Health-related calculations need qualified domain review; publishing a medication-related calculator is not validated by its impressions or clicks. This guide supplies a quality checklist, not medical formulas or dosing advice.
+
+Translated pages need their own terminology, unit, example and disclosure review. Check equivalent-version links and language targeting; do not infer a benefit merely from publishing more languages.
+
+## Observation versus attribution
+
+Repeat AI-search tests with a consistent query set and documented conditions. Citation changes do not establish their cause. Compare landing-page outcomes with search data using clear attribution and date ranges; clicks and sessions are different measurements. SMO and the supplied author's DEO label describe activities or frameworks, not new documented ranking factors.

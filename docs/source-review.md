@@ -215,3 +215,11 @@ The README documents keyword research, rank tracking, competitor insights, backl
 ## Additional SEO resource collections
 
 Reviewed teles/awesome-seo and bmpi-dev/awesome-seo on 11 October 2026. Added 24 selected destinations to the existing tools/implementation index; original bookmark resource counts remain unchanged. [Review, additions, duplicate identities and deferred links](awesome-seo-review.md). No tools were installed or runtime-tested.
+
+## Follow-through on supplied practical advice — 14 October 2026
+
+Added seven short tips that were previously discussed but not written into the guide: calculator validation, local citation audits, review-response checks, SMO/DEO terminology, repeated AI Overview observations, landing-page conversion priorities and translated-page quality. These enrich existing sections; they are not seven new article recommendations. Source coverage and editorial additions are recorded in data/resources.json under practical_tips.
+
+The supplied @huyphamm85 GetDoz thread contains steps 1, 2, 4 and 5; step 3 is absent. Its 114,907 impressions, 541 clicks, 6.8 average position, page counts and eight-language implementation remain author-reported outcomes, not independently verified. https://getdoz.app/ identifies the product and is not treated as the missing thread permalink. Testing and translation checks are editorial guidance inspired by the supplied material, not assertions about what the author implemented.
+
+The local/review tips come from the supplied law-firm Claude article without a source URL; the glossary comes from Pasted markdown(8).md; the AI Overview observation comes from the inspected screenshot; the landing-page measurement detail comes from the supplied Refix article. No source URL was invented. Repeated advice and unsupported rankings, quotas, synthetic identities and automatic-citation claims remain excluded.
