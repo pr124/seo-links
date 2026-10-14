@@ -1,0 +1,6 @@
+---
+description: Installed portable SEO skills and workspace guidance
+alwaysApply: true
+---
+
+Read AGENTS.md for this repository. Select relevant installed skills from .cursor/skills and resolve upstream workflows from vendor/seo-skills. See docs/installed-seo-skills.md for dependencies and available workflows.

@@ -2795,14 +2795,22 @@
         "source_url": "https://github.com/every-app/open-seo/tree/main/plugins/openseo/skills",
         "requirements": "OpenSEO MCP connection",
         "inspected_example": "plugins/openseo/skills/keyword-research/SKILL.md",
-        "runtime_tested": false
+        "runtime_tested": false,
+        "installed": true,
+        "installed_on": "2026-10-14",
+        "local_source": "vendor/seo-skills/openseo",
+        "installation_manifest": "skills-lock.json"
       },
       {
         "name": "Jev SEO skill",
         "url": "https://github.com/AgriciDaniel/jev-seo/blob/main/SKILL.md",
         "requirements": "Jev SEO repo and API/dependency setup",
         "review_basis": "Upstream README documents skill workflow; installation not tested.",
-        "runtime_tested": false
+        "runtime_tested": false,
+        "installed": true,
+        "installed_on": "2026-10-14",
+        "local_source": "vendor/seo-skills/jev-seo",
+        "installation_manifest": "skills-lock.json"
       },
       {
         "name": "NotFair Plugin",
@@ -2814,7 +2822,11 @@
         ],
         "checked_on": "2026-10-11",
         "documentation_reviewed": true,
-        "runtime_tested": false
+        "runtime_tested": false,
+        "installed": true,
+        "installed_on": "2026-10-14",
+        "local_source": "vendor/seo-skills/notfair",
+        "installation_manifest": "skills-lock.json"
       },
       {
         "name": "Illyism SEO Skills",
@@ -2829,7 +2841,11 @@
           "seo/seo-title-optimization/SKILL.md"
         ],
         "runtime_tested": false,
-        "notes": "Listing does not endorse LinkDR paid ranking links, rank deadlines, automatic query-to-page merging, title-length targets or fixed output quotas. External access and provider charges depend on selected workflows."
+        "notes": "Listing does not endorse LinkDR paid ranking links, rank deadlines, automatic query-to-page merging, title-length targets or fixed output quotas. External access and provider charges depend on selected workflows.",
+        "installed": true,
+        "installed_on": "2026-10-14",
+        "local_source": "vendor/seo-skills/illyism",
+        "installation_manifest": "skills-lock.json"
       }
     ],
     "websites": [
@@ -2917,7 +2933,22 @@
         "documentation_reviewed": true,
         "runtime_tested": false
       }
-    ]
+    ],
+    "installation": {
+      "installed_on": "2026-10-14",
+      "manifest": "skills-lock.json",
+      "documentation": "docs/installed-seo-skills.md",
+      "skill_count": 72,
+      "source_file_count": 309,
+      "agent_directories": {
+        "generic": ".agents/skills",
+        "claude": ".claude/skills",
+        "cursor": ".cursor/skills",
+        "gemini": ".gemini/skills",
+        "copilot": ".github/skills"
+      },
+      "live_account_workflows_tested": false
+    }
   },
   "practical_tips": [
     {

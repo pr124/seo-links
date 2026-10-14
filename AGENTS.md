@@ -1,12 +1,22 @@
-# GitHub Actions cost controls
+# SEO Links agent instructions
 
-The user requires avoiding unnecessary GitHub Actions minutes and charges. These instructions take precedence over general instructions to push, run CI, or use cloud verification.
+This repository is a curated resource hub and a portable SEO skill workspace. It is not the website a user wants audited unless they explicitly say so. Ask for the target website/repository when it is missing; never publish generated SEO pages into this link catalogue by default.
 
-- Workflows in this repository are intentionally manual-only. Preserve this policy; do not add automatic push, pull_request, schedule, or workflow_run triggers without an explicit user request for automatic Actions execution.
-- Run relevant lint, tests, type checks, and builds locally first. If local verification is unavailable, report that gap; do not start hosted jobs as an automatic fallback.
-- Do not dispatch or rerun GitHub Actions unless the user explicitly requests a GitHub Actions run. A request to implement, test, commit, push, or deploy does not by itself authorize hosted CI.
-- Before an authorized Actions run, check available minutes or the account budget and explain the expected runner use. Never raise or remove spending limits.
-- Native Android and iOS builds require an explicit choice. Keep native build inputs false by default and run native jobs only after source checks pass. Use macOS runners only for explicitly requested Apple platform verification or release builds.
-- Inspect workflow triggers before each push or PR update. Batch completed, locally verified changes into one final push whenever practical; avoid repeated pushes just to test small edits in CI.
-- Keep workflow concurrency cancellation, bounded job timeouts, and short artifact retention. Reuse existing valid results and caches rather than rerunning unchanged work.
-- Do not bypass failed tests or required branch checks to save minutes, and do not claim verification that was not performed. Report local results and any remaining CI or native verification gap.
+## Installed skills
+
+See [installed skill catalogue](docs/installed-seo-skills.md) and [pinned manifest](skills-lock.json). Canonical entry points live in .agents/skills; matching entry points are committed for Claude Code, Cursor, Gemini CLI and GitHub Copilot. Read the chosen SKILL.md and its vendored upstream workflow on demand. Do not load or execute all 72 workflows at startup.
+
+- OpenSEO: connected keyword research, clustering, local SEO, competitor analysis and audits; requires OpenSEO MCP for live data.
+- Jev SEO: local crawl/audit/report workflow; Python dependencies and optional APIs; see its vendored README.
+- NotFair: SEO, analytics and related marketing workflows; live account work needs the appropriate authorized connector.
+- Illyism: title optimization, content refreshes, comparison pages and SEO planning; connected data is needed where the workflow requests it.
+
+Prefer repository-prefixed skill names to avoid collisions. Resolve references from the vendored workflow directory. Translate tools to the host agent's equivalents; a Markdown workflow does not grant unavailable tools or make a model capable of browsing by itself.
+
+## Work rules
+
+Use verified input data and preserve provenance. Do not invent keyword volumes, rankings, citations, customer claims or business facts. Distinguish source claims, heuristics and documented requirements. Do not adopt fixed page/link quotas, automatic page merging, paid ranking links or fake identities as default SEO requirements.
+
+Existing user authorization governs actions. Installing these workflows alone does not authorize external posts/messages, purchases, credentials or account connections, deployments or destructive changes. Draft proposed changes and verify them before publishing within the task's authorized scope. Never store credentials in tracked files. Use supplied exports if a live connector is unavailable and report gaps honestly.
+
+For this hub, deduplicate across README.md, data/resources.json and data/destinations.json. Keep existing collapsible Markdown groups, their counts and navigation intact. Preserve upstream vendor files and licences; keep local adjustments in adapters and documentation. Do not run installed third-party skills automatically.

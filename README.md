@@ -94,6 +94,8 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 - [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - SEO and analytics workflows for audits, keyword research, sitemaps, local SEO and content. Former NotFair and toprank links resolve to this one repo. Live account workflows need its OAuth-connected MCP and authorized provider access; documentation reviewed, not installed.
 - [Illyism SEO Skills](https://github.com/Illyism/seo-skills) - SEO skills for technical audits, SERP research, title improvements, content refreshes, comparison pages and AI-answer tracking. Requires an agent that reads SKILL.md plus connected research/analytics data where needed. Review before use: includes paid-backlink promotion and opinionated publishing, linking and page-merging rules; these are not universal SEO requirements. Documentation inspected; not installed or runtime-tested.
 
+**Installed in this repo:** [72 portable skills and setup guide](docs/installed-seo-skills.md). Entry points are committed for Codex/shared agents, Claude Code, Cursor, Gemini CLI and GitHub Copilot; pinned sources and dependencies are included under `vendor/seo-skills`.
+
 </details>
 
 <details>

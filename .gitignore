@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+!.env.*.example
+.venv*/
+__pycache__/
+*.pyc
+seo/credentials/
+jev-seo-reports/
+vendor/seo-skills/jev-seo/jevseo/fonts/*.otf
+vendor/seo-skills/jev-seo/jevseo/fonts/*.ttf
