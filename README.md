@@ -16,6 +16,7 @@ Relevant articles use a link and a short takeaway. Partial supplied text stays l
 - [Content and On-Page SEO](#content-and-on-page-seo)
 - [Backlinks and Authority](#backlinks-and-authority)
 - [Backlink Opportunities and DR](#backlink-opportunities-and-dr)
+- [MCP and Connector Publishing](#mcp-and-connector-publishing)
 - [AI Search and GEO](#ai-search-and-geo)
 - [SaaS and App SEO](#saas-and-app-seo)
 - [Automation and Skills](#automation-and-skills)
@@ -77,7 +78,7 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 <summary><strong>GitHub Repositories and Self-Hosted SEO</strong> - 6 resources</summary>
 
 - [OpenSEO](https://github.com/every-app/open-seo) - Self-hosted keyword research, rank tracking, competitor insights, backlinks, site audits and AI visibility; includes an MCP server and agent skills. Requires a DataForSEO API key and paid usage; [MCP setup](https://openseo.so/docs/mcp).
-- [Jev SEO](https://github.com/AgriciDaniel/jev-seo) - Local SEO crawler and audit-report generator, usable as a CLI or Claude Code skill. Produces PDF, spreadsheet and Markdown reports. Jev judgments require TypeSafe API access; optional extended research uses paid DataForSEO. Audit scores are heuristics, not ranking predictions. Documentation reviewed; not installed or runtime-tested.
+- [Jev SEO](https://github.com/AgriciDaniel/jev-seo) - Local SEO crawler and audit-report generator, usable as a CLI or Claude Code skill. Produces PDF, spreadsheet and Markdown reports. Jev judgments require TypeSafe API access; optional extended research uses paid DataForSEO. Audit scores are heuristics, not ranking predictions. Source installed in this repo; full audit workflows not runtime-tested.
 
 - [advertools](https://github.com/eliasdabbas/advertools) - Python library for crawling, sitemap and robots.txt analysis, URL processing and server-log analysis. Some integrations require separate provider access.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Self-hosted dashboard for prompts, brand mentions and citations. Live tracking uses Bright Data; analysis may use OpenRouter and other paid APIs. Demo mode uses sample data, and its heuristic scores are not ranking factors.
@@ -91,7 +92,7 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 - [OpenSEO Agent Skills](https://openseo.so/docs/skills/setup) - Workflows for keyword research and clustering, competitor analysis, local SEO, link prospecting and audits. Requires a working OpenSEO MCP connection; [skill source files](https://github.com/every-app/open-seo/tree/main/plugins/openseo/skills). The keyword-research skill was inspected directly.
 - [Jev SEO skill workflow](https://github.com/AgriciDaniel/jev-seo/blob/main/SKILL.md) - Workflow for running the audit, checking surprising findings and producing reports. Uses the Jev SEO repo above and its API/dependency setup. Review model-generated judgments before acting on them.
 
-- [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - SEO and analytics workflows for audits, keyword research, sitemaps, local SEO and content. Former NotFair and toprank links resolve to this one repo. Live account workflows need its OAuth-connected MCP and authorized provider access; documentation reviewed, not installed.
+- [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - SEO and analytics workflows for audits, keyword research, sitemaps, local SEO and content. Former NotFair and toprank links resolve to this one repo. Live account workflows need its OAuth-connected MCP and authorized provider access; sources installed in this repo; live workflows not runtime-tested.
 - [Illyism SEO Skills](https://github.com/Illyism/seo-skills) - SEO skills for technical audits, SERP research, title improvements, content refreshes, comparison pages and AI-answer tracking. Requires an agent that reads SKILL.md plus connected research/analytics data where needed. Review before use: includes paid-backlink promotion and opinionated publishing, linking and page-merging rules; these are not universal SEO requirements. Documentation inspected; not installed or runtime-tested.
 
 **Installed in this repo:** [72 portable skills and setup guide](docs/installed-seo-skills.md). Entry points are committed for Codex/shared agents, Claude Code, Cursor, Gemini CLI and GitHub Copilot; pinned sources and dependencies are included under `vendor/seo-skills`.
@@ -323,7 +324,7 @@ The directory bookmarks contribute destinations to the next section. [Source lis
 
 ## Backlink Opportunities and DR
 
-**160 unique relevant destinations**, grouped by purpose. Each publisher or product appears once; its submission, homepage and related routes belong to that entry.
+**161 unique relevant destinations**, grouped by purpose. Each publisher or product appears once; its submission, homepage and related routes belong to that entry.
 
 Use directories that fit the product, communities where you can contribute and publications where you have a credible story. DR, “free dofollow” and ranking gains are unverified source claims. Current listing terms and link attributes need checking before submission.
 
@@ -349,6 +350,19 @@ For compatible MCP servers. Directory discovery does not establish a followed ba
 
 </details>
 
+### MCP and Connector Publishing
+
+<details>
+<summary><strong>3 destinations</strong></summary>
+
+Publish a working integration for customers to discover and use. These are publishing routes, not SEO tools or guaranteed backlink placements.
+
+- [Claude connector and plugin directory](https://claude.ai/directory) - Publish remote MCP connectors or plugin bundles through the developer portal. Requires a paid Claude plan and an eligible role; Community and Verified indicate different review levels. [Submission portal](https://claude.ai/directory/manage) · [Requirements](https://claude.com/docs/connectors/building/submission). Includes the previously listed [Claude Code plugin marketplace](https://claude.com/marketplace/plugins).
+- [ChatGPT app and plugin publishing](https://developers.openai.com/plugins/deploy/submission) - OpenAI's current app/plugin publishing guide. Public remote-MCP submissions use the With MCP route, with developer identity, connection details, testing and review requirements.
+- [Vercel Connect](https://vercel.com/connect/browse) - Directory for services agents can connect to. Use the dashboard's Submit a Service flow, describe the service, add OAuth or API-key connection methods, test OAuth methods where applicable, and submit for Vercel review. [Submit a service](https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fconnect%2Fsubmit-service).
+
+</details>
+
 ### MCP and Plugin GitHub Lists
 
 <details>
@@ -366,17 +380,15 @@ Contribute an eligible server or plugin using each repository’s contribution r
 ### Agent, API and llms.txt Discovery
 
 <details>
-<summary><strong>6 destinations</strong></summary>
+<summary><strong>4 destinations</strong></summary>
 
 Match the actual API, plugin, agent skill or documentation to the destination. llms.txt directories do not establish a Google AI eligibility requirement.
 
-- [Claude Code plugin directory](https://claude.com/marketplace/plugins) - Anthropic's plugin marketplace with a Claude Code compatibility filter.
 - [ClawHub](https://clawhub.ai/) - OpenClaw skill and plugin registry.
 - [llms txt Hub](https://llmstxthub.com/) - Directory of AI-ready documentation and websites implementing llms.txt.
 - [llms txt Site](https://llmstxt.site/) - Directory of llms.txt file locations and related file statistics.
 - [Public APIs](https://github.com/public-apis/public-apis) - Community list of public APIs and a separate MCP server section.
 
-- [Vercel Connect](https://vercel.com/connect/browse) - Directory for services agents can connect to. Use the dashboard's Submit a Service flow, describe the service, add OAuth or API-key connection methods, test OAuth methods where applicable, and submit for Vercel review. [Submit a service](https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fconnect%2Fsubmit-service).
 
 </details>
 

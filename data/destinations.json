@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "checked_on": "2026-10-14",
+  "checked_on": "2026-10-15",
   "scope": "One identity per destination across all supplied directory lists, plus the separately checked destinations and the already-covered YouTube reference. Original source records remain in directory-catalog.json.",
   "identity_rule": "Compare the whole repository, including tools, research sources, MCP integrations and destination identities. Normalize www, redirects, alternate names and homepage/submission routes. Keep independent GitHub repositories separate. Store additional source references against an existing destination rather than creating another guide listing.",
   "curation_policy": {
@@ -14,11 +14,11 @@
     "source_preservation": "Retain original post URLs, authors, dates, list positions, supplied-text coverage and remaining access gaps. Partial threads must remain labelled partial."
   },
   "review": {
-    "unique_destination_identities": 178,
+    "unique_destination_identities": 179,
     "source_catalog_records": 193,
     "source_reference_only_positions": 12,
     "statuses": {
-      "included": 160,
+      "included": 161,
       "pending_identity": 4,
       "source_only": 11,
       "listed_elsewhere": 3
@@ -1288,22 +1288,31 @@
     },
     {
       "id": "site:claude.com",
-      "name": "Claude Code plugin directory",
-      "url": "https://claude.com/marketplace/plugins",
-      "aliases": [],
-      "group": "Agent, API and llms.txt Discovery",
-      "description": "Anthropic's plugin marketplace with a Claude Code compatibility filter.",
+      "name": "Claude connector and plugin directory",
+      "url": "https://claude.ai/directory",
+      "aliases": [
+        "Claude Code plugin directory",
+        "Claude Community connectors"
+      ],
+      "group": "MCP and Connector Publishing",
+      "description": "Publish remote MCP connectors or plugin bundles through the developer portal. Requires a paid Claude plan and an eligible role; Community and Verified indicate different review levels.",
       "notes": [
-        "The official GitHub directory points to publishing documentation. Current submissions use the developer portal, require an eligible account/role, and undergo review; use an actual plugin bundle or MCP connector."
+        "Current submission and eligibility documentation checked on 2026-10-15; the authenticated portal itself was not inspected.",
+        "A regular API needs an MCP implementation for the connector route. A plugin bundle is a separate submission type.",
+        "The user's Team-only price/seat requirement and fixed approval time are not adopted. Noindex, followed links, DR 92 and SEO benefits were not verified."
       ],
       "routes": [
-        "https://claude.com/marketplace/plugins"
+        "https://claude.com/marketplace/plugins",
+        "https://claude.ai/directory",
+        "https://claude.ai/directory/manage"
       ],
       "status": "verified",
       "evidence_urls": [
         "https://claude.com/marketplace/plugins",
         "https://github.com/anthropics/claude-plugins-official",
-        "https://claude.com/docs/directory/publish"
+        "https://claude.com/docs/directory/publish",
+        "https://claude.com/docs/connectors/building/submission",
+        "https://claude.com/docs/connectors/verification"
       ],
       "source_references": [
         {
@@ -1313,15 +1322,22 @@
           "positions": null,
           "group_position": 1,
           "source_group": "Agents and AI search"
+        },
+        {
+          "source_list_id": "user-direct-additions",
+          "source_url": "https://claude.ai/directory/manage",
+          "source_name": "Claude Community connector submission",
+          "received_on": "2026-10-15",
+          "basis": "User-pasted submission experience; no post URL supplied."
         }
       ],
-      "checked_on": "2026-10-11",
+      "checked_on": "2026-10-15",
       "link_follow_status": "not_verified",
       "dr_effect": "not_verified",
       "curation": {
         "status": "included",
         "reason": "Has a plausible relevant submission, editorial, publishing, product discovery or technical-documentation role; check eligibility for the actual product.",
-        "reviewed_on": "2026-10-11"
+        "reviewed_on": "2026-10-15"
       }
     },
     {
@@ -7189,7 +7205,7 @@
       "aliases": [
         "Vercel Connectors"
       ],
-      "group": "Agent, API and llms.txt Discovery",
+      "group": "MCP and Connector Publishing",
       "description": "Directory for services agents can connect to. Use the dashboard's Submit a Service flow, describe the service, add OAuth or API-key connection methods, test OAuth methods where applicable, and submit for Vercel review.",
       "notes": [
         "Official submission announcement and dashboard route reviewed on 2026-10-14; provider documentation timed out.",
@@ -7223,6 +7239,47 @@
         "status": "included",
         "reason": "Relevant service-discovery destination for an actual connectable SaaS/API/MCP; official public submission process verified.",
         "reviewed_on": "2026-10-14"
+      }
+    },
+    {
+      "id": "site:openai.com/plugins",
+      "name": "ChatGPT app and plugin publishing",
+      "url": "https://developers.openai.com/plugins/deploy/submission",
+      "aliases": [
+        "ChatGPT Apps SDK submissions"
+      ],
+      "group": "MCP and Connector Publishing",
+      "description": "OpenAI's current app/plugin publishing guide. Public remote-MCP submissions use the With MCP route, with developer identity, connection details, testing and review requirements.",
+      "notes": [
+        "The earlier Apps SDK submission URL currently redirects to this publishing guide.",
+        "A private custom connection is not a public directory listing. No account was connected and no app was submitted.",
+        "No fixed review time, backlink, indexing or DR benefit is claimed."
+      ],
+      "routes": [
+        "https://developers.openai.com/plugins/deploy/submission",
+        "https://developers.openai.com/apps-sdk/deploy/submission/",
+        "https://platform.openai.com"
+      ],
+      "status": "verified",
+      "evidence_urls": [
+        "https://developers.openai.com/plugins/deploy/submission"
+      ],
+      "source_references": [
+        {
+          "source_list_id": "user-direct-additions",
+          "source_url": "https://developers.openai.com/plugins/deploy/submission",
+          "source_name": "ChatGPT app/plugin publishing",
+          "received_on": "2026-10-15",
+          "basis": "User asked to group the ChatGPT equivalent with MCP/connector publication; primary documentation checked."
+        }
+      ],
+      "checked_on": "2026-10-15",
+      "link_follow_status": "not_verified",
+      "dr_effect": "not_verified",
+      "curation": {
+        "status": "included",
+        "reason": "Official route for publishing a real app/plugin or remote MCP integration; developer distribution rather than a backlink promise.",
+        "reviewed_on": "2026-10-15"
       }
     }
   ]
