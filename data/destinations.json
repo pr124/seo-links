@@ -31,12 +31,15 @@
       "url": "https://registry.modelcontextprotocol.io/",
       "aliases": [],
       "group": "MCP Directories",
-      "description": "Official catalog for discovering Model Context Protocol servers.",
+      "description": "Official catalog for discovering Model Context Protocol servers. Publish a live remote MCP server with the mcp-publisher CLI; downstream directories, clients and IDE marketplaces may pull from this registry.",
       "notes": [
-        "For actual MCP servers; check official publishing requirements before submitting."
+        "For actual MCP servers; check official publishing requirements before submitting.",
+        "User-supplied tip (2026-10-17): install mcp-publisher, run mcp-publisher init and complete server.json (name, title, one-line description, version, server URL), prove domain ownership with a DNS TXT record, then mcp-publisher login dns --domain <domain> --private-key <key> and mcp-publisher publish. Requires an already-live remote MCP server.",
+        "The tip's claims of no review or approval queue, publish in minutes, DR 91 and automatic syndication to hundreds of other pages are unverified. Check the official publishing guide for current commands and namespace rules. No publish performed."
       ],
       "routes": [
-        "https://registry.modelcontextprotocol.io/"
+        "https://registry.modelcontextprotocol.io/",
+        "https://registry.modelcontextprotocol.io/docs"
       ],
       "status": "verified",
       "evidence_urls": [
@@ -50,9 +53,16 @@
           "positions": null,
           "group_position": 1,
           "source_group": "MCP directories"
+        },
+        {
+          "source_list_id": "user-direct-additions",
+          "source_url": "https://registry.modelcontextprotocol.io/",
+          "source_name": "Official MCP Registry publishing steps",
+          "received_on": "2026-10-17",
+          "basis": "User-pasted visibility tip; no post URL supplied."
         }
       ],
-      "checked_on": "2026-10-11",
+      "checked_on": "2026-10-17",
       "link_follow_status": "not_verified",
       "dr_effect": "not_verified",
       "curation": {

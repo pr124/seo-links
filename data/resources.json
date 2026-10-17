@@ -2677,6 +2677,30 @@
         "reason": "New repeatable buyer-prompt baseline and citation-versus-recommendation measurements; link once instead of repeating existing evidence, review-profile and crawl-access advice.",
         "reviewed_on": "2026-10-11"
       }
+    },
+    {
+      "id": "x-2110189752666440181",
+      "title": "How Railway built AI-recommendation visibility into its SEO",
+      "category": "AI Search and GEO",
+      "group": "SaaS Visibility and Measurement",
+      "summary": "Case-study thread: scalable how-to pages for popular self-hosted tools, per-framework deploy guides, competitor comparison and migration pages, an llms.txt-style page index with plain-text page versions, agent-oriented docs, chat plugins and a regular changelog. Treat AI recommendations as a distribution channel.",
+      "content_status": "user_supplied_text",
+      "sources": [
+        {
+          "author": "irabukht",
+          "url": "https://x.com/irabukht/status/2110189752666440181",
+          "received_on": "2026-10-17",
+          "posted_at": null,
+          "live_access": "unavailable",
+          "content_basis": "Full text supplied by user"
+        }
+      ],
+      "notes": "The ARR growth, 82% Claude Code recommendation share, page counts and signup claims are the author's and are unverified. Causation between these tactics and growth is not established. Useful as a checklist of crawlable, extractable content formats; not a ranking guarantee.",
+      "curation": {
+        "status": "included",
+        "reason": "Concrete SaaS content and AI-discovery tactics that complement existing GEO entries.",
+        "reviewed_on": "2026-10-17"
+      }
     }
   ],
   "deduplication_policy": "Compare the whole repository, including tools, research sources, MCP integrations and destination identities. Normalize www, redirects, alternate names and homepage/submission routes. Keep independent GitHub repositories separate. Store additional source references against an existing destination rather than creating another guide listing.",
@@ -2846,6 +2870,19 @@
         "installed_on": "2026-10-14",
         "local_source": "vendor/seo-skills/illyism",
         "installation_manifest": "skills-lock.json"
+      },
+      {
+        "name": "SEOmator Audit Skill",
+        "url": "https://github.com/seo-skills/seo-audit-skill",
+        "group": "Reusable SEO Skills",
+        "description": "Open-source SEO audit CLI and Claude Code skill that scans a site against hundreds of rules (technical SEO, Core Web Vitals, structured data, accessibility, security headers, content quality and AI/GEO readiness). Outputs console, JSON, HTML, Markdown or LLM-oriented reports. MIT licence; needs Node.js 20.3+ and a local Chrome/Chromium for Core Web Vitals. Rule count is inconsistent in the README (373) and About text (332). Documentation read; not installed or runtime-tested.",
+        "source": "User-supplied repository, 17 October 2026",
+        "checked_on": "2026-10-17",
+        "documentation_reviewed": true,
+        "runtime_tested": false,
+        "installed": false,
+        "install_hint": "npx skills add seo-skills/seo-audit-skill",
+        "notes": "Audit scores and rule counts are heuristics, not ranking predictions. The separate hosted seomator.com tool is not reviewed. Audit history is stored locally by default."
       }
     ],
     "websites": [

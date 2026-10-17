@@ -87,13 +87,14 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 </details>
 
 <details>
-<summary><strong>Reusable SEO Skills</strong> - 4 collections</summary>
+<summary><strong>Reusable SEO Skills</strong> - 5 collections</summary>
 
 - [OpenSEO Agent Skills](https://openseo.so/docs/skills/setup) - Workflows for keyword research and clustering, competitor analysis, local SEO, link prospecting and audits. Requires a working OpenSEO MCP connection; [skill source files](https://github.com/every-app/open-seo/tree/main/plugins/openseo/skills). The keyword-research skill was inspected directly.
 - [Jev SEO skill workflow](https://github.com/AgriciDaniel/jev-seo/blob/main/SKILL.md) - Workflow for running the audit, checking surprising findings and producing reports. Uses the Jev SEO repo above and its API/dependency setup. Review model-generated judgments before acting on them.
 
 - [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - SEO and analytics workflows for audits, keyword research, sitemaps, local SEO and content. Former NotFair and toprank links resolve to this one repo. Live account workflows need its OAuth-connected MCP and authorized provider access; sources installed in this repo; live workflows not runtime-tested.
 - [Illyism SEO Skills](https://github.com/Illyism/seo-skills) - SEO skills for technical audits, SERP research, title improvements, content refreshes, comparison pages and AI-answer tracking. Requires an agent that reads SKILL.md plus connected research/analytics data where needed. Review before use: includes paid-backlink promotion and opinionated publishing, linking and page-merging rules; these are not universal SEO requirements. Documentation inspected; not installed or runtime-tested.
+- [SEOmator Audit Skill](https://github.com/seo-skills/seo-audit-skill) - Open-source SEO audit CLI and Claude Code skill covering technical SEO, Core Web Vitals, structured data, accessibility, security headers, content quality and AI/GEO readiness, with console, JSON, HTML, Markdown and LLM-oriented reports. MIT; needs Node.js 20.3+ and a local Chrome/Chromium for Core Web Vitals. The README and About text give different rule counts, and scores are heuristics. Documentation read; not installed or runtime-tested.
 
 **Installed in this repo:** [72 portable skills and setup guide](docs/installed-seo-skills.md). Entry points are committed for Codex/shared agents, Claude Code, Cursor, Gemini CLI and GitHub Copilot; pinned sources and dependencies are included under `vendor/seo-skills`.
 
@@ -337,7 +338,7 @@ Use directories that fit the product, communities where you can contribute and p
 
 For compatible MCP servers. Directory discovery does not establish a followed backlink.
 
-- [Official MCP Registry](https://registry.modelcontextprotocol.io/) - Official catalog for discovering Model Context Protocol servers.
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/) - Official catalog for discovering Model Context Protocol servers. To publish a live remote MCP server: install `mcp-publisher`, run `mcp-publisher init` and complete `server.json` (name, title, description, version, server URL), prove domain ownership with a DNS TXT record, then `mcp-publisher login dns` and `mcp-publisher publish`. Claims of no review and automatic syndication to other directories are unverified; check the official publishing guide.
 - [AI Indigo](https://aiindigo.com/mcp-servers) - MCP server section of AI Indigo's broader AI tools directory.
 - [AllMCPs](https://allmcps.com/) - Directory for discovering MCP servers and inspecting their connection metadata.
 - [Glama](https://glama.ai/mcp/servers) - Searchable MCP server registry with server metadata and categories.
@@ -631,10 +632,11 @@ Build useful evidence, inspect crawler requirements and measure answer visibilit
 </details>
 
 <details>
-<summary><strong>SaaS Visibility and Measurement</strong> - 3 resources</summary>
+<summary><strong>SaaS Visibility and Measurement</strong> - 4 resources</summary>
 
 - [AI-search workflow for SaaS content and referral tracking](https://x.com/denohawari/status/2108636363868586010) - Review search-crawler access, indexing, buyer-question headings, integration pages, definitions and AI referral traffic. The revenue claim and cross-platform eligibility guarantees are unverified; check each crawler's current documentation.
 - [A 30-day ChatGPT citation and buyer-question audit](https://x.com/TheCoolestCool/status/2105787365126226359) - Repeat a fixed set of buyer questions with web search, log cited URLs separately from brand recommendations, map recurring sources, and compare referral visits with leads. Publish evidence with methods and limitations. The schedule is an example; study correlations and numerical claims are not verified ranking rules or citation guarantees.
+- [How Railway built AI-recommendation visibility into its SEO](https://x.com/irabukht/status/2110189752666440181) - Scalable how-to pages for popular self-hosted tools, per-framework deploy guides, competitor comparison and migration pages, a page index with plain-text versions, agent-oriented docs, chat plugins and a regular changelog. The ARR, recommendation-share and page-count figures are the author's and unverified.
 - [Review-led SEO, GEO and AEO workflow](https://x.com/om_patel5/status/2099683744781111419) - Mine customer complaints and People Also Ask, build linked topic clusters, reuse useful videos and inspect search queries and AI recommendations. The post's llms.txt, bot-eligibility and automatic-citation claims need verification; Google does not require special AI files.
 
 **Track a single AI Overview query over time.** Repeat the same query on several dates and record whether an overview appears, its linked sources, the claims each supports, location/device and available search-context settings. Use gaps to plan useful evidence or answers. Changing citations are observations, not proof of what causes selection.
