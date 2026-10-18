@@ -77,12 +77,15 @@
       "url": "https://glama.ai/mcp/servers",
       "aliases": [],
       "group": "MCP Directories",
-      "description": "Searchable MCP server registry with server metadata and categories.",
+      "description": "Searchable MCP server registry with server metadata and categories. Servers published to the Official MCP Registry may appear automatically; claim ownership of the connector page to manage the listing and its health and tool-quality grades.",
       "notes": [
-        "Use the MCP server directory; listing acceptance and link attributes were not audited."
+        "Use the MCP server directory; listing acceptance and link attributes were not audited.",
+        "User-supplied tip (2026-10-18): claim ownership on glama.ai/mcp/connectors/<registry name>, prove the domain with a /.well-known/glama.json file or a DNS TXT record, and if the server requires auth add credentials under Admin -> Test profile so health checks pass (otherwise it shows Unhealthy and drops from search). Clearer tool descriptions that say when to use each tool improved the author's tool grade. A public GitHub repo can also be submitted via Add Server.",
+        "The tip's DR 76, one-hour auto-import and ranking effects are the author's and unverified. Check Glama's current claim and verification docs. No claim or submission performed."
       ],
       "routes": [
-        "https://glama.ai/mcp/servers"
+        "https://glama.ai/mcp/servers",
+        "https://glama.ai/mcp/connectors"
       ],
       "status": "verified",
       "evidence_urls": [
@@ -96,9 +99,16 @@
           "positions": null,
           "group_position": 2,
           "source_group": "MCP directories"
+        },
+        {
+          "source_list_id": "user-direct-additions",
+          "source_url": "https://x.com/tarasshyn/status/2111445575669346623",
+          "source_name": "Glama claim and health steps",
+          "received_on": "2026-10-18",
+          "basis": "User-pasted visibility tip; user supplied this post URL separately, so the association is the user's."
         }
       ],
-      "checked_on": "2026-10-11",
+      "checked_on": "2026-10-18",
       "link_follow_status": "not_verified",
       "dr_effect": "not_verified",
       "curation": {

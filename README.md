@@ -341,7 +341,7 @@ For compatible MCP servers. Directory discovery does not establish a followed ba
 - [Official MCP Registry](https://registry.modelcontextprotocol.io/) - Official catalog for discovering Model Context Protocol servers. To publish a live remote MCP server: install `mcp-publisher`, run `mcp-publisher init` and complete `server.json` (name, title, description, version, server URL), prove domain ownership with a DNS TXT record, then `mcp-publisher login dns` and `mcp-publisher publish`. Claims of no review and automatic syndication to other directories are unverified; check the official publishing guide.
 - [AI Indigo](https://aiindigo.com/mcp-servers) - MCP server section of AI Indigo's broader AI tools directory.
 - [AllMCPs](https://allmcps.com/) - Directory for discovering MCP servers and inspecting their connection metadata.
-- [Glama](https://glama.ai/mcp/servers) - Searchable MCP server registry with server metadata and categories.
+- [Glama](https://glama.ai/mcp/servers) - Searchable MCP server registry with server metadata and categories. Registry-published servers may appear automatically; claim the connector page, prove the domain (`/.well-known/glama.json` or DNS TXT), add test credentials if the server needs auth so it isn't marked Unhealthy, and write clear tool descriptions. DR and ranking claims are unverified.
 - [MCP Directory](https://mcp.directory/) - MCP server and skill directory.
 - [MCP Market](https://mcpmarket.com/) - Catalog of MCP servers and agent skills.
 - [MCP Repository](https://mcprepository.com/) - Searchable repository and category directory for MCP servers.
