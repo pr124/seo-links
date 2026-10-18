@@ -4,7 +4,7 @@ A curated SEO toolkit for indie founders: research demand, fix technical issues,
 
 > Browse by the job you need to do. Expand a group for its tools, articles or submission destinations.
 
-The export contains **48 SEO source posts**, grouped into **46 source records**. After relevance review, **27 selected resources from the export**, plus **1 supplemental article**, appear below. Directory posts are merged into one destination index; incomplete articles, repeated advice and unsupported promotions remain in the [source register](docs/source-review.md).
+The export contains **48 SEO source posts**, grouped into **46 source records**. After relevance review, **27 selected resources from the export**, plus **1 supplemental article**, appear below. Directory posts are merged into one destination index.
 
 Relevant articles use a link and a short takeaway. Partial supplied text stays labelled partial; the full article is not copied into the guide.
 
@@ -78,7 +78,7 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 <summary><strong>GitHub Repositories and Self-Hosted SEO</strong> - 6 resources</summary>
 
 - [OpenSEO](https://github.com/every-app/open-seo) - Self-hosted keyword research, rank tracking, competitor insights, backlinks, site audits and AI visibility; includes an MCP server and agent skills. Requires a DataForSEO API key and paid usage; [MCP setup](https://openseo.so/docs/mcp).
-- [Jev SEO](https://github.com/AgriciDaniel/jev-seo) - Local SEO crawler and audit-report generator, usable as a CLI or Claude Code skill. Produces PDF, spreadsheet and Markdown reports. Jev judgments require TypeSafe API access; optional extended research uses paid DataForSEO. Audit scores are heuristics, not ranking predictions. Source installed in this repo; full audit workflows not runtime-tested.
+- [Jev SEO](https://github.com/AgriciDaniel/jev-seo) - Local SEO crawler and audit-report generator, usable as a CLI or Claude Code skill. Produces PDF, spreadsheet and Markdown reports. Jev judgments require TypeSafe API access; optional extended research uses paid DataForSEO. Audit scores are heuristics, not ranking predictions.
 
 - [advertools](https://github.com/eliasdabbas/advertools) - Python library for crawling, sitemap and robots.txt analysis, URL processing and server-log analysis. Some integrations require separate provider access.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Self-hosted dashboard for prompts, brand mentions and citations. Live tracking uses Bright Data; analysis may use OpenRouter and other paid APIs. Demo mode uses sample data, and its heuristic scores are not ranking factors.
@@ -92,11 +92,10 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 - [OpenSEO Agent Skills](https://openseo.so/docs/skills/setup) - Workflows for keyword research and clustering, competitor analysis, local SEO, link prospecting and audits. Requires a working OpenSEO MCP connection; [skill source files](https://github.com/every-app/open-seo/tree/main/plugins/openseo/skills). The keyword-research skill was inspected directly.
 - [Jev SEO skill workflow](https://github.com/AgriciDaniel/jev-seo/blob/main/SKILL.md) - Workflow for running the audit, checking surprising findings and producing reports. Uses the Jev SEO repo above and its API/dependency setup. Review model-generated judgments before acting on them.
 
-- [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - SEO and analytics workflows for audits, keyword research, sitemaps, local SEO and content. Former NotFair and toprank links resolve to this one repo. Live account workflows need its OAuth-connected MCP and authorized provider access; sources installed in this repo; live workflows not runtime-tested.
-- [Illyism SEO Skills](https://github.com/Illyism/seo-skills) - SEO skills for technical audits, SERP research, title improvements, content refreshes, comparison pages and AI-answer tracking. Requires an agent that reads SKILL.md plus connected research/analytics data where needed. Review before use: includes paid-backlink promotion and opinionated publishing, linking and page-merging rules; these are not universal SEO requirements. Documentation inspected; not installed or runtime-tested.
-- [SEOmator Audit Skill](https://github.com/seo-skills/seo-audit-skill) - Open-source SEO audit CLI and Claude Code skill covering technical SEO, Core Web Vitals, structured data, accessibility, security headers, content quality and AI/GEO readiness, with console, JSON, HTML, Markdown and LLM-oriented reports. MIT; needs Node.js 20.3+ and a local Chrome/Chromium for Core Web Vitals. The README and About text give different rule counts, and scores are heuristics. Documentation read; not installed or runtime-tested.
+- [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - SEO and analytics workflows for audits, keyword research, sitemaps, local SEO and content. Former NotFair and toprank links resolve to this one repo. Live account workflows need its OAuth-connected MCP and authorized provider access; live workflows not runtime-tested.
+- [Illyism SEO Skills](https://github.com/Illyism/seo-skills) - SEO skills for technical audits, SERP research, title improvements, content refreshes, comparison pages and AI-answer tracking. Requires an agent that reads SKILL.md plus connected research/analytics data where needed. Review before use: includes paid-backlink promotion and opinionated publishing, linking and page-merging rules; these are not universal SEO requirements. Documentation inspected; not runtime-tested.
+- [SEOmator Audit Skill](https://github.com/seo-skills/seo-audit-skill) - Open-source SEO audit CLI and Claude Code skill covering technical SEO, Core Web Vitals, structured data, accessibility, security headers, content quality and AI/GEO readiness, with console, JSON, HTML, Markdown and LLM-oriented reports. MIT; needs Node.js 20.3+ and a local Chrome/Chromium for Core Web Vitals. The README and About text give different rule counts, and scores are heuristics. Documentation read; not runtime-tested.
 
-**Installed in this repo:** [72 portable skills and setup guide](docs/installed-seo-skills.md). Entry points are committed for Codex/shared agents, Claude Code, Cursor, Gemini CLI and GitHub Copilot; pinned sources and dependencies are included under `vendor/seo-skills`.
 
 </details>
 
@@ -276,14 +275,14 @@ Improve original value, accurate search titles, useful answers and genuinely out
 <details>
 <summary><strong>Content Refreshes and Search Intent</strong> - 1 resource</summary>
 
-- [Real content updates, satisfying answers and brand visibility](https://x.com/mehrab_build/status/2108572075485200422) - Refresh information substantively, keep dates honest, deliver the title’s promise early and track relevant branded searches in Search Console. **Partial thread text.** [Evidence and qualifications](docs/content-quality.md).
+- [Real content updates, satisfying answers and brand visibility](https://x.com/mehrab_build/status/2108572075485200422) - Refresh information substantively, keep dates honest, deliver the title’s promise early and track relevant branded searches in Search Console. **Partial thread text.**
 
 </details>
 
 <details>
 <summary><strong>Original Value and Search Titles</strong> - 1 resource</summary>
 
-- [Original value and accurate search titles](https://x.com/mehrab_build/status/2106409427628867584) - Add evidence, examples or answers the leading results lack, and write titles that accurately describe the page and match the search intent. **Partial thread text.** [Evidence and qualifications](docs/content-quality.md).
+- [Original value and accurate search titles](https://x.com/mehrab_build/status/2106409427628867584) - Add evidence, examples or answers the leading results lack, and write titles that accurately describe the page and match the search intent. **Partial thread text.**
 
 </details>
 
@@ -294,7 +293,6 @@ Improve original value, accurate search titles, useful answers and genuinely out
 
 </details>
 
-[Checked guidance and ranking-claim qualifications](docs/content-quality.md) - Original value, titles, real updates, click evidence and brand measurement.
 
 ---
 
@@ -319,7 +317,7 @@ Find relevant mentions and placements that serve an actual audience.
 
 </details>
 
-The directory bookmarks contribute destinations to the next section. [Source lists and original positions](docs/backlink-prospects.md) remain available for reconciliation.
+The directory bookmarks contribute destinations to the next section.
 
 ---
 
@@ -329,7 +327,6 @@ The directory bookmarks contribute destinations to the next section. [Source lis
 
 Use directories that fit the product, communities where you can contribute and publications where you have a credible story. DR, “free dofollow” and ranking gains are unverified source claims. Current listing terms and link attributes need checking before submission.
 
-[Full source-list archive](docs/backlink-prospects.md) · [Unique destination index and evidence](data/destinations.json)
 
 ### MCP Directories
 
@@ -615,7 +612,7 @@ Submission to an independent search engine does not request Google indexing.
 
 Already covered in other sections: [G2 review research](#keyword-research), [YouTube tutorials](#content-and-on-page-seo) and [Ubersuggest / Neil Patel integrations](#seo-websites-tools-skills-and-github-repos). Their supplied source references are attached to those existing destinations.
 
-Ambiguous names and platforms without a useful SEO or submission role are retained in the [source archive](docs/backlink-prospects.md), with [review decisions](docs/source-review.md#destination-curation).
+Ambiguous names and platforms without a useful SEO or submission role are omitted.
 
 ---
 
@@ -701,7 +698,7 @@ Connect customer problems and commercial searches to useful product and comparis
 3. **Connect pages to helpful guides.** Answer genuine pre-purchase questions and link contextually between guides, related use cases and product pages.
 4. **Measure and improve.** Review search-query coverage and user outcomes. Prioritize useful pages over a target page count or daily publishing quota.
 
-Adapted from a supplied SaaS case study. Its revenue, signup, traffic and AI-recommendation outcomes are unverified. [Evidence and source review](docs/content-quality.md#programmatic-seo-case-study).
+Adapted from a supplied SaaS case study. Its revenue, signup, traffic and AI-recommendation outcomes are unverified.
 
 **Prioritize landing-page outcomes.** Compare search performance by landing page with signups, demos or other meaningful outcomes using comparable date ranges and a stated attribution model. Investigate pages with visits but few outcomes. Keep Search Console clicks distinct from analytics sessions, and account for small samples and delayed conversions.
 
@@ -724,7 +721,7 @@ Use the [websites, tools, repositories and reusable skills index](#seo-websites-
 
 </details>
 
-Skill announcements and tools whose actual repository or implementation could not be reviewed remain in the [source register](docs/source-review.md#resource-curation).
+Skill announcements and tools whose actual repository or implementation could not be reviewed.
 
 ---
 
@@ -734,12 +731,6 @@ The original 100-row export contains 48 confirmed SEO sources, 26 outside SEO an
 
 User text recovered two backlink fragments, two Mehrab signal fragments and the grouped Google Sites workflow. The backlink fragments still lack v4 positions 1–4 and v3 position 10. The Mehrab threads are not claimed complete. The complete supplied Musicfy article was read from a local Markdown copy; its practical programmatic SEO advice is now included, without a standalone article link. The supplied Nicholas Dulait excerpt through Module 15 was also read and added as one annotated article link; its promised GEO sections were not supplied.
 
-- [Source register, relevance decisions and pending content](docs/source-review.md)
-- [Full directory source archive and original positions](docs/backlink-prospects.md)
-- [Unique destination index](data/destinations.json)
-- [Structured resources and curation policy](data/resources.json)
-- [Awesome SEO collection review and additions](docs/awesome-seo-review.md)
-- [Ranking claims and primary references](docs/content-quality.md)
 
 ### Official References
 
