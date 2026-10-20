@@ -242,38 +242,7 @@ Make important pages discoverable, crawlable and understandable, then inspect th
 
 </details>
 
-<details>
-<summary><strong>How Long Google Takes</strong> - 1 reference</summary>
-
-Typical times for Google to crawl, index and update search results, from a Google-attributed graphic supplied by the user (original page not identified). These are typical figures, not guarantees; use them to set expectations before changing a page.
-
-| Stage | Process | Typical time |
-| --- | --- | --- |
-| Crawling | Discover a new page | ~20 hours |
-| Crawling | Recrawl an existing page | ~30 days |
-| Crawling | Process a sitemap | ~24 hours |
-| Crawling | Pick up robots.txt changes | ~24 hours |
-| Crawling | Adjust crawl capacity | 4 hours to 2 weeks |
-| Crawling | Adjust how often it crawls | ~20 hours |
-| Indexing | Render a page | Seconds + hours |
-| Indexing | Process meta tags | 45–90 minutes |
-| Indexing | Process links | Minutes to 3 weeks |
-| Indexing | Complete indexing | ~1.5 hours |
-| Indexing | Remove a page from the index | 1–3 weeks |
-| Indexing | Change the canonical URL | 1–3 weeks |
-| Indexing | Process a site migration | 1–3 months |
-| Indexing | Process structured data | Hours to 2 weeks |
-| Indexing | Process images | Hours to days |
-| Indexing | Process videos | Hours to days |
-| Serving results | Hide a result via Search Console | ~2 hours |
-| Serving results | Update a search result description | 1–2 days |
-| Serving results | Update a search result title | 1–2 days |
-| Serving results | Update a search result image | 1–2 weeks |
-| Serving results | Remove a manual action (penalty) | 1–2 weeks |
-| Serving results | Recover from a core update | 3–6 months |
-| Serving results | Reflect spam update changes | 1–2 weeks |
-
-</details>
+![Typical time for Google to crawl, index and serve changes](images/google-crawl-index-serve-times.webp)
 
 ---
 
