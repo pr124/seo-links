@@ -56,7 +56,7 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 </details>
 
 <details>
-<summary><strong>Technical Audits and Automation</strong> - 6 resources</summary>
+<summary><strong>Technical Audits and Automation</strong> - 9 resources</summary>
 
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Crawl pages to inspect technical SEO issues.
 - [DataForSEO](https://dataforseo.com/) - SEO data APIs for repeatable research workflows.
@@ -65,6 +65,9 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 - [Seobility](https://www.seobility.net/en/) - Website audits, rank monitoring and backlink analysis; review current plan limits.
 - [Screpy](https://screpy.com/) - Website audits, rank tracking, performance monitoring and SEO reporting.
 - [Raven Tools](https://raventools.com/) - Site auditing, rank tracking, backlink research and reporting.
+- [SiteOne Crawler](https://github.com/janreges/siteone-crawler) - Open-source crawler that scans a whole site for 404s, redirects, SEO tags, performance and security issues, with exportable reports.
+- [lychee](https://github.com/lycheeverse/lychee) - Open-source broken-link checker for Markdown, HTML and websites; can run in GitHub Actions.
+- [Gatus](https://github.com/TwiN/gatus) - Open-source, self-hosted status monitor that checks API status, response times and SSL certificates and alerts on failures.
 </details>
 
 <details>
@@ -75,7 +78,7 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 </details>
 
 <details>
-<summary><strong>GitHub Repositories and Self-Hosted SEO</strong> - 6 resources</summary>
+<summary><strong>GitHub Repositories and Self-Hosted SEO</strong> - 10 resources</summary>
 
 - [OpenSEO](https://github.com/every-app/open-seo) - Self-hosted keyword research, rank tracking, competitor insights, backlinks, site audits and AI visibility; includes an MCP server and agent skills. Requires a DataForSEO API key and paid usage; [MCP setup](https://openseo.so/docs/mcp).
 - [Jev SEO](https://github.com/AgriciDaniel/jev-seo) - Local SEO crawler and audit-report generator, usable as a CLI or Claude Code skill. Produces PDF, spreadsheet and Markdown reports. Jev judgments require TypeSafe API access; optional extended research uses paid DataForSEO. Audit scores are heuristics, not ranking predictions.
@@ -84,6 +87,10 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Self-hosted dashboard for prompts, brand mentions and citations. Live tracking uses Bright Data; analysis may use OpenRouter and other paid APIs. Demo mode uses sample data, and its heuristic scores are not ranking factors.
 - [mesure-citations](https://github.com/thomasmerlaud/mesure-citations) - French-language Node CLI to maintain a fixed prompt corpus, record manual observations and compare mentions with linked citations. Does not query AI services automatically; no API key required.
 - [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - Node CLI and GitHub Action for robots.txt checks, live reachability and log analysis. Treat its visibility score as a heuristic; check current operator documentation rather than adopting its default bot policies blindly.
+- [SEOnaut](https://github.com/StJudeWasHere/seonaut) - Open-source website SEO diagnostic tool that checks for issues such as broken links, redirects and duplicate meta tags. Self-hosted; not installed or tested here.
+- [SerpBear](https://github.com/towfiqi/serpbear) - Self-hosted keyword rank tracker that monitors changes in Google rankings over time. Not installed or tested here.
+- [SEO Machine](https://github.com/TheCraigHewitt/seomachine) - Claude Code workspace for SEO content workflows, including batch planning and optimizing articles. Review generated content before publishing; not installed or tested here.
+- [Awesome Open Source SEO](https://github.com/ZensInk/awesome-open-source-seo) - Curated list of open-source SEO tools covering crawlers, keywords and AI search optimization.
 </details>
 
 <details>
@@ -100,7 +107,7 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 </details>
 
 <details>
-<summary><strong>SEO Reference Websites and Validators</strong> - 5 resources</summary>
+<summary><strong>SEO Reference Websites and Validators</strong> - 6 resources</summary>
 
 - [Google Search Central](https://developers.google.com/search/docs) - Official documentation for crawl access, indexing, content, structured data and search appearance. See the [selected official references](#official-references).
 - [Schema Markup Validator](https://validator.schema.org/) - Check Schema.org markup syntax and vocabulary; validation does not establish rich-result eligibility or ranking benefits.
@@ -108,14 +115,16 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 
 - [Schema.org vocabulary](https://schema.org/docs/schemas.html) - Look up structured-data types and properties; Schema.org vocabulary is broader than Google's supported rich-result types.
 - [Open Graph protocol](https://ogp.me/) - Reference for social-preview metadata; distinct from Google structured-data eligibility.
+- [Nu Html Checker](https://validator.github.io/validator/) - Free checker for HTML, CSS and SVG errors; runs online or locally for batch checks.
 </details>
 
 <details>
-<summary><strong>Performance and Accessibility</strong> - 3 resources</summary>
+<summary><strong>Performance and Accessibility</strong> - 4 resources</summary>
 
 - [PageSpeed Insights](https://pagespeed.web.dev/) - Inspect page performance and available real-user data; a test score is not a ranking guarantee.
 - [GTmetrix](https://gtmetrix.com/) - Analyze page loads, request waterfalls and performance changes; account and plan limits apply.
 - [WAVE](https://wave.webaim.org/) - Find accessibility issues and support manual evaluation; automated checks cannot establish complete compliance.
+- [Unlighthouse](https://unlighthouse.dev/) - Runs Lighthouse across an entire site to find the pages dragging performance down.
 
 </details>
 
@@ -395,7 +404,7 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 ### SaaS and Startup Launches
 
 <details>
-<summary><strong>43 destinations</strong></summary>
+<summary><strong>44 destinations</strong></summary>
 
 - [Acid Tools](https://acidtools.com/) - AI tools directory focused on automation, writing, design and productivity.
 - [AI Directories](https://www.aidirectori.es/) - AI tool catalog and service for submissions to other directories.
@@ -425,6 +434,7 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 - [RankCert](https://rankcert.com/) - Product launch board with public product listings and domain verification. Basic listing is advertised as free; optional upgrades are paid. Check current badge and link terms.
 - [ScrollLaunch](https://www.scrolllaunch.com/) - Weekly product launches and startup directory.
 - [SideProjectors](https://www.sideprojectors.com/) - Marketplace for showcasing, buying and selling side projects and finding co-founders.
+- [SoPilot](https://sopilot.net/) - Directory-submission helper listing 200+ product promotion directories, with AI SEO article generation. Directory acceptance, backlink value and article quality are not verified.
 - [Startup Buffer](https://startupbuffer.com/) - Public startup directory organized by market, location, tags and related products.
 - [Startup Fame](https://startupfa.me/) - Startup discovery directory with reviewed startup profiles.
 - [StartupBase](https://startupbase.io/) - Product launch and discovery platform with product pages and launch rankings.
