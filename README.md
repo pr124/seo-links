@@ -688,9 +688,10 @@ Connect customer problems and commercial searches to useful product and comparis
 </details>
 
 <details>
-<summary><strong>Comparison and Use-Case Pages</strong> - 2 resources</summary>
+<summary><strong>Comparison and Use-Case Pages</strong> - 3 resources</summary>
 
 - [Competitor-alternative landing pages](https://x.com/hridoyreh/status/2108447368131531109) - Choose relevant competitors and create comparison pages for buyers evaluating alternatives. The source proposes listing your own product first; make comparisons accurate and useful to the buyer.
+- [Template for a "{competitor} alternatives" page](https://x.com/jakezward/status/2112878315308540076) - Ten-step structure: problem-focused intro, comparison table at the top, your product first with evidence, a direct competitor comparison, fair reviews of other options, buying-question FAQs and a CTA; track trials and revenue, not only traffic. The $1M+ revenue claim is the author's and unverified. **Text supplied by the user; live post not read.**
 - [Website SEO playbook for mobile app founders](https://x.com/om_patel5/status/2099003320446616013) - Use competitor complaints to plan problem, alternative, roundup and use-case pages; add useful download CTAs and review Search Console queries.
 
 </details>
