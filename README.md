@@ -78,29 +78,26 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 </details>
 
 <details>
-<summary><strong>GitHub Repositories and Self-Hosted SEO</strong> - 10 resources</summary>
+<summary><strong>GitHub Repositories and Self-Hosted SEO</strong> - 8 resources</summary>
 
 - [OpenSEO](https://github.com/every-app/open-seo) - Self-hosted keyword research, rank tracking, competitor insights, backlinks, site audits and AI visibility; includes an MCP server and agent skills. Requires a DataForSEO API key and paid usage; [MCP setup](https://openseo.so/docs/mcp).
 - [Jev SEO](https://github.com/AgriciDaniel/jev-seo) - Local SEO crawler and audit-report generator, usable as a CLI or Claude Code skill. Produces PDF, spreadsheet and Markdown reports. Jev judgments require TypeSafe API access; optional extended research uses paid DataForSEO. Audit scores are heuristics, not ranking predictions.
 
 - [advertools](https://github.com/eliasdabbas/advertools) - Python library for crawling, sitemap and robots.txt analysis, URL processing and server-log analysis. Some integrations require separate provider access.
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - Self-hosted dashboard for prompts, brand mentions and citations. Live tracking uses Bright Data; analysis may use OpenRouter and other paid APIs. Demo mode uses sample data, and its heuristic scores are not ranking factors.
-- [mesure-citations](https://github.com/thomasmerlaud/mesure-citations) - French-language Node CLI to maintain a fixed prompt corpus, record manual observations and compare mentions with linked citations. Does not query AI services automatically; no API key required.
 - [ai-crawler-bots](https://github.com/TryGeoSuite/ai-crawler-bots) - Node CLI and GitHub Action for robots.txt checks, live reachability and log analysis. Treat its visibility score as a heuristic; check current operator documentation rather than adopting its default bot policies blindly.
 - [SEOnaut](https://github.com/StJudeWasHere/seonaut) - Open-source website SEO diagnostic tool that checks for issues such as broken links, redirects and duplicate meta tags. Self-hosted; not installed or tested here.
 - [SerpBear](https://github.com/towfiqi/serpbear) - Self-hosted keyword rank tracker that monitors changes in Google rankings over time. Not installed or tested here.
 - [SEO Machine](https://github.com/TheCraigHewitt/seomachine) - Claude Code workspace for SEO content workflows, including batch planning and optimizing articles. Review generated content before publishing; not installed or tested here.
-- [Awesome Open Source SEO](https://github.com/ZensInk/awesome-open-source-seo) - Curated list of open-source SEO tools covering crawlers, keywords and AI search optimization.
 </details>
 
 <details>
-<summary><strong>Reusable SEO Skills</strong> - 5 collections</summary>
+<summary><strong>Reusable SEO Skills</strong> - 4 collections</summary>
 
 - [OpenSEO Agent Skills](https://openseo.so/docs/skills/setup) - Workflows for keyword research and clustering, competitor analysis, local SEO, link prospecting and audits. Requires a working OpenSEO MCP connection; [skill source files](https://github.com/every-app/open-seo/tree/main/plugins/openseo/skills). The keyword-research skill was inspected directly.
 - [Jev SEO skill workflow](https://github.com/AgriciDaniel/jev-seo/blob/main/SKILL.md) - Workflow for running the audit, checking surprising findings and producing reports. Uses the Jev SEO repo above and its API/dependency setup. Review model-generated judgments before acting on them.
 
 - [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - SEO and analytics workflows for audits, keyword research, sitemaps, local SEO and content. Former NotFair and toprank links resolve to this one repo. Live account workflows need its OAuth-connected MCP and authorized provider access; live workflows not runtime-tested.
-- [Illyism SEO Skills](https://github.com/Illyism/seo-skills) - SEO skills for technical audits, SERP research, title improvements, content refreshes, comparison pages and AI-answer tracking. Requires an agent that reads SKILL.md plus connected research/analytics data where needed. Review before use: includes paid-backlink promotion and opinionated publishing, linking and page-merging rules; these are not universal SEO requirements. Documentation inspected; not runtime-tested.
 - [SEOmator Audit Skill](https://github.com/seo-skills/seo-audit-skill) - Open-source SEO audit CLI and Claude Code skill covering technical SEO, Core Web Vitals, structured data, accessibility, security headers, content quality and AI/GEO readiness, with console, JSON, HTML, Markdown and LLM-oriented reports. MIT; needs Node.js 20.3+ and a local Chrome/Chromium for Core Web Vitals. The README and About text give different rule counts, and scores are heuristics. Documentation read; not runtime-tested.
 
 
@@ -375,11 +372,10 @@ Publish a working integration for customers to discover and use. These are publi
 ### MCP and Plugin GitHub Lists
 
 <details>
-<summary><strong>4 destinations</strong></summary>
+<summary><strong>3 destinations</strong></summary>
 
 Contribute an eligible server or plugin using each repository’s contribution requirements. Independent repositories remain separate destinations.
 
-- [awesome mcp lists](https://github.com/collabnix/awesome-mcp-lists) - Curated MCP server, client and toolkit list.
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) - Propose a useful MCP server through the list's contribution process.
 - [toolsdk mcp registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) - ToolSDK's structured MCP server registry and gateway project.
 - [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) - Official xAI plugin catalog for Grok Build.
