@@ -610,10 +610,11 @@ Use original tutorials, visual assets or public documentation. Hosting and profi
 ### Search Submissions
 
 <details>
-<summary><strong>1 destination</strong></summary>
+<summary><strong>2 destinations</strong></summary>
 
 Submission to an independent search engine does not request Google indexing.
 
+- [Brave Search](https://search.brave.com/submit-url) - Independent search index with a URL submission form: enter your site address and submit. Submitting does not guarantee inclusion or ranking; the form's current wording was not verified (page unreachable when checked).
 - [Active Search Results](https://www.activesearchresults.com/) - Independent search engine with an Add a Website route.
 
 </details>
