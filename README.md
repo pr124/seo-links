@@ -607,9 +607,10 @@ Build useful evidence, inspect crawler requirements and measure answer visibilit
 </details>
 
 <details>
-<summary><strong>AI Visibility Reporting</strong> - 1 reference</summary>
+<summary><strong>AI Visibility Reporting</strong> - 2 references</summary>
 
 - [Bing AI Performance documentation](https://blogs.bing.com/webmaster/2026/2/Introducing-AI-Performance-in-Bing-Webmaster-Tools-Public-Preview/) - Citation and grounding-query reporting across supported AI experiences.
+- [Is It Agent Ready?](https://isitagentready.com/) - Scans a site and scores how ready it is for AI agents: robots.txt and sitemaps, Markdown content negotiation, AI bot rules, MCP and agent-skill discovery, OAuth, and agent commerce protocols. Appears to be run by Cloudflare; pricing not stated. Scores are a checklist of emerging standards, not ranking or citation factors; llms.txt is not among its listed checks.
 
 </details>
 
