@@ -331,7 +331,7 @@ The directory bookmarks contribute destinations to the next section.
 
 ## Backlink Opportunities and DR
 
-**161 unique relevant destinations**, grouped by purpose. Each publisher or product appears once; its submission, homepage and related routes belong to that entry.
+**178 unique relevant destinations**, grouped by purpose. Each publisher or product appears once; its submission, homepage and related routes belong to that entry.
 
 Use directories that fit the product, communities where you can contribute and publications where you have a credible story. DR, “free dofollow” and ranking gains are unverified source claims. Current listing terms and link attributes need checking before submission.
 
@@ -339,7 +339,7 @@ Use directories that fit the product, communities where you can contribute and p
 ### MCP Directories
 
 <details>
-<summary><strong>10 destinations</strong></summary>
+<summary><strong>11 destinations</strong></summary>
 
 For compatible MCP servers. Directory discovery does not establish a followed backlink.
 
@@ -352,6 +352,7 @@ For compatible MCP servers. Directory discovery does not establish a followed ba
 - [MCP Repository](https://mcprepository.com/) - Searchable repository and category directory for MCP servers.
 - [MCP Servers](https://mcpservers.org/) - Curated collection of Model Context Protocol servers.
 - [MCP So](https://mcp.so/) - MCP server, client and AI tool directory.
+- [Smithery](https://smithery.ai/) - Registry and hosting platform for discovering and publishing MCP servers.
 - [TensorBlock MCP](https://www.tensorblock.co/mcp) - TensorBlock's community MCP index, backed by its awesome-mcp-servers repository.
 
 </details>
@@ -400,7 +401,7 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 ### SaaS and Startup Launches
 
 <details>
-<summary><strong>44 destinations</strong></summary>
+<summary><strong>48 destinations</strong></summary>
 
 - [Acid Tools](https://acidtools.com/) - AI tools directory focused on automation, writing, design and productivity.
 - [AI Directories](https://www.aidirectori.es/) - AI tool catalog and service for submissions to other directories.
@@ -412,10 +413,12 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 - [DanielLaunches](https://daniellaunches.com/) - Platform for discovering and launching useful products.
 - [EarlyHunt](https://earlyhunt.com/) - Weekly project-launch platform for new AI products and startups.
 - [Fazier](https://fazier.com/) - Product discovery and launch platform with a dedicated submission page.
+- [F6S](https://www.f6s.com/) - Startup and founder network with company profiles, programs and deals.
 - [FeedMyStartup](https://feedmystartup.com/) - Startup and app discovery directory with submission links.
 - [Findly](https://findly.tools/) - Curated SaaS and tools directory for makers.
 - [Firsto](https://firsto.co/) - Product-launch platform for makers, indie hackers and startup founders.
 - [FoundrList](https://www.foundrlist.com/) - Founder network combining product launches, maker discovery and community features.
+- [Index by Dodo Payments](https://index.dodopayments.com/) - Product index from Dodo Payments for listing startups and SaaS products. Current listing terms were not verified (page unreachable when checked).
 - [IndieHunt](https://indiehunt.io/) - Weekly launch platform for AI products and indie makers.
 - [IndieTool](https://www.indietool.io/) - Directory and launchpad for products built by indie founders.
 - [Launch Llama](https://tools.launchllama.co/) - Curated startup and tool launch directory.
@@ -433,6 +436,7 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 - [SoPilot](https://sopilot.net/) - Directory-submission helper listing 200+ product promotion directories, with AI SEO article generation. Directory acceptance, backlink value and article quality are not verified.
 - [Startup Buffer](https://startupbuffer.com/) - Public startup directory organized by market, location, tags and related products.
 - [Startup Fame](https://startupfa.me/) - Startup discovery directory with reviewed startup profiles.
+- [StartupBlink](https://www.startupblink.com/) - Startup ecosystem map with startup and city profiles.
 - [StartupBase](https://startupbase.io/) - Product launch and discovery platform with product pages and launch rankings.
 - [Startups FYI](https://www.startups.fyi/) - Curated startup and side-project discovery site paired with a founder newsletter.
 - [Stork](https://www.stork.ai/browse) - Stork's directory of AI tools, agents and MCP-related products.
@@ -445,6 +449,7 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 - [Turbo0](https://turbo0.com/) - Directory of tools and products, with an emphasis on content creation.
 - [Twelve Tools](https://twelve.tools/) - Daily curated directory of tools and startups.
 - [Uneed](https://www.uneed.best/) - Product launch and discovery platform with launch scheduling and product pages.
+- [Wellfound](https://wellfound.com/) - Startup jobs and talent network where companies publish profiles.
 - [WhatLaunched](https://whatlaunched.today/) - Startup launch and discovery directory. **Limited access:** current submission terms are unconfirmed.
 
 </details>
@@ -452,7 +457,7 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 ### AI Product Directories
 
 <details>
-<summary><strong>20 destinations</strong></summary>
+<summary><strong>22 destinations</strong></summary>
 
 - [AI Agent Store](https://aiagentstore.ai/) - AI-agent marketplace and discovery directory for agents, tools, frameworks and related products.
 - [AI Parabellum](https://aiparabellum.com/) - Curated AI-tool directory with a product submission and dedicated tool-review page model.
@@ -462,6 +467,7 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 - [Appscribed](https://appscribed.com/) - AI-tool directory combining product listings with hand-written editorial reviews.
 - [BotsFloor](https://botsfloor.com/) - The botsfloor.com destination currently presents BotStash, an AI-tool discovery directory.
 - [Dang](https://dang.ai/) - AI tools discovery directory with tool-submission navigation.
+- [Future Tools](https://www.futuretools.io/) - Curated AI tools directory with a Submit a Tool route.
 - [Futurepedia](https://www.futurepedia.io/) - AI-tool and software discovery platform with categorized product information.
 - [MagicBox.tools](https://magicbox.tools/) - AI tools directory with search, categories and Submit navigation.
 - [Open Tools](https://opentools.ai/) - AI tool directory with product discovery, comparisons, and tool or MCP launch options.
@@ -473,6 +479,7 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 - [There's an AI for That](https://theresanaiforthat.com/) - AI application discovery platform organized around finding tools for tasks. **Limited access:** current submission terms are unconfirmed.
 - [Toolify AI](https://www.toolify.ai/) - AI tools discovery directory with tool submission and promotional options.
 - [ToolPilot](https://www.toolpilot.ai/) - AI tools catalogue with Submit Your AI Tool navigation.
+- [TopAI.tools](https://topai.tools/) - AI tools directory with product listings and submissions. Current submission terms were not verified (page unreachable when checked).
 - [Wavel](https://www.wavel.io/) - AI tools and agents discovery marketplace with an AI tool submission route.
 
 </details>
@@ -480,26 +487,31 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 ### Software Reviews and Deals
 
 <details>
-<summary><strong>24 destinations</strong></summary>
+<summary><strong>29 destinations</strong></summary>
 
 - [Affiliate Watch](https://affiliate.watch/) - Affiliate-program discovery directory with program reviews and comparison information. **Limited access:** current submission terms are unconfirmed.
 - [Alternative Me](https://alternative.me/) - Software and product alternative-comparison platform with reviews and recommendations.
 - [AppSumo](https://appsumo.com/) - Software-deal marketplace with partner requirements; its blog is a related editorial route, not a second independent listing site.
 - [CompareCamp](https://comparecamp.com/) - Software review and comparison publication.
+- [Crozdesk](https://crozdesk.com/) - Business software discovery and review marketplace with vendor profiles.
 - [Dan Recommends](https://www.danrecommends.com/) - Human-written SaaS product-review service with published review pages.
 - [Dealify](https://dealify.com/) - Software lifetime-deal marketplace with a Sell on Dealify route.
 - [DealMirror](https://dealmirror.com/) - Marketplace for discounted software and lifetime product deals.
 - [FounderPass](https://www.founderpass.com/) - Startup-perks and discount platform offering negotiated product deals to founders.
+- [GetApp](https://www.getapp.com/) - Business software reviews and comparison directory with vendor listings.
 - [GoodFirms](https://www.goodfirms.co/) - B2B software and service-provider profiles, reviews, and category discovery.
 - [KEN Moo](https://kenmoo.me/) - SaaS lifetime-deal discovery, discussion, and software coverage.
 - [Product Canyon](https://productcanyon.com/) - Software marketplace featuring lifetime and subscription deals.
 - [Ramen.tools](https://ramen.tools/) - Maker tool-stack sharing and discovery community.
 - [RocketHub](https://www.rockethub.com/) - Curated lifetime software deals and startup-perk marketplace.
+- [SaaSworthy](https://www.saasworthy.com/) - Software discovery, reviews and alternatives platform with vendor listings.
 - [SaaS Genius](https://www.saasgenius.com/get-listed/) - Business software discovery and review catalogue with a vendor listing route.
 - [SaaS Pirate](https://saaspirate.com/submit-a-deal/) - Curated SaaS and software discounts and lifetime deals.
 - [SaaSHub](https://www.saashub.com/services/submit) - Software alternatives and reviews directory with a product submission form.
+- [SelectHub](https://www.selecthub.com/) - Software selection and comparison platform with vendor profiles.
 - [SaaSZilla](https://saaszilla.co/) - Curated software deal platform that selects products and teams for listings.
 - [Serchen](https://www.serchen.com/get-listed) - Business software marketplace with company profiles and a listing route.
+- [Software Advice](https://www.softwareadvice.com/) - Software reviews and recommendations directory with vendor listings.
 - [Software Suggest](https://www.softwaresuggest.com/vendors) - Business software and service recommendations platform with a vendor listing route. Provider advertises a free basic listing and requires a business email; paid promotion is separate.
 - [Software World](https://www.softwareworld.co/register/) - Business software and services review directory with a vendor-account listing route. Provider currently lists a $99 one-time approval fee for new listings; claiming an existing profile is free.
 - [StackSocial](https://www.stacksocial.com/) - Commerce platform for software subscriptions, tech products and promotional deals. **Limited access:** current submission terms are unconfirmed.
@@ -512,7 +524,7 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 ### Developer and Open-Source Products
 
 <details>
-<summary><strong>12 destinations</strong></summary>
+<summary><strong>15 destinations</strong></summary>
 
 - [API List](https://apilist.fun/) - Categorized API directory for developers, with an Add API route.
 - [Chrome Web Store](https://chromewebstore.google.com/) - Distribution store for actual Chrome extensions, with developer publishing and review workflows.
@@ -520,10 +532,13 @@ Match the actual API, plugin, agent skill or documentation to the destination. l
 - [DevHunt](https://devhunt.org/) - Launch and discovery platform focused on developer tools.
 - [Gumroad](https://gumroad.com/) - Creator storefront and marketplace for selling products and sharing a creator business.
 - [LibHunt](https://www.libhunt.com/) - Discovery of open-source projects, software libraries, and alternatives using developer-community mentions. **Limited access:** current submission terms are unconfirmed.
+- [GitLab](https://gitlab.com/) - Code-hosting and DevOps platform for real projects, public repositories and documentation.
+- [Hugging Face](https://huggingface.co/) - Hub for publishing models, datasets and Spaces with profile and project pages.
 - [OpenAlternative](https://openalternative.co/) - Directory of open-source alternatives to proprietary software.
 - [OSS Gallery](https://oss.gallery/) - Crowdsourced gallery of open-source projects.
 - [Peerlist](https://peerlist.io/) - Professional builder network with portfolios and a Launchpad for projects.
 - [Privacy Tools](https://privacytools.io/) - Privacy-focused software and service recommendations, alternatives, and app discovery.
+- [RapidAPI](https://rapidapi.com/) - API marketplace and hub for publishing and discovering APIs.
 - [SourceForge](https://sourceforge.net/) - Open-source project hosting and distribution platform with a separate B2B software catalogue.
 - [StackShare](https://stackshare.io/) - Developer tool discovery and technology-stack sharing platform. **Limited access:** current submission terms are unconfirmed.
 
@@ -583,9 +598,10 @@ Publish original useful material or participate meaningfully; follow each commun
 ### Business and Web Directories
 
 <details>
-<summary><strong>3 destinations</strong></summary>
+<summary><strong>4 destinations</strong></summary>
 
 - [Brownbook](https://www.brownbook.net/) - Business directory offering company profiles, listing and claiming.
+- [Crunchbase](https://www.crunchbase.com/) - Company and startup database with claimable organization profiles.
 - [LinkCentre](https://www.linkcentre.com/) - Web directory with website submission and country/category browsing.
 - [Viesearch](https://viesearch.com/) - Categorized web directory and human-curated discovery index.
 
@@ -594,13 +610,14 @@ Publish original useful material or participate meaningfully; follow each commun
 ### Publishing, Media and Brand Profiles
 
 <details>
-<summary><strong>6 destinations</strong></summary>
+<summary><strong>7 destinations</strong></summary>
 
 Use original tutorials, visual assets or public documentation. Hosting and profile pages are different from independent editorial backlinks.
 
 - [Flickr](https://www.flickr.com/) - Photography community and image-sharing platform for real photo collections and creator profiles.
 - [GitHub](https://github.com/) - Code-hosting and collaboration platform for real projects, public repositories and documentation.
 - [GitHub Pages](https://pages.github.com/) - Website and project-documentation hosting directly from GitHub repositories.
+- [Gravatar](https://gravatar.com/) - Global profile and avatar service with a public profile page and links.
 - [Indie Page](https://indiepa.ge/) - Founder profile pages that showcase startup portfolios and entrepreneurial journeys.
 - [Pinterest](https://www.pinterest.com/) - Visual discovery platform where Pins can connect useful images and ideas to websites.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing and discovery platform for original product videos and tutorials. Check public visibility and plan requirements for the video.
