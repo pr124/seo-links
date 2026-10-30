@@ -330,7 +330,7 @@ The directory bookmarks contribute destinations to the next section.
 
 ## Backlink Opportunities and DR
 
-**204 unique relevant destinations**, ordered by estimated domain rating (DR) from best to lowest priority. Each publisher or product appears once; its submission, homepage and related routes belong to that entry. The label after each link says what kind of destination it is.
+**205 unique relevant destinations**, ordered by estimated domain rating (DR) from best to lowest priority. Each publisher or product appears once; its submission, homepage and related routes belong to that entry. The label after each link says what kind of destination it is.
 
 DR bands are rounded estimates for ordering, not measured values: check a domain in [Ahrefs’ free Website Authority Checker](https://ahrefs.com/website-authority-checker) before paying for a placement. A high-DR page passes little value if its link is *nofollow*, so within a tier prefer followed listings that fit the product. “Free dofollow” and ranking gains remain unverified source claims; check current listing terms and link attributes before submission.
 
@@ -402,7 +402,7 @@ Highest authority. Many of these are profiles, posts or stories rather than list
 ### Tier 2: DR 70 to 89
 
 <details>
-<summary><strong>44 destinations</strong></summary>
+<summary><strong>45 destinations</strong></summary>
 
 Strong directories, review sites and communities. Usually the best effort-to-value ratio for a new product.
 
@@ -450,6 +450,7 @@ Strong directories, review sites and communities. Usually the best effort-to-val
 - [SaaSworthy](https://www.saasworthy.com/) · *Reviews/deals* - Software discovery, reviews and alternatives platform with vendor listings.
 - [Sidebar](https://sidebar.io/) · *Editorial* - Curated design-link publication and newsletter.
 - [Tekpon](https://tekpon.com/software/) · *Reviews/deals* - Software discovery, reviews, pricing and comparison catalogue.
+- [Brandfetch](https://brandfetch.com/) · *Profile* - Brand-asset platform (logos, colours, fonts) used by designers, developers and tools. Claim your brand page for free: search your domain, claim it, add brand name, description, industry, logo, colours, fonts and links. The author claims a dofollow link and DR 78; link attributes and DR are unverified.
 
 </details>
 
