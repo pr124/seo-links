@@ -330,7 +330,7 @@ The directory bookmarks contribute destinations to the next section.
 
 ## Backlink Opportunities and DR
 
-**179 unique relevant destinations**, ordered by estimated domain rating (DR) from best to lowest priority. Each publisher or product appears once; its submission, homepage and related routes belong to that entry. The label after each link says what kind of destination it is.
+**204 unique relevant destinations**, ordered by estimated domain rating (DR) from best to lowest priority. Each publisher or product appears once; its submission, homepage and related routes belong to that entry. The label after each link says what kind of destination it is.
 
 DR bands are rounded estimates for ordering, not measured values: check a domain in [Ahrefs’ free Website Authority Checker](https://ahrefs.com/website-authority-checker) before paying for a placement. A high-DR page passes little value if its link is *nofollow*, so within a tier prefer followed listings that fit the product. “Free dofollow” and ranking gains remain unverified source claims; check current listing terms and link attributes before submission.
 
@@ -351,7 +351,7 @@ DR bands are rounded estimates for ordering, not measured values: check a domain
 ### Tier 1: DR 90+
 
 <details>
-<summary><strong>33 destinations</strong></summary>
+<summary><strong>40 destinations</strong></summary>
 
 Highest authority. Many of these are profiles, posts or stories rather than listings; links marked *nofollow* help discovery more than DR.
 
@@ -388,13 +388,20 @@ Highest authority. Many of these are profiles, posts or stories rather than list
 - [DevTo](https://dev.to/) · *Community* - DEV Community is a publishing and discussion community for software developers.
 - [Wellfound](https://wellfound.com/) · *Launch* - Startup jobs and talent network where companies publish profiles.
 - [YourStory](https://yourstory.com/companies) · *Editorial* - List an eligible company in YourStory’s company directory; editorial startup coverage is a separate route with the same publisher. Company listing and editorial coverage have separate requirements.
+- [Docker MCP Catalog](https://hub.docker.com/mcp) · *Connector publishing* - Docker Hub catalog of containerized MCP servers; submit through the [docker/mcp-registry](https://github.com/docker/mcp-registry) repository.
+- [Awesome MCP List](https://github.com/MobinX/awesome-mcp-list) · *GitHub list, nofollow* - Community list of MCP servers.
+- [Awesome MCP Servers (mcpHQ)](https://github.com/mcpHQ/awesome-mcp-servers) · *GitHub list, nofollow* - Separate community list of MCP servers.
+- [Awesome Remote MCP Servers](https://github.com/punkpeye/awesome-remote-mcp-servers) · *GitHub list, nofollow* - List of remote MCP servers.
+- [Best of MCP Servers](https://github.com/tolkonepiu/best-of-mcp-servers) · *GitHub list, nofollow* - Ranked list of MCP server projects.
+- [Cline MCP Marketplace](https://github.com/cline/mcp-marketplace) · *GitHub list, nofollow* - Submit an MCP server to Cline's marketplace by issue.
+- [ToolHive Catalog](https://github.com/stacklok/toolhive-catalog) · *GitHub list, nofollow* - Stacklok's curated MCP server catalog.
 
 </details>
 
 ### Tier 2: DR 70 to 89
 
 <details>
-<summary><strong>41 destinations</strong></summary>
+<summary><strong>43 destinations</strong></summary>
 
 Strong directories, review sites and communities. Usually the best effort-to-value ratio for a new product.
 
@@ -439,13 +446,15 @@ Strong directories, review sites and communities. Usually the best effort-to-val
 - [SaaSworthy](https://www.saasworthy.com/) · *Reviews/deals* - Software discovery, reviews and alternatives platform with vendor listings.
 - [Sidebar](https://sidebar.io/) · *Editorial* - Curated design-link publication and newsletter.
 - [Tekpon](https://tekpon.com/software/) · *Reviews/deals* - Software discovery, reviews, pricing and comparison catalogue.
+- [Cursor Marketplace](https://cursor.com/marketplace) · *Connector publishing* - Publish a plugin or MCP server for Cursor users. [Publish](https://cursor.com/marketplace/publish).
+- [Raycast Store](https://www.raycast.com/store) · *Connector publishing* - Extension store for Raycast; publish through the [raycast/extensions](https://github.com/raycast/extensions) repository.
 
 </details>
 
 ### Tier 3: DR 50 to 69
 
 <details>
-<summary><strong>48 destinations</strong></summary>
+<summary><strong>52 destinations</strong></summary>
 
 Mid-authority launch boards, niche directories and MCP indexes. Worth doing where the product fits.
 
@@ -497,13 +506,17 @@ Mid-authority launch boards, niche directories and MCP indexes. Worth doing wher
 - [Startup Fame](https://startupfa.me/) · *Launch* - Startup discovery directory with reviewed startup profiles.
 - [TinyLaunch](https://www.tinylaunch.com/) · *Launch* - Product launch platform with launch rankings, winner badges and product discovery.
 - [Twelve Tools](https://twelve.tools/) · *Launch* - Daily curated directory of tools and startups.
+- [cursor.directory](https://cursor.directory/) · *MCP directory* - Community directory of Cursor rules and MCP servers.
+- [Gemini CLI Extensions](https://geminicli.com/extensions) · *Connector publishing* - Gallery of Gemini CLI extensions. [Release guide](https://geminicli.com/docs/extensions/releasing/).
+- [LobeHub MCP](https://lobehub.com/mcp) · *MCP directory* - MCP server marketplace within LobeHub.
+- [PulseMCP](https://www.pulsemcp.com/) · *MCP directory* - Daily-updated MCP server and client directory.
 
 </details>
 
 ### Tier 4: DR under 50
 
 <details>
-<summary><strong>57 destinations</strong></summary>
+<summary><strong>69 destinations</strong></summary>
 
 Low priority. Submit only when free and relevant; skip paid placements here.
 
@@ -564,6 +577,18 @@ Low priority. Submit only when free and relevant; skip paid placements here.
 - [Micro Founder](https://microfounder.com/) · *Editorial* - Curated solo-founder startup examples, revenue profiles, and founder Q&A.
 - [Noonlaunch](https://noonlaunch.com/) · *Launch* - Product launch boards and startup directory.
 - [RankCert](https://rankcert.com/) · *Launch* - Product launch board with public product listings and domain verification. Basic listing is advertised as free; optional upgrades are paid. Check current badge and link terms.
+- [AgenticSkills](https://agenticskills.io/) · *MCP directory* - Skills and MCP directory with an MCP submission route. [Submit](https://agenticskills.io/submit?type=mcp).
+- [AIBase MCP](https://mcp.aibase.com/) · *MCP directory* - MCP server directory from AIBase.
+- [Claude Market](https://www.claudemarket.ai/) · *MCP directory* - Marketplace and directory for Claude-compatible tools and MCP servers. [Submit](https://www.claudemarket.ai/submit).
+- [Developers Digest MCP Directory](https://mcp.developersdigest.tech/) · *MCP directory* - MCP server directory with a submission page. [Submit](https://mcp.developersdigest.tech/submit).
+- [Goose Extensions](https://block.github.io/goose/extensions/) · *Connector publishing* - Extension directory for Block's Goose agent.
+- [Kilo Marketplace](https://kilo.ai/marketplace) · *Connector publishing* - Marketplace for Kilo Code MCP servers and skills; contribute via [Kilo-Org/kilo-marketplace](https://github.com/Kilo-Org/kilo-marketplace).
+- [Launch MCP](https://launchmcp.co/) · *MCP directory* - Launch and discovery directory for MCP servers. [Submit](https://launchmcp.co/submit).
+- [MCP Atlas](https://mcpatlas.dev/) · *MCP directory* - MCP server directory. [Submit](https://mcpatlas.dev/submit).
+- [MCP Pub](https://mcp.pub/) · *MCP directory* - MCP server directory. [Submit](https://mcp.pub/submit/).
+- [MCP Server Hub](https://mcpserverhub.com/) · *MCP directory* - MCP server directory. [Submit](https://mcpserverhub.com/submit).
+- [MCP Server Space](https://mcpserver.space/) · *MCP directory* - MCP server directory. [Submit](https://mcpserver.space/submit).
+- [MCP Server Spot](https://mcpserverspot.com/) · *MCP directory* - MCP server directory. [Submit](https://mcpserverspot.com/submit).
 
 </details>
 
