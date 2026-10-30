@@ -330,7 +330,7 @@ The directory bookmarks contribute destinations to the next section.
 
 ## Backlink Opportunities and DR
 
-**205 unique relevant destinations**, ordered by estimated domain rating (DR) from best to lowest priority. Each publisher or product appears once; its submission, homepage and related routes belong to that entry. The label after each link says what kind of destination it is.
+**222 unique relevant destinations**, ordered by estimated domain rating (DR) from best to lowest priority. Each publisher or product appears once; its submission, homepage and related routes belong to that entry. The label after each link says what kind of destination it is.
 
 DR bands are rounded estimates for ordering, not measured values: check a domain in [Ahrefs’ free Website Authority Checker](https://ahrefs.com/website-authority-checker) before paying for a placement. A high-DR page passes little value if its link is *nofollow*, so within a tier prefer followed listings that fit the product. “Free dofollow” and ranking gains remain unverified source claims; check current listing terms and link attributes before submission.
 
@@ -351,7 +351,7 @@ DR bands are rounded estimates for ordering, not measured values: check a domain
 ### Tier 1: DR 90+
 
 <details>
-<summary><strong>41 destinations</strong></summary>
+<summary><strong>58 destinations</strong></summary>
 
 Highest authority. Many of these are profiles, posts or stories rather than listings; links marked *nofollow* help discovery more than DR.
 
@@ -396,6 +396,23 @@ Highest authority. Many of these are profiles, posts or stories rather than list
 - [DevTo](https://dev.to/) · *Community* - DEV Community is a publishing and discussion community for software developers.
 - [Wellfound](https://wellfound.com/) · *Launch* - Startup jobs and talent network where companies publish profiles.
 - [YourStory](https://yourstory.com/companies) · *Editorial* - List an eligible company in YourStory’s company directory; editorial startup coverage is a separate route with the same publisher. Company listing and editorial coverage have separate requirements.
+- [LinkedIn](https://www.linkedin.com/) · *Profile* - Company page and articles for a business with a real public presence. Reported to carry nofollow links; useful mainly for discovery and brand searches. Link attribute and DR effect not verified.
+- [Dribbble](https://dribbble.com/) · *Profile* - Designer and studio portfolio profiles for original product visuals and UI work. Link attribute and DR effect not verified.
+- [Behance](https://www.behance.net/) · *Profile* - Adobe's creative portfolio platform for publishing real project case studies. Link attribute and DR effect not verified.
+- [About.me](https://about.me/) · *Profile* - Simple personal or brand landing page that links to your site and profiles. Link attribute and DR effect not verified.
+- [Linktree](https://linktr.ee/) · *Profile* - Link-in-bio page that gathers a brand's site and social links. Link attribute and DR effect not verified.
+- [Notion Template Gallery](https://www.notion.com/help/how-to-submit-a-template) · *Developer* - Submit a public, duplicable Notion page for review; templates must be in a supported language. Whether the listing can carry your site link is not confirmed. Link attribute and DR effect not verified.
+- [Figma Community](https://www.figma.com/community) · *Developer* - Publish templates, plugins and design resources with a creator profile. Listing routes not checked here. Link attribute and DR effect not verified.
+- [Canva Apps](https://www.canva.com/developers/) · *Developer* - Build and submit an app for Canva's apps marketplace. Listing routes not checked here. Link attribute and DR effect not verified.
+- [Airtable Universe](https://www.airtable.com/universe) · *Developer* - Share a template base publicly with a creator profile. Listing routes not checked here. Link attribute and DR effect not verified.
+- [Zapier](https://zapier.com/developer) · *Developer* - Build and publish an integration on Zapier's developer platform so your app appears in its app directory. Link attribute and DR effect not verified.
+- [Slack Marketplace](https://slack.com/marketplace) · *Developer* - Publish a Slack app for the workspaces your users already work in; requires an approved app. Link attribute and DR effect not verified.
+- [Shopify App Store](https://apps.shopify.com/) · *Developer* - List an app for merchants; requires a partner account and app review. Link attribute and DR effect not verified.
+- [HubSpot App Marketplace](https://ecosystem.hubspot.com/marketplace) · *Developer* - List an integration for HubSpot customers; certification and review requirements apply. Link attribute and DR effect not verified.
+- [Atlassian Marketplace](https://marketplace.atlassian.com/) · *Developer* - List an app for Jira, Confluence and other Atlassian products; review applies. Link attribute and DR effect not verified.
+- [npm](https://www.npmjs.com/) · *Developer* - Package registry: a published package page can link your homepage and repository. Only for a real package. Link attribute and DR effect not verified.
+- [PyPI](https://pypi.org/) · *Developer* - Python package index: a project page can link your homepage and docs. Only for a real package. Link attribute and DR effect not verified.
+- [Visual Studio Marketplace](https://marketplace.visualstudio.com/) · *Developer* - Publish a real VS Code extension with a publisher profile and links. Link attribute and DR effect not verified.
 
 </details>
 
