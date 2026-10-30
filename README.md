@@ -330,7 +330,7 @@ The directory bookmarks contribute destinations to the next section.
 
 ## Backlink Opportunities and DR
 
-**204 unique relevant destinations**, ordered by estimated domain rating (DR) from best to lowest priority. Each publisher or product appears once; its submission, homepage and related routes belong to that entry. Each name opens the submission, listing or posting page where one exists (most need a free account), otherwise the homepage. The label after each link says what kind of destination it is.
+**204 unique relevant destinations**, ordered by estimated domain rating (DR) from best to lowest priority. Each publisher or product appears once; its submission, homepage and related routes belong to that entry. The label after each link says what kind of destination it is.
 
 DR bands are rounded estimates for ordering, not measured values: check a domain in [Ahrefs’ free Website Authority Checker](https://ahrefs.com/website-authority-checker) before paying for a placement. A high-DR page passes little value if its link is *nofollow*, so within a tier prefer followed listings that fit the product. “Free dofollow” and ranking gains remain unverified source claims; check current listing terms and link attributes before submission.
 
@@ -355,37 +355,37 @@ DR bands are rounded estimates for ordering, not measured values: check a domain
 
 Highest authority. Many of these are profiles, posts or stories rather than listings; links marked *nofollow* help discovery more than DR.
 
-- [Chrome Web Store](https://chrome.google.com/webstore/devconsole) · *Developer* - Distribution store for actual Chrome extensions, with developer publishing and review workflows.
-- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers/blob/main/CONTRIBUTING.md) · *GitHub list, nofollow* - Propose a useful MCP server through the list's contribution process.
-- [GitHub](https://github.com/new) · *Profile, nofollow* - Code-hosting and collaboration platform for real projects, public repositories and documentation.
-- [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site) · *Profile* - Website and project-documentation hosting directly from GitHub repositories.
-- [Public APIs](https://github.com/public-apis/public-apis/blob/master/CONTRIBUTING.md) · *Agent/API discovery, nofollow* - Community list of public APIs and a separate MCP server section.
+- [Chrome Web Store](https://chromewebstore.google.com/) · *Developer* - Distribution store for actual Chrome extensions, with developer publishing and review workflows.
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) · *GitHub list, nofollow* - Propose a useful MCP server through the list's contribution process.
+- [GitHub](https://github.com/) · *Profile, nofollow* - Code-hosting and collaboration platform for real projects, public repositories and documentation.
+- [GitHub Pages](https://pages.github.com/) · *Profile* - Website and project-documentation hosting directly from GitHub repositories.
+- [Public APIs](https://github.com/public-apis/public-apis) · *Agent/API discovery, nofollow* - Community list of public APIs and a separate MCP server section.
 - [toolsdk mcp registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) · *GitHub list, nofollow* - ToolSDK's structured MCP server registry and gateway project.
-- [Vimeo](https://vimeo.com/upload) · *Profile* - Video hosting, sharing and discovery platform for original product videos and tutorials. Check public visibility and plan requirements for the video.
+- [Vimeo](https://vimeo.com/) · *Profile* - Video hosting, sharing and discovery platform for original product videos and tutorials. Check public visibility and plan requirements for the video.
 - [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) · *GitHub list, nofollow* - Official xAI plugin catalog for Grok Build.
-- [Medium](https://medium.com/new-story) · *Community, nofollow* - General publishing platform for author profiles, articles, and ideas.
-- [Flickr](https://www.flickr.com/photos/upload/) · *Profile* - Photography community and image-sharing platform for real photo collections and creator profiles.
+- [Medium](https://medium.com/) · *Community, nofollow* - General publishing platform for author profiles, articles, and ideas.
+- [Flickr](https://www.flickr.com/) · *Profile* - Photography community and image-sharing platform for real photo collections and creator profiles.
 - [Forbes](https://www.forbes.com/) · *Editorial* - Business media publication; potential fit is a newsworthy story or relevant expert contribution.
-- [Pinterest](https://www.pinterest.com/pin-creation-tool/) · *Profile, nofollow* - Visual discovery platform where Pins can connect useful images and ideas to websites.
-- [Gravatar](https://gravatar.com/profile) · *Profile* - Global profile and avatar service with a public profile page and links.
+- [Pinterest](https://www.pinterest.com/) · *Profile, nofollow* - Visual discovery platform where Pins can connect useful images and ideas to websites.
+- [Gravatar](https://gravatar.com/) · *Profile* - Global profile and avatar service with a public profile page and links.
 - [Quora](https://www.quora.com/) · *Community, nofollow* - Question-and-answer platform for sharing useful knowledge and expertise.
 - [TechCrunch](https://techcrunch.com/contact-us/) · *Editorial* - Technology news outlet for newsworthy startup and product story pitches.
 - [ChatGPT app and plugin publishing](https://developers.openai.com/plugins/deploy/submission) · *Connector publishing* - OpenAI's current app/plugin publishing guide. Public remote-MCP submissions use the With MCP route, with developer identity, connection details, testing and review requirements.
-- [GitLab](https://gitlab.com/projects/new) · *Developer* - Code-hosting and DevOps platform for real projects, public repositories and documentation.
-- [Hugging Face](https://huggingface.co/new-space) · *Developer* - Hub for publishing models, datasets and Spaces with profile and project pages.
-- [Reddit](https://www.reddit.com/submit) · *Community, nofollow* - Topic-based discussion communities where relevant projects and knowledge can be shared.
-- [SourceForge](https://sourceforge.net/create/) · *Developer* - Open-source project hosting and distribution platform with a separate B2B software catalogue.
+- [GitLab](https://gitlab.com/) · *Developer* - Code-hosting and DevOps platform for real projects, public repositories and documentation.
+- [Hugging Face](https://huggingface.co/) · *Developer* - Hub for publishing models, datasets and Spaces with profile and project pages.
+- [Reddit](https://www.reddit.com/) · *Community, nofollow* - Topic-based discussion communities where relevant projects and knowledge can be shared.
+- [SourceForge](https://sourceforge.net/) · *Developer* - Open-source project hosting and distribution platform with a separate B2B software catalogue.
 - [Substack](https://substack.com/) · *Community* - Publishing platform for newsletters, articles, podcasts, video and creator communities.
 - [VentureBeat](https://venturebeat.com/contact-2) · *Editorial* - Enterprise AI news publisher for relevant editorial pitches.
 - [Vercel Connect](https://vercel.com/connect/browse) · *Connector publishing* - Directory for services agents can connect to. Use the dashboard's Submit a Service flow, describe the service, add OAuth or API-key connection methods, test OAuth methods where applicable, and submit for Vercel review. [Submit a service](https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fconnect%2Fsubmit-service).
-- [Crunchbase](https://www.crunchbase.com/add-new) · *Business directory, nofollow* - Company and startup database with claimable organization profiles.
-- [Gumroad](https://gumroad.com/signup) · *Developer* - Creator storefront and marketplace for selling products and sharing a creator business.
-- [Hacker News / Show HN](https://news.ycombinator.com/submit) · *Community, nofollow* - Share a working project through Show HN or contribute relevant technical discussions; follow community rules.
-- [Product Hunt](https://www.producthunt.com/posts/new) · *Launch, nofollow* - Technology product discovery and launch community.
+- [Crunchbase](https://www.crunchbase.com/) · *Business directory, nofollow* - Company and startup database with claimable organization profiles.
+- [Gumroad](https://gumroad.com/) · *Developer* - Creator storefront and marketplace for selling products and sharing a creator business.
+- [Hacker News / Show HN](https://news.ycombinator.com/showhn.html) · *Community, nofollow* - Share a working project through Show HN or contribute relevant technical discussions; follow community rules.
+- [Product Hunt](https://www.producthunt.com/) · *Launch, nofollow* - Technology product discovery and launch community.
 - [Beehiiv](https://www.beehiiv.com/) · *Community* - Newsletter and website publishing platform for a brand's own content and audience.
 - [Brave Search](https://search.brave.com/submit-url) · *Search engine* - Independent search index with a URL submission form: enter your site address and submit. Submitting does not guarantee inclusion or ranking; the form's current wording was not verified (page unreachable when checked).
 - [Claude connector and plugin directory](https://claude.ai/directory) · *Connector publishing* - Publish remote MCP connectors or plugin bundles through the developer portal. Requires a paid Claude plan and an eligible role; Community and Verified indicate different review levels. [Submission portal](https://claude.ai/directory/manage) · [Requirements](https://claude.com/docs/connectors/building/submission). Includes the previously listed [Claude Code plugin marketplace](https://claude.com/marketplace/plugins).
-- [DevTo](https://dev.to/new) · *Community* - DEV Community is a publishing and discussion community for software developers.
+- [DevTo](https://dev.to/) · *Community* - DEV Community is a publishing and discussion community for software developers.
 - [Wellfound](https://wellfound.com/) · *Launch* - Startup jobs and talent network where companies publish profiles.
 - [YourStory](https://yourstory.com/companies) · *Editorial* - List an eligible company in YourStory’s company directory; editorial startup coverage is a separate route with the same publisher. Company listing and editorial coverage have separate requirements.
 - [Docker MCP Catalog](https://hub.docker.com/mcp) · *Connector publishing* - Docker Hub catalog of containerized MCP servers; submit through the [docker/mcp-registry](https://github.com/docker/mcp-registry) repository.
@@ -405,47 +405,47 @@ Highest authority. Many of these are profiles, posts or stories rather than list
 
 Strong directories, review sites and communities. Usually the best effort-to-value ratio for a new product.
 
-- [HackerNoon](https://app.hackernoon.com/new) · *Community* - Technology publication and contributor platform for useful articles and project stories.
+- [HackerNoon](https://hackernoon.com/) · *Community* - Technology publication and contributor platform for useful articles and project stories.
 - [Hashnode](https://hashnode.com/) · *Community* - Blogging platform for developers and engineers to publish technical work.
 - [F6S](https://www.f6s.com/) · *Launch* - Startup and founder network with company profiles, programs and deals.
-- [GetApp](https://www.getapp.com/vendors/) · *Reviews/deals* - Business software reviews and comparison directory with vendor listings.
+- [GetApp](https://www.getapp.com/) · *Reviews/deals* - Business software reviews and comparison directory with vendor listings.
 - [RapidAPI](https://rapidapi.com/) · *Developer* - API marketplace and hub for publishing and discovering APIs.
-- [Software Advice](https://www.softwareadvice.com/vendors/) · *Reviews/deals* - Software reviews and recommendations directory with vendor listings.
+- [Software Advice](https://www.softwareadvice.com/) · *Reviews/deals* - Software reviews and recommendations directory with vendor listings.
 - [Vocal Media](https://vocal.media/) · *Community* - Creator publishing platform and communities for original articles and stories.
-- [TrustRadius](https://www.trustradius.com/vendors) · *Reviews/deals* - B2B software review and comparison platform offering claimed vendor product profiles.
-- [AppSumo](https://sell.appsumo.com/) · *Reviews/deals* - Software-deal marketplace with partner requirements; its blog is a related editorial route, not a second independent listing site.
-- [GoodFirms](https://www.goodfirms.co/get-listed) · *Reviews/deals* - B2B software and service-provider profiles, reviews, and category discovery.
+- [TrustRadius](https://www.trustradius.com/) · *Reviews/deals* - B2B software review and comparison platform offering claimed vendor product profiles.
+- [AppSumo](https://appsumo.com/) · *Reviews/deals* - Software-deal marketplace with partner requirements; its blog is a related editorial route, not a second independent listing site.
+- [GoodFirms](https://www.goodfirms.co/) · *Reviews/deals* - B2B software and service-provider profiles, reviews, and category discovery.
 - [StackShare](https://stackshare.io/) · *Developer* - Developer tool discovery and technology-stack sharing platform. **Limited access:** current submission terms are unconfirmed.
-- [AlternativeTo](https://alternativeto.net/manage-item/) · *Launch* - Crowdsourced software recommendations and alternatives directory.
+- [AlternativeTo](https://alternativeto.net/) · *Launch* - Crowdsourced software recommendations and alternatives directory.
 - [First Round Review](https://review.firstround.com/) · *Editorial* - In-depth startup publication featuring founder and operator expertise, company stories and practical advice.
 - [Indie Hackers](https://www.indiehackers.com/) · *Community* - Founder community with product discovery, startup discussions, and business case studies.
 - [Latka](https://getlatka.com/add) · *Editorial* - SaaS company database and founder interviews, with reviewed company-profile submissions.
-- [Official MCP Registry](https://modelcontextprotocol.io/registry/quickstart) · *MCP directory* - Official catalog for discovering Model Context Protocol servers. To publish a live remote MCP server: install `mcp-publisher`, run `mcp-publisher init` and complete `server.json` (name, title, description, version, server URL), prove domain ownership with a DNS TXT record, then `mcp-publisher login dns` and `mcp-publisher publish`. Claims of no review and automatic syndication to other directories are unverified; check the official publishing guide.
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/) · *MCP directory* - Official catalog for discovering Model Context Protocol servers. To publish a live remote MCP server: install `mcp-publisher`, run `mcp-publisher init` and complete `server.json` (name, title, description, version, server URL), prove domain ownership with a DNS TXT record, then `mcp-publisher login dns` and `mcp-publisher publish`. Claims of no review and automatic syndication to other directories are unverified; check the official publishing guide.
 - [Futurepedia](https://www.futurepedia.io/) · *AI directory* - AI-tool and software discovery platform with categorized product information.
 - [StackSocial](https://www.stacksocial.com/) · *Reviews/deals* - Commerce platform for software subscriptions, tech products and promotional deals. **Limited access:** current submission terms are unconfirmed.
-- [There's an AI for That](https://theresanaiforthat.com/launch/) · *AI directory* - AI application discovery platform organized around finding tools for tasks. **Limited access:** current submission terms are unconfirmed.
-- [BetaList](https://betalist.com/submit) · *Launch* - Early-stage startup discovery platform with a Submit startup route.
+- [There's an AI for That](https://theresanaiforthat.com/) · *AI directory* - AI application discovery platform organized around finding tools for tasks. **Limited access:** current submission terms are unconfirmed.
+- [BetaList](https://betalist.com/) · *Launch* - Early-stage startup discovery platform with a Submit startup route.
 - [Mixergy](https://mixergy.com/) · *Editorial* - Entrepreneur interviews, business podcast episodes, and startup courses.
 - [Privacy Tools](https://privacytools.io/) · *Developer* - Privacy-focused software and service recommendations, alternatives, and app discovery.
 - [Software Suggest](https://www.softwaresuggest.com/vendors) · *Reviews/deals* - Business software and service recommendations platform with a vendor listing route. Provider advertises a free basic listing and requires a business email; paid promotion is separate.
 - [Starter Story](https://www.starterstory.com/share) · *Editorial* - Entrepreneur interview and business case-study publisher.
-- [Brownbook](https://www.brownbook.net/add-business) · *Business directory* - Business directory offering company profiles, listing and claiming.
+- [Brownbook](https://www.brownbook.net/) · *Business directory* - Business directory offering company profiles, listing and claiming.
 - [Failory](https://www.failory.com/) · *Editorial* - Founder-focused publication and newsletter covering startup failures, successes and lessons.
-- [LibHunt](https://www.libhunt.com/repo/submit) · *Developer* - Discovery of open-source projects, software libraries, and alternatives using developer-community mentions. **Limited access:** current submission terms are unconfirmed.
+- [LibHunt](https://www.libhunt.com/) · *Developer* - Discovery of open-source projects, software libraries, and alternatives using developer-community mentions. **Limited access:** current submission terms are unconfirmed.
 - [Niche Pursuits](https://www.nichepursuits.com/) · *Editorial* - Online-business publication with SEO articles, founder success stories, and podcast interviews.
-- [Peerlist](https://peerlist.io/launchpad) · *Developer* - Professional builder network with portfolios and a Launchpad for projects.
-- [SelectHub](https://www.selecthub.com/seller/) · *Reviews/deals* - Software selection and comparison platform with vendor profiles.
+- [Peerlist](https://peerlist.io/) · *Developer* - Professional builder network with portfolios and a Launchpad for projects.
+- [SelectHub](https://www.selecthub.com/) · *Reviews/deals* - Software selection and comparison platform with vendor profiles.
 - [StartupBlink](https://www.startupblink.com/) · *Launch* - Startup ecosystem map with startup and city profiles.
-- [Toolify AI](https://www.toolify.ai/submit) · *AI directory* - AI tools discovery directory with tool submission and promotional options.
+- [Toolify AI](https://www.toolify.ai/) · *AI directory* - AI tools discovery directory with tool submission and promotional options.
 - [SaaSHub](https://www.saashub.com/services/submit) · *Reviews/deals* - Software alternatives and reviews directory with a product submission form.
-- [Alternative Me](https://alternative.me/how-to/submit-software/) · *Reviews/deals* - Software and product alternative-comparison platform with reviews and recommendations.
-- [Future Tools](https://futuretools.io/submit-a-tool) · *AI directory* - Curated AI tools directory with a Submit a Tool route.
+- [Alternative Me](https://alternative.me/) · *Reviews/deals* - Software and product alternative-comparison platform with reviews and recommendations.
+- [Future Tools](https://www.futuretools.io/) · *AI directory* - Curated AI tools directory with a Submit a Tool route.
 - [Startup Stash](https://startupstash.com/) · *Reviews/deals* - Curated directory of tools and resources for startups.
-- [Crozdesk](https://crozdesk.com/claims/new) · *Reviews/deals* - Business software discovery and review marketplace with vendor profiles.
+- [Crozdesk](https://crozdesk.com/) · *Reviews/deals* - Business software discovery and review marketplace with vendor profiles.
 - [Glama](https://glama.ai/mcp/servers) · *MCP directory* - Searchable MCP server registry with server metadata and categories. Registry-published servers may appear automatically; claim the connector page, prove the domain (`/.well-known/glama.json` or DNS TXT), add test credentials if the server needs auth so it isn't marked Unhealthy, and write clear tool descriptions. DR and ranking claims are unverified.
-- [SaaSworthy](https://www.saasworthy.com/vendorsportal/index.php?r=site/login) · *Reviews/deals* - Software discovery, reviews and alternatives platform with vendor listings.
-- [Sidebar](https://sidebar.io/submit) · *Editorial* - Curated design-link publication and newsletter.
-- [Tekpon](https://tekpon.com/get-listed/) · *Reviews/deals* - Software discovery, reviews, pricing and comparison catalogue.
+- [SaaSworthy](https://www.saasworthy.com/) · *Reviews/deals* - Software discovery, reviews and alternatives platform with vendor listings.
+- [Sidebar](https://sidebar.io/) · *Editorial* - Curated design-link publication and newsletter.
+- [Tekpon](https://tekpon.com/software/) · *Reviews/deals* - Software discovery, reviews, pricing and comparison catalogue.
 - [Cursor Marketplace](https://cursor.com/marketplace) · *Connector publishing* - Publish a plugin or MCP server for Cursor users. [Publish](https://cursor.com/marketplace/publish).
 - [Raycast Store](https://www.raycast.com/store) · *Connector publishing* - Extension store for Raycast; publish through the [raycast/extensions](https://github.com/raycast/extensions) repository.
 
@@ -460,52 +460,52 @@ Mid-authority launch boards, niche directories and MCP indexes. Worth doing wher
 
 - [CompareCamp](https://comparecamp.com/) · *Reviews/deals* - Software review and comparison publication.
 - [Index by Dodo Payments](https://index.dodopayments.com/) · *Launch* - Product index from Dodo Payments for listing startups and SaaS products. Current listing terms were not verified (page unreachable when checked).
-- [MCP So](https://mcp.so/submit) · *MCP directory* - MCP server, client and AI tool directory.
+- [MCP So](https://mcp.so/) · *MCP directory* - MCP server, client and AI tool directory.
 - [RocketHub](https://www.rockethub.com/) · *Reviews/deals* - Curated lifetime software deals and startup-perk marketplace.
-- [Smithery](https://smithery.ai/new) · *MCP directory* - Registry and hosting platform for discovering and publishing MCP servers.
-- [TopAI.tools](https://topai.tools/submit) · *AI directory* - AI tools directory with product listings and submissions. Current submission terms were not verified (page unreachable when checked).
-- [Uneed](https://www.uneed.best/submit-a-tool) · *Launch* - Product launch and discovery platform with launch scheduling and product pages.
+- [Smithery](https://smithery.ai/) · *MCP directory* - Registry and hosting platform for discovering and publishing MCP servers.
+- [TopAI.tools](https://topai.tools/) · *AI directory* - AI tools directory with product listings and submissions. Current submission terms were not verified (page unreachable when checked).
+- [Uneed](https://www.uneed.best/) · *Launch* - Product launch and discovery platform with launch scheduling and product pages.
 - [WIP](https://wip.co/join) · *Community* - Maker accountability community for building in public and sharing project progress.
 - [DevHunt](https://devhunt.org/) · *Developer* - Launch and discovery platform focused on developer tools.
-- [Active Search Results](https://www.activesearchresults.com/addwebsite.php) · *Search engine* - Independent search engine with an Add a Website route.
-- [AIxploria](https://www.aixploria.com/en/add-ai/) · *AI directory* - AI-tool directory with categorized discovery, rankings and related editorial resources.
+- [Active Search Results](https://www.activesearchresults.com/) · *Search engine* - Independent search engine with an Add a Website route.
+- [AIxploria](https://www.aixploria.com/en/) · *AI directory* - AI-tool directory with categorized discovery, rankings and related editorial resources.
 - [Dealify](https://dealify.com/) · *Reviews/deals* - Software lifetime-deal marketplace with a Sell on Dealify route.
-- [Fazier](https://fazier.com/submit) · *Launch* - Product discovery and launch platform with a dedicated submission page.
-- [MCP Servers](https://mcpservers.org/submit) · *MCP directory* - Curated collection of Model Context Protocol servers.
-- [OpenAlternative](https://openalternative.co/submit) · *Developer* - Directory of open-source alternatives to proprietary software.
+- [Fazier](https://fazier.com/) · *Launch* - Product discovery and launch platform with a dedicated submission page.
+- [MCP Servers](https://mcpservers.org/) · *MCP directory* - Curated collection of Model Context Protocol servers.
+- [OpenAlternative](https://openalternative.co/) · *Developer* - Directory of open-source alternatives to proprietary software.
 - [PromptZone](https://www.promptzone.com/) · *Community* - AI community for prompts, guides, discussion, and builder projects.
 - [SaaS Club / The SaaS Podcast](https://saasclub.io/) · *Editorial* - Founder interview publisher, newsletter and SaaS community.
 - [Serchen](https://www.serchen.com/get-listed) · *Reviews/deals* - Business software marketplace with company profiles and a listing route.
 - [SideProjectors](https://www.sideprojectors.com/) · *Launch* - Marketplace for showcasing, buying and selling side projects and finding co-founders.
 - [Software World](https://www.softwareworld.co/register/) · *Reviews/deals* - Business software and services review directory with a vendor-account listing route. Provider currently lists a $99 one-time approval fee for new listings; claiming an existing profile is free.
-- [Stacker News](https://stacker.news/post) · *Community* - Community discussion and link-posting platform with Bitcoin-oriented participation economics.
-- [ToolPilot](https://www.toolpilot.ai/pages/submit-your-ai-tool) · *AI directory* - AI tools catalogue with Submit Your AI Tool navigation.
-- [AI Agent Store](https://aiagentstore.ai/submit-agent) · *AI directory* - AI-agent marketplace and discovery directory for agents, tools, frameworks and related products.
-- [API List](https://apilist.fun/new) · *Developer* - Categorized API directory for developers, with an Add API route.
-- [Dang](https://dang.ai/submit) · *AI directory* - AI tools discovery directory with tool-submission navigation.
-- [DealMirror](https://dealmirror.com/product-deal-request/) · *Reviews/deals* - Marketplace for discounted software and lifetime product deals.
+- [Stacker News](https://stacker.news/) · *Community* - Community discussion and link-posting platform with Bitcoin-oriented participation economics.
+- [ToolPilot](https://www.toolpilot.ai/) · *AI directory* - AI tools catalogue with Submit Your AI Tool navigation.
+- [AI Agent Store](https://aiagentstore.ai/) · *AI directory* - AI-agent marketplace and discovery directory for agents, tools, frameworks and related products.
+- [API List](https://apilist.fun/) · *Developer* - Categorized API directory for developers, with an Add API route.
+- [Dang](https://dang.ai/) · *AI directory* - AI tools discovery directory with tool-submission navigation.
+- [DealMirror](https://dealmirror.com/) · *Reviews/deals* - Marketplace for discounted software and lifetime product deals.
 - [FounderPass](https://www.founderpass.com/) · *Reviews/deals* - Startup-perks and discount platform offering negotiated product deals to founders.
-- [llms txt Hub](https://llmstxthub.com/submit) · *Agent/API discovery* - Directory of AI-ready documentation and websites implementing llms.txt.
-- [MCP Market](https://mcpmarket.com/submit) · *MCP directory* - Catalog of MCP servers and agent skills.
+- [llms txt Hub](https://llmstxthub.com/) · *Agent/API discovery* - Directory of AI-ready documentation and websites implementing llms.txt.
+- [MCP Market](https://mcpmarket.com/) · *MCP directory* - Catalog of MCP servers and agent skills.
 - [Microlaunch](https://microlaunch.net/) · *Launch* - Startup launch and discovery platform with monthly product launches.
 - [My First Million](https://www.mfmpod.com/) · *Editorial* - Business-ideas podcast hosted by Shaan Puri and Sam Parr.
-- [Open Tools](https://opentools.ai/friends/launch-tool) · *AI directory* - AI tool directory with product discovery, comparisons, and tool or MCP launch options.
+- [Open Tools](https://opentools.ai/) · *AI directory* - AI tool directory with product discovery, comparisons, and tool or MCP launch options.
 - [StartupBase](https://startupbase.io/) · *Launch* - Product launch and discovery platform with product pages and launch rankings.
 - [TensorBlock MCP](https://www.tensorblock.co/mcp) · *MCP directory* - TensorBlock's community MCP index, backed by its awesome-mcp-servers repository.
-- [That AI Collection](https://thataicollection.com/submit) · *AI directory* - AI applications directory with categorized listings, comparisons and a listing route.
-- [Turbo0](https://turbo0.com/submit) · *Launch* - Directory of tools and products, with an emphasis on content creation.
-- [Viesearch](https://viesearch.com/submit) · *Business directory* - Categorized web directory and human-curated discovery index.
-- [Altern](https://altern.ai/maker/submit/start) · *AI directory* - Discovery platform for AI tools, models, agents and other AI ecosystem products.
+- [That AI Collection](https://thataicollection.com/) · *AI directory* - AI applications directory with categorized listings, comparisons and a listing route.
+- [Turbo0](https://turbo0.com/) · *Launch* - Directory of tools and products, with an emphasis on content creation.
+- [Viesearch](https://viesearch.com/) · *Business directory* - Categorized web directory and human-curated discovery index.
+- [Altern](https://altern.ai/) · *AI directory* - Discovery platform for AI tools, models, agents and other AI ecosystem products.
 - [code.market](https://code.market/) · *Developer* - Curated digital-product catalogue covering software, templates and developer resources.
 - [Dan Recommends](https://www.danrecommends.com/) · *Reviews/deals* - Human-written SaaS product-review service with published review pages.
-- [LinkCentre](https://www.linkcentre.com/addurl/) · *Business directory* - Web directory with website submission and country/category browsing.
-- [MagicBox.tools](https://magicbox.tools/submit) · *AI directory* - AI tools directory with search, categories and Submit navigation.
+- [LinkCentre](https://www.linkcentre.com/) · *Business directory* - Web directory with website submission and country/category browsing.
+- [MagicBox.tools](https://magicbox.tools/) · *AI directory* - AI tools directory with search, categories and Submit navigation.
 - [OSS Gallery](https://oss.gallery/) · *Developer* - Crowdsourced gallery of open-source projects.
-- [PitchWall](https://pitchwall.co/submit) · *Launch* - Discovery platform for AI tools, SaaS products, and technology startups.
+- [PitchWall](https://pitchwall.co/) · *Launch* - Discovery platform for AI tools, SaaS products, and technology startups.
 - [Startup Buffer](https://startupbuffer.com/) · *Launch* - Public startup directory organized by market, location, tags and related products.
-- [Startup Fame](https://startupfa.me/submit) · *Launch* - Startup discovery directory with reviewed startup profiles.
-- [TinyLaunch](https://www.tinylaunch.com/submit) · *Launch* - Product launch platform with launch rankings, winner badges and product discovery.
-- [Twelve Tools](https://twelve.tools/submit) · *Launch* - Daily curated directory of tools and startups.
+- [Startup Fame](https://startupfa.me/) · *Launch* - Startup discovery directory with reviewed startup profiles.
+- [TinyLaunch](https://www.tinylaunch.com/) · *Launch* - Product launch platform with launch rankings, winner badges and product discovery.
+- [Twelve Tools](https://twelve.tools/) · *Launch* - Daily curated directory of tools and startups.
 - [cursor.directory](https://cursor.directory/) · *MCP directory* - Community directory of Cursor rules and MCP servers.
 - [Gemini CLI Extensions](https://geminicli.com/extensions) · *Connector publishing* - Gallery of Gemini CLI extensions. [Release guide](https://geminicli.com/docs/extensions/releasing/).
 - [LobeHub MCP](https://lobehub.com/mcp) · *MCP directory* - MCP server marketplace within LobeHub.
@@ -520,63 +520,63 @@ Mid-authority launch boards, niche directories and MCP indexes. Worth doing wher
 
 Low priority. Submit only when free and relevant; skip paid placements here.
 
-- [Acid Tools](https://acidtools.com/get-started) · *Launch* - AI tools directory focused on automation, writing, design and productivity.
-- [AI Parabellum](https://aiparabellum.com/submit-your-ai-tool/) · *AI directory* - Curated AI-tool directory with a product submission and dedicated tool-review page model.
-- [Aura Plus Plus](https://auraplusplus.com/projects/submit) · *Launch* - Aura++ is a startup and product launch platform with project pages, community votes and scheduled launches.
-- [Findly](https://findly.tools/submit) · *Launch* - Curated SaaS and tools directory for makers.
+- [Acid Tools](https://acidtools.com/) · *Launch* - AI tools directory focused on automation, writing, design and productivity.
+- [AI Parabellum](https://aiparabellum.com/) · *AI directory* - Curated AI-tool directory with a product submission and dedicated tool-review page model.
+- [Aura Plus Plus](https://auraplusplus.com/) · *Launch* - Aura++ is a startup and product launch platform with project pages, community votes and scheduled launches.
+- [Findly](https://findly.tools/) · *Launch* - Curated SaaS and tools directory for makers.
 - [Indie Page](https://indiepa.ge/) · *Profile* - Founder profile pages that showcase startup portfolios and entrepreneurial journeys.
-- [MCP Directory](https://mcp.directory/submit) · *MCP directory* - MCP server and skill directory.
-- [Product Canyon](https://productcanyon.com/become-a-seller/) · *Reviews/deals* - Software marketplace featuring lifetime and subscription deals.
+- [MCP Directory](https://mcp.directory/) · *MCP directory* - MCP server and skill directory.
+- [Product Canyon](https://productcanyon.com/) · *Reviews/deals* - Software marketplace featuring lifetime and subscription deals.
 - [SaaS Genius](https://www.saasgenius.com/get-listed/) · *Reviews/deals* - Business software discovery and review catalogue with a vendor listing route.
 - [Startups FYI](https://www.startups.fyi/) · *Launch* - Curated startup and side-project discovery site paired with a founder newsletter.
 - [TrustMRR](https://trustmrr.com/) · *Launch* - Verified startup revenue database and marketplace for SaaS and digital business acquisitions.
-- [Wavel](https://www.wavel.io/submit) · *AI directory* - AI tools and agents discovery marketplace with an AI tool submission route.
+- [Wavel](https://www.wavel.io/) · *AI directory* - AI tools and agents discovery marketplace with an AI tool submission route.
 - [Affiliate Watch](https://affiliate.watch/) · *Reviews/deals* - Affiliate-program discovery directory with program reviews and comparison information. **Limited access:** current submission terms are unconfirmed.
-- [AI Tool Trek](https://aitooltrek.com/submit) · *AI directory* - AI-tool discovery directory with a dedicated tool-submission workflow.
-- [Appscribed](https://appscribed.com/submit-ai-tool/) · *AI directory* - AI-tool directory combining product listings with hand-written editorial reviews.
+- [AI Tool Trek](https://aitooltrek.com/) · *AI directory* - AI-tool discovery directory with a dedicated tool-submission workflow.
+- [Appscribed](https://appscribed.com/) · *AI directory* - AI-tool directory combining product listings with hand-written editorial reviews.
 - [Bootstrappers](https://bootstrappers.com/) · *Editorial* - Publication featuring bootstrapped-founder interviews and practical startup stories.
-- [BotsFloor](https://botsfloor.com/submit) · *AI directory* - The botsfloor.com destination currently presents BotStash, an AI-tool discovery directory.
+- [BotsFloor](https://botsfloor.com/) · *AI directory* - The botsfloor.com destination currently presents BotStash, an AI-tool discovery directory.
 - [ClawHub](https://clawhub.ai/) · *Agent/API discovery* - OpenClaw skill and plugin registry.
-- [EarlyHunt](https://earlyhunt.com/submit) · *Launch* - Weekly project-launch platform for new AI products and startups.
-- [FeedMyStartup](https://feedmystartup.com/submit/) · *Launch* - Startup and app discovery directory with submission links.
+- [EarlyHunt](https://earlyhunt.com/) · *Launch* - Weekly project-launch platform for new AI products and startups.
+- [FeedMyStartup](https://feedmystartup.com/) · *Launch* - Startup and app discovery directory with submission links.
 - [Founder Reports](https://founderreports.com/) · *Editorial* - Business publication with in-depth founder and CEO interviews, original research and editorial content.
-- [IndieHunt](https://indiehunt.io/submit) · *Launch* - Weekly launch platform for AI products and indie makers.
-- [IndieTool](https://www.indietool.io/submit) · *Launch* - Directory and launchpad for products built by indie founders.
-- [KEN Moo](https://kenmoo.me/contact/) · *Reviews/deals* - SaaS lifetime-deal discovery, discussion, and software coverage.
-- [LaunchIgniter](https://launchigniter.com/submit) · *Launch* - Product launch platform for creators to showcase products and gather early-adopter feedback.
-- [llms txt Site](https://llmstxt.site/submit) · *Agent/API discovery* - Directory of llms.txt file locations and related file statistics.
-- [PeerPush](https://peerpush.com/submit) · *Launch* - Product discovery platform for indie makers, startups, and technology products.
-- [Powerusers](https://powerusers.ai/submit-ai-tool/) · *AI directory* - AI tool directory and resource site with a Submit AI Tool route.
+- [IndieHunt](https://indiehunt.io/) · *Launch* - Weekly launch platform for AI products and indie makers.
+- [IndieTool](https://www.indietool.io/) · *Launch* - Directory and launchpad for products built by indie founders.
+- [KEN Moo](https://kenmoo.me/) · *Reviews/deals* - SaaS lifetime-deal discovery, discussion, and software coverage.
+- [LaunchIgniter](https://launchigniter.com/) · *Launch* - Product launch platform for creators to showcase products and gather early-adopter feedback.
+- [llms txt Site](https://llmstxt.site/) · *Agent/API discovery* - Directory of llms.txt file locations and related file statistics.
+- [PeerPush](https://peerpush.com/) · *Launch* - Product discovery platform for indie makers, startups, and technology products.
+- [Powerusers](https://powerusers.ai/) · *AI directory* - AI tool directory and resource site with a Submit AI Tool route.
 - [Ramen.tools](https://ramen.tools/) · *Reviews/deals* - Maker tool-stack sharing and discovery community.
 - [SaaS Pirate](https://saaspirate.com/submit-a-deal/) · *Reviews/deals* - Curated SaaS and software discounts and lifetime deals.
 - [SaaSZilla](https://saaszilla.co/) · *Reviews/deals* - Curated software deal platform that selects products and teams for listings.
-- [SEOFAI](https://seofai.com/submit-ai-tool/) · *AI directory* - AI tools directory organized by use cases and job roles.
-- [ShowMeBestAI](https://showmebest.ai/submit) · *AI directory* - AI tools discovery directory with an explicit AI tool submission link.
-- [SoPilot](https://sopilot.net/submitdir) · *Launch* - Directory-submission helper listing 200+ product promotion directories, with AI SEO article generation. Directory acceptance, backlink value and article quality are not verified.
-- [Stork](https://www.stork.ai/submit) · *Launch* - Stork's directory of AI tools, agents and MCP-related products.
-- [Tiny Startup](https://www.tinystartups.com/submit) · *Launch* - Curated startup launch and discovery directory for small products and side projects.
-- [ToolFame](https://toolfame.com/submit) · *Launch* - Broad AI, SaaS and online tools directory with a submission link.
+- [SEOFAI](https://seofai.com/) · *AI directory* - AI tools directory organized by use cases and job roles.
+- [ShowMeBestAI](https://showmebest.ai/) · *AI directory* - AI tools discovery directory with an explicit AI tool submission link.
+- [SoPilot](https://sopilot.net/) · *Launch* - Directory-submission helper listing 200+ product promotion directories, with AI SEO article generation. Directory acceptance, backlink value and article quality are not verified.
+- [Stork](https://www.stork.ai/browse) · *Launch* - Stork's directory of AI tools, agents and MCP-related products.
+- [Tiny Startup](https://www.tinystartups.com/) · *Launch* - Curated startup launch and discovery directory for small products and side projects.
+- [ToolFame](https://toolfame.com/) · *Launch* - Broad AI, SaaS and online tools directory with a submission link.
 - [AI Directories](https://www.aidirectori.es/) · *Launch* - AI tool catalog and service for submissions to other directories.
-- [Better Launch](https://www.betterlaunch.co/submit) · *Launch* - Product discovery and launch platform for founders.
-- [Boring Cash Cow](https://boringcashcow.com/products/submit) · *Editorial* - Curated profiles, showcases and interviews about simple profitable online businesses.
-- [Firsto](https://firsto.co/projects/submit) · *Launch* - Product-launch platform for makers, indie hackers and startup founders.
+- [Better Launch](https://www.betterlaunch.co/) · *Launch* - Product discovery and launch platform for founders.
+- [Boring Cash Cow](https://boringcashcow.com/) · *Editorial* - Curated profiles, showcases and interviews about simple profitable online businesses.
+- [Firsto](https://firsto.co/) · *Launch* - Product-launch platform for makers, indie hackers and startup founders.
 - [FoundrList](https://www.foundrlist.com/) · *Launch* - Founder network combining product launches, maker discovery and community features.
-- [Launch Llama](https://tools.launchllama.co/submit) · *Launch* - Curated startup and tool launch directory.
-- [RankYourAI](https://rankyourai.com/p/submit/) · *AI directory* - AI tool directory with a product submission page.
-- [ScrollLaunch](https://www.scrolllaunch.com/products/submitlaunch) · *Launch* - Weekly product launches and startup directory.
-- [Tinyshelf](https://www.tinyshelf.co/submit) · *Launch* - Curated software directory with categories and tags.
-- [Toolfolio](https://toolfolio.com/submit) · *Launch* - Tool discovery directory spanning AI, design, coding and business resources.
-- [WhatLaunched](https://whatlaunched.today/dashboard/submit) · *Launch* - Startup launch and discovery directory. **Limited access:** current submission terms are unconfirmed.
+- [Launch Llama](https://tools.launchllama.co/) · *Launch* - Curated startup and tool launch directory.
+- [RankYourAI](https://rankyourai.com/) · *AI directory* - AI tool directory with a product submission page.
+- [ScrollLaunch](https://www.scrolllaunch.com/) · *Launch* - Weekly product launches and startup directory.
+- [Tinyshelf](https://www.tinyshelf.co/) · *Launch* - Curated software directory with categories and tags.
+- [Toolfolio](https://toolfolio.com/) · *Launch* - Tool discovery directory spanning AI, design, coding and business resources.
+- [WhatLaunched](https://whatlaunched.today/) · *Launch* - Startup launch and discovery directory. **Limited access:** current submission terms are unconfirmed.
 - [AI Indigo](https://aiindigo.com/mcp-servers) · *MCP directory* - MCP server section of AI Indigo's broader AI tools directory.
-- [AllMCPs](https://allmcps.com/submit) · *MCP directory* - Directory for discovering MCP servers and inspecting their connection metadata.
-- [ConfettiSaaS](https://confettisaas.com/submit) · *Launch* - Directory for SaaS startups and founders.
-- [DanielLaunches](https://daniellaunches.com/submit) · *Launch* - Platform for discovering and launching useful products.
+- [AllMCPs](https://allmcps.com/) · *MCP directory* - Directory for discovering MCP servers and inspecting their connection metadata.
+- [ConfettiSaaS](https://confettisaas.com/) · *Launch* - Directory for SaaS startups and founders.
+- [DanielLaunches](https://daniellaunches.com/) · *Launch* - Platform for discovering and launching useful products.
 - [Launch Streak](https://launchstreak.dev/) · *Launch* - Maker product launches and recurring builder activity.
 - [LaunchPanda](https://www.launchpanda.dev/) · *Launch* - Product launch community and directory submission workflow.
-- [MCP Repository](https://mcprepository.com/submit) · *MCP directory* - Searchable repository and category directory for MCP servers.
+- [MCP Repository](https://mcprepository.com/) · *MCP directory* - Searchable repository and category directory for MCP servers.
 - [Micro Founder](https://microfounder.com/) · *Editorial* - Curated solo-founder startup examples, revenue profiles, and founder Q&A.
-- [Noonlaunch](https://noonlaunch.com/submit) · *Launch* - Product launch boards and startup directory.
-- [RankCert](https://rankcert.com/product/submit-your-startup) · *Launch* - Product launch board with public product listings and domain verification. Basic listing is advertised as free; optional upgrades are paid. Check current badge and link terms.
+- [Noonlaunch](https://noonlaunch.com/) · *Launch* - Product launch boards and startup directory.
+- [RankCert](https://rankcert.com/) · *Launch* - Product launch board with public product listings and domain verification. Basic listing is advertised as free; optional upgrades are paid. Check current badge and link terms.
 - [AgenticSkills](https://agenticskills.io/) · *MCP directory* - Skills and MCP directory with an MCP submission route. [Submit](https://agenticskills.io/submit?type=mcp).
 - [AIBase MCP](https://mcp.aibase.com/) · *MCP directory* - MCP server directory from AIBase.
 - [Claude Market](https://www.claudemarket.ai/) · *MCP directory* - Marketplace and directory for Claude-compatible tools and MCP servers. [Submit](https://www.claudemarket.ai/submit).
