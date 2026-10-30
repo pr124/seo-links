@@ -351,15 +351,22 @@ DR bands are rounded estimates for ordering, not measured values: check a domain
 ### Tier 1: DR 90+
 
 <details>
-<summary><strong>40 destinations</strong></summary>
+<summary><strong>41 destinations</strong></summary>
 
 Highest authority. Many of these are profiles, posts or stories rather than listings; links marked *nofollow* help discovery more than DR.
 
 - [Chrome Web Store](https://chromewebstore.google.com/) · *Developer* - Distribution store for actual Chrome extensions, with developer publishing and review workflows.
+- [Awesome MCP List](https://github.com/MobinX/awesome-mcp-list) · *GitHub list, nofollow* - Community list of MCP servers.
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) · *GitHub list, nofollow* - Propose a useful MCP server through the list's contribution process.
+- [Awesome MCP Servers (mcpHQ)](https://github.com/mcpHQ/awesome-mcp-servers) · *GitHub list, nofollow* - Separate community list of MCP servers.
+- [Awesome Remote MCP Servers](https://github.com/punkpeye/awesome-remote-mcp-servers) · *GitHub list, nofollow* - List of remote MCP servers.
+- [Best of MCP Servers](https://github.com/tolkonepiu/best-of-mcp-servers) · *GitHub list, nofollow* - Ranked list of MCP server projects.
+- [Cline MCP Marketplace](https://github.com/cline/mcp-marketplace) · *GitHub list, nofollow* - Submit an MCP server to Cline's marketplace by issue.
 - [GitHub](https://github.com/) · *Profile, nofollow* - Code-hosting and collaboration platform for real projects, public repositories and documentation.
 - [GitHub Pages](https://pages.github.com/) · *Profile* - Website and project-documentation hosting directly from GitHub repositories.
+- [Goose Extensions](https://block.github.io/goose/extensions/) · *Connector publishing* - Extension directory for Block's Goose agent.
 - [Public APIs](https://github.com/public-apis/public-apis) · *Agent/API discovery, nofollow* - Community list of public APIs and a separate MCP server section.
+- [ToolHive Catalog](https://github.com/stacklok/toolhive-catalog) · *GitHub list, nofollow* - Stacklok's curated MCP server catalog.
 - [toolsdk mcp registry](https://github.com/toolsdk-ai/toolsdk-mcp-registry) · *GitHub list, nofollow* - ToolSDK's structured MCP server registry and gateway project.
 - [Vimeo](https://vimeo.com/) · *Profile* - Video hosting, sharing and discovery platform for original product videos and tutorials. Check public visibility and plan requirements for the video.
 - [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace) · *GitHub list, nofollow* - Official xAI plugin catalog for Grok Build.
@@ -379,6 +386,7 @@ Highest authority. Many of these are profiles, posts or stories rather than list
 - [VentureBeat](https://venturebeat.com/contact-2) · *Editorial* - Enterprise AI news publisher for relevant editorial pitches.
 - [Vercel Connect](https://vercel.com/connect/browse) · *Connector publishing* - Directory for services agents can connect to. Use the dashboard's Submit a Service flow, describe the service, add OAuth or API-key connection methods, test OAuth methods where applicable, and submit for Vercel review. [Submit a service](https://vercel.com/d?to=%2F%5Bteam%5D%2F~%2Fconnect%2Fsubmit-service).
 - [Crunchbase](https://www.crunchbase.com/) · *Business directory, nofollow* - Company and startup database with claimable organization profiles.
+- [Docker MCP Catalog](https://hub.docker.com/mcp) · *Connector publishing* - Docker Hub catalog of containerized MCP servers; submit through the [docker/mcp-registry](https://github.com/docker/mcp-registry) repository.
 - [Gumroad](https://gumroad.com/) · *Developer* - Creator storefront and marketplace for selling products and sharing a creator business.
 - [Hacker News / Show HN](https://news.ycombinator.com/showhn.html) · *Community, nofollow* - Share a working project through Show HN or contribute relevant technical discussions; follow community rules.
 - [Product Hunt](https://www.producthunt.com/) · *Launch, nofollow* - Technology product discovery and launch community.
@@ -388,20 +396,13 @@ Highest authority. Many of these are profiles, posts or stories rather than list
 - [DevTo](https://dev.to/) · *Community* - DEV Community is a publishing and discussion community for software developers.
 - [Wellfound](https://wellfound.com/) · *Launch* - Startup jobs and talent network where companies publish profiles.
 - [YourStory](https://yourstory.com/companies) · *Editorial* - List an eligible company in YourStory’s company directory; editorial startup coverage is a separate route with the same publisher. Company listing and editorial coverage have separate requirements.
-- [Docker MCP Catalog](https://hub.docker.com/mcp) · *Connector publishing* - Docker Hub catalog of containerized MCP servers; submit through the [docker/mcp-registry](https://github.com/docker/mcp-registry) repository.
-- [Awesome MCP List](https://github.com/MobinX/awesome-mcp-list) · *GitHub list, nofollow* - Community list of MCP servers.
-- [Awesome MCP Servers (mcpHQ)](https://github.com/mcpHQ/awesome-mcp-servers) · *GitHub list, nofollow* - Separate community list of MCP servers.
-- [Awesome Remote MCP Servers](https://github.com/punkpeye/awesome-remote-mcp-servers) · *GitHub list, nofollow* - List of remote MCP servers.
-- [Best of MCP Servers](https://github.com/tolkonepiu/best-of-mcp-servers) · *GitHub list, nofollow* - Ranked list of MCP server projects.
-- [Cline MCP Marketplace](https://github.com/cline/mcp-marketplace) · *GitHub list, nofollow* - Submit an MCP server to Cline's marketplace by issue.
-- [ToolHive Catalog](https://github.com/stacklok/toolhive-catalog) · *GitHub list, nofollow* - Stacklok's curated MCP server catalog.
 
 </details>
 
 ### Tier 2: DR 70 to 89
 
 <details>
-<summary><strong>43 destinations</strong></summary>
+<summary><strong>44 destinations</strong></summary>
 
 Strong directories, review sites and communities. Usually the best effort-to-value ratio for a new product.
 
@@ -414,6 +415,7 @@ Strong directories, review sites and communities. Usually the best effort-to-val
 - [Vocal Media](https://vocal.media/) · *Community* - Creator publishing platform and communities for original articles and stories.
 - [TrustRadius](https://www.trustradius.com/) · *Reviews/deals* - B2B software review and comparison platform offering claimed vendor product profiles.
 - [AppSumo](https://appsumo.com/) · *Reviews/deals* - Software-deal marketplace with partner requirements; its blog is a related editorial route, not a second independent listing site.
+- [Cursor Marketplace](https://cursor.com/marketplace) · *Connector publishing* - Publish a plugin or MCP server for Cursor users. [Publish](https://cursor.com/marketplace/publish).
 - [GoodFirms](https://www.goodfirms.co/) · *Reviews/deals* - B2B software and service-provider profiles, reviews, and category discovery.
 - [StackShare](https://stackshare.io/) · *Developer* - Developer tool discovery and technology-stack sharing platform. **Limited access:** current submission terms are unconfirmed.
 - [AlternativeTo](https://alternativeto.net/) · *Launch* - Crowdsourced software recommendations and alternatives directory.
@@ -422,6 +424,7 @@ Strong directories, review sites and communities. Usually the best effort-to-val
 - [Latka](https://getlatka.com/add) · *Editorial* - SaaS company database and founder interviews, with reviewed company-profile submissions.
 - [Official MCP Registry](https://registry.modelcontextprotocol.io/) · *MCP directory* - Official catalog for discovering Model Context Protocol servers. To publish a live remote MCP server: install `mcp-publisher`, run `mcp-publisher init` and complete `server.json` (name, title, description, version, server URL), prove domain ownership with a DNS TXT record, then `mcp-publisher login dns` and `mcp-publisher publish`. Claims of no review and automatic syndication to other directories are unverified; check the official publishing guide.
 - [Futurepedia](https://www.futurepedia.io/) · *AI directory* - AI-tool and software discovery platform with categorized product information.
+- [Raycast Store](https://www.raycast.com/store) · *Connector publishing* - Extension store for Raycast; publish through the [raycast/extensions](https://github.com/raycast/extensions) repository.
 - [StackSocial](https://www.stacksocial.com/) · *Reviews/deals* - Commerce platform for software subscriptions, tech products and promotional deals. **Limited access:** current submission terms are unconfirmed.
 - [There's an AI for That](https://theresanaiforthat.com/) · *AI directory* - AI application discovery platform organized around finding tools for tasks. **Limited access:** current submission terms are unconfirmed.
 - [BetaList](https://betalist.com/) · *Launch* - Early-stage startup discovery platform with a Submit startup route.
@@ -443,22 +446,23 @@ Strong directories, review sites and communities. Usually the best effort-to-val
 - [Startup Stash](https://startupstash.com/) · *Reviews/deals* - Curated directory of tools and resources for startups.
 - [Crozdesk](https://crozdesk.com/) · *Reviews/deals* - Business software discovery and review marketplace with vendor profiles.
 - [Glama](https://glama.ai/mcp/servers) · *MCP directory* - Searchable MCP server registry with server metadata and categories. Registry-published servers may appear automatically; claim the connector page, prove the domain (`/.well-known/glama.json` or DNS TXT), add test credentials if the server needs auth so it isn't marked Unhealthy, and write clear tool descriptions. DR and ranking claims are unverified.
+- [LobeHub MCP](https://lobehub.com/mcp) · *MCP directory* - MCP server marketplace within LobeHub.
 - [SaaSworthy](https://www.saasworthy.com/) · *Reviews/deals* - Software discovery, reviews and alternatives platform with vendor listings.
 - [Sidebar](https://sidebar.io/) · *Editorial* - Curated design-link publication and newsletter.
 - [Tekpon](https://tekpon.com/software/) · *Reviews/deals* - Software discovery, reviews, pricing and comparison catalogue.
-- [Cursor Marketplace](https://cursor.com/marketplace) · *Connector publishing* - Publish a plugin or MCP server for Cursor users. [Publish](https://cursor.com/marketplace/publish).
-- [Raycast Store](https://www.raycast.com/store) · *Connector publishing* - Extension store for Raycast; publish through the [raycast/extensions](https://github.com/raycast/extensions) repository.
 
 </details>
 
 ### Tier 3: DR 50 to 69
 
 <details>
-<summary><strong>52 destinations</strong></summary>
+<summary><strong>53 destinations</strong></summary>
 
 Mid-authority launch boards, niche directories and MCP indexes. Worth doing where the product fits.
 
+- [AIBase MCP](https://mcp.aibase.com/) · *MCP directory* - MCP server directory from AIBase.
 - [CompareCamp](https://comparecamp.com/) · *Reviews/deals* - Software review and comparison publication.
+- [cursor.directory](https://cursor.directory/) · *MCP directory* - Community directory of Cursor rules and MCP servers.
 - [Index by Dodo Payments](https://index.dodopayments.com/) · *Launch* - Product index from Dodo Payments for listing startups and SaaS products. Current listing terms were not verified (page unreachable when checked).
 - [MCP So](https://mcp.so/) · *MCP directory* - MCP server, client and AI tool directory.
 - [RocketHub](https://www.rockethub.com/) · *Reviews/deals* - Curated lifetime software deals and startup-perk marketplace.
@@ -474,6 +478,7 @@ Mid-authority launch boards, niche directories and MCP indexes. Worth doing wher
 - [MCP Servers](https://mcpservers.org/) · *MCP directory* - Curated collection of Model Context Protocol servers.
 - [OpenAlternative](https://openalternative.co/) · *Developer* - Directory of open-source alternatives to proprietary software.
 - [PromptZone](https://www.promptzone.com/) · *Community* - AI community for prompts, guides, discussion, and builder projects.
+- [PulseMCP](https://www.pulsemcp.com/) · *MCP directory* - Daily-updated MCP server and client directory.
 - [SaaS Club / The SaaS Podcast](https://saasclub.io/) · *Editorial* - Founder interview publisher, newsletter and SaaS community.
 - [Serchen](https://www.serchen.com/get-listed) · *Reviews/deals* - Business software marketplace with company profiles and a listing route.
 - [SideProjectors](https://www.sideprojectors.com/) · *Launch* - Marketplace for showcasing, buying and selling side projects and finding co-founders.
@@ -485,6 +490,8 @@ Mid-authority launch boards, niche directories and MCP indexes. Worth doing wher
 - [Dang](https://dang.ai/) · *AI directory* - AI tools discovery directory with tool-submission navigation.
 - [DealMirror](https://dealmirror.com/) · *Reviews/deals* - Marketplace for discounted software and lifetime product deals.
 - [FounderPass](https://www.founderpass.com/) · *Reviews/deals* - Startup-perks and discount platform offering negotiated product deals to founders.
+- [Gemini CLI Extensions](https://geminicli.com/extensions) · *Connector publishing* - Gallery of Gemini CLI extensions. [Release guide](https://geminicli.com/docs/extensions/releasing/).
+- [Kilo Marketplace](https://kilo.ai/marketplace) · *Connector publishing* - Marketplace for Kilo Code MCP servers and skills; contribute via [Kilo-Org/kilo-marketplace](https://github.com/Kilo-Org/kilo-marketplace).
 - [llms txt Hub](https://llmstxthub.com/) · *Agent/API discovery* - Directory of AI-ready documentation and websites implementing llms.txt.
 - [MCP Market](https://mcpmarket.com/) · *MCP directory* - Catalog of MCP servers and agent skills.
 - [Microlaunch](https://microlaunch.net/) · *Launch* - Startup launch and discovery platform with monthly product launches.
@@ -506,17 +513,13 @@ Mid-authority launch boards, niche directories and MCP indexes. Worth doing wher
 - [Startup Fame](https://startupfa.me/) · *Launch* - Startup discovery directory with reviewed startup profiles.
 - [TinyLaunch](https://www.tinylaunch.com/) · *Launch* - Product launch platform with launch rankings, winner badges and product discovery.
 - [Twelve Tools](https://twelve.tools/) · *Launch* - Daily curated directory of tools and startups.
-- [cursor.directory](https://cursor.directory/) · *MCP directory* - Community directory of Cursor rules and MCP servers.
-- [Gemini CLI Extensions](https://geminicli.com/extensions) · *Connector publishing* - Gallery of Gemini CLI extensions. [Release guide](https://geminicli.com/docs/extensions/releasing/).
-- [LobeHub MCP](https://lobehub.com/mcp) · *MCP directory* - MCP server marketplace within LobeHub.
-- [PulseMCP](https://www.pulsemcp.com/) · *MCP directory* - Daily-updated MCP server and client directory.
 
 </details>
 
 ### Tier 4: DR under 50
 
 <details>
-<summary><strong>69 destinations</strong></summary>
+<summary><strong>66 destinations</strong></summary>
 
 Low priority. Submit only when free and relevant; skip paid placements here.
 
@@ -537,6 +540,7 @@ Low priority. Submit only when free and relevant; skip paid placements here.
 - [Bootstrappers](https://bootstrappers.com/) · *Editorial* - Publication featuring bootstrapped-founder interviews and practical startup stories.
 - [BotsFloor](https://botsfloor.com/) · *AI directory* - The botsfloor.com destination currently presents BotStash, an AI-tool discovery directory.
 - [ClawHub](https://clawhub.ai/) · *Agent/API discovery* - OpenClaw skill and plugin registry.
+- [Developers Digest MCP Directory](https://mcp.developersdigest.tech/) · *MCP directory* - MCP server directory with a submission page. [Submit](https://mcp.developersdigest.tech/submit).
 - [EarlyHunt](https://earlyhunt.com/) · *Launch* - Weekly project-launch platform for new AI products and startups.
 - [FeedMyStartup](https://feedmystartup.com/) · *Launch* - Startup and app discovery directory with submission links.
 - [Founder Reports](https://founderreports.com/) · *Editorial* - Business publication with in-depth founder and CEO interviews, original research and editorial content.
@@ -562,33 +566,29 @@ Low priority. Submit only when free and relevant; skip paid placements here.
 - [Firsto](https://firsto.co/) · *Launch* - Product-launch platform for makers, indie hackers and startup founders.
 - [FoundrList](https://www.foundrlist.com/) · *Launch* - Founder network combining product launches, maker discovery and community features.
 - [Launch Llama](https://tools.launchllama.co/) · *Launch* - Curated startup and tool launch directory.
+- [MCP Server Hub](https://mcpserverhub.com/) · *MCP directory* - MCP server directory. [Submit](https://mcpserverhub.com/submit).
 - [RankYourAI](https://rankyourai.com/) · *AI directory* - AI tool directory with a product submission page.
 - [ScrollLaunch](https://www.scrolllaunch.com/) · *Launch* - Weekly product launches and startup directory.
 - [Tinyshelf](https://www.tinyshelf.co/) · *Launch* - Curated software directory with categories and tags.
 - [Toolfolio](https://toolfolio.com/) · *Launch* - Tool discovery directory spanning AI, design, coding and business resources.
 - [WhatLaunched](https://whatlaunched.today/) · *Launch* - Startup launch and discovery directory. **Limited access:** current submission terms are unconfirmed.
+- [AgenticSkills](https://agenticskills.io/) · *MCP directory* - Skills and MCP directory with an MCP submission route. [Submit](https://agenticskills.io/submit?type=mcp).
 - [AI Indigo](https://aiindigo.com/mcp-servers) · *MCP directory* - MCP server section of AI Indigo's broader AI tools directory.
 - [AllMCPs](https://allmcps.com/) · *MCP directory* - Directory for discovering MCP servers and inspecting their connection metadata.
+- [Claude Market](https://www.claudemarket.ai/) · *MCP directory* - Marketplace and directory for Claude-compatible tools and MCP servers. [Submit](https://www.claudemarket.ai/submit).
 - [ConfettiSaaS](https://confettisaas.com/) · *Launch* - Directory for SaaS startups and founders.
 - [DanielLaunches](https://daniellaunches.com/) · *Launch* - Platform for discovering and launching useful products.
+- [Launch MCP](https://launchmcp.co/) · *MCP directory* - Launch and discovery directory for MCP servers. [Submit](https://launchmcp.co/submit).
 - [Launch Streak](https://launchstreak.dev/) · *Launch* - Maker product launches and recurring builder activity.
 - [LaunchPanda](https://www.launchpanda.dev/) · *Launch* - Product launch community and directory submission workflow.
+- [MCP Pub](https://mcp.pub/) · *MCP directory* - MCP server directory. [Submit](https://mcp.pub/submit/).
 - [MCP Repository](https://mcprepository.com/) · *MCP directory* - Searchable repository and category directory for MCP servers.
+- [MCP Server Spot](https://mcpserverspot.com/) · *MCP directory* - MCP server directory. [Submit](https://mcpserverspot.com/submit).
 - [Micro Founder](https://microfounder.com/) · *Editorial* - Curated solo-founder startup examples, revenue profiles, and founder Q&A.
 - [Noonlaunch](https://noonlaunch.com/) · *Launch* - Product launch boards and startup directory.
 - [RankCert](https://rankcert.com/) · *Launch* - Product launch board with public product listings and domain verification. Basic listing is advertised as free; optional upgrades are paid. Check current badge and link terms.
-- [AgenticSkills](https://agenticskills.io/) · *MCP directory* - Skills and MCP directory with an MCP submission route. [Submit](https://agenticskills.io/submit?type=mcp).
-- [AIBase MCP](https://mcp.aibase.com/) · *MCP directory* - MCP server directory from AIBase.
-- [Claude Market](https://www.claudemarket.ai/) · *MCP directory* - Marketplace and directory for Claude-compatible tools and MCP servers. [Submit](https://www.claudemarket.ai/submit).
-- [Developers Digest MCP Directory](https://mcp.developersdigest.tech/) · *MCP directory* - MCP server directory with a submission page. [Submit](https://mcp.developersdigest.tech/submit).
-- [Goose Extensions](https://block.github.io/goose/extensions/) · *Connector publishing* - Extension directory for Block's Goose agent.
-- [Kilo Marketplace](https://kilo.ai/marketplace) · *Connector publishing* - Marketplace for Kilo Code MCP servers and skills; contribute via [Kilo-Org/kilo-marketplace](https://github.com/Kilo-Org/kilo-marketplace).
-- [Launch MCP](https://launchmcp.co/) · *MCP directory* - Launch and discovery directory for MCP servers. [Submit](https://launchmcp.co/submit).
 - [MCP Atlas](https://mcpatlas.dev/) · *MCP directory* - MCP server directory. [Submit](https://mcpatlas.dev/submit).
-- [MCP Pub](https://mcp.pub/) · *MCP directory* - MCP server directory. [Submit](https://mcp.pub/submit/).
-- [MCP Server Hub](https://mcpserverhub.com/) · *MCP directory* - MCP server directory. [Submit](https://mcpserverhub.com/submit).
 - [MCP Server Space](https://mcpserver.space/) · *MCP directory* - MCP server directory. [Submit](https://mcpserver.space/submit).
-- [MCP Server Spot](https://mcpserverspot.com/) · *MCP directory* - MCP server directory. [Submit](https://mcpserverspot.com/submit).
 
 </details>
 
