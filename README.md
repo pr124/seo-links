@@ -330,7 +330,7 @@ The directory bookmarks contribute destinations to the next section.
 
 ## Backlink Opportunities and DR
 
-**222 unique relevant destinations**, ordered by estimated domain rating (DR) from best to lowest priority. Each publisher or product appears once; its submission, homepage and related routes belong to that entry. The label after each link says what kind of destination it is.
+**223 unique relevant destinations**, ordered by estimated domain rating (DR) from best to lowest priority. Each publisher or product appears once; its submission, homepage and related routes belong to that entry. The label after each link says what kind of destination it is.
 
 DR bands are rounded estimates for ordering, not measured values: check a domain in [Ahrefs’ free Website Authority Checker](https://ahrefs.com/website-authority-checker) before paying for a placement. A high-DR page passes little value if its link is *nofollow*, so within a tier prefer followed listings that fit the product. “Free dofollow” and ranking gains remain unverified source claims; check current listing terms and link attributes before submission.
 
@@ -351,7 +351,7 @@ DR bands are rounded estimates for ordering, not measured values: check a domain
 ### Tier 1: DR 90+
 
 <details>
-<summary><strong>58 destinations</strong></summary>
+<summary><strong>59 destinations</strong></summary>
 
 Highest authority. Many of these are profiles, posts or stories rather than listings; links marked *nofollow* help discovery more than DR.
 
@@ -392,6 +392,7 @@ Highest authority. Many of these are profiles, posts or stories rather than list
 - [Product Hunt](https://www.producthunt.com/) · *Launch, nofollow* - Technology product discovery and launch community.
 - [Beehiiv](https://www.beehiiv.com/) · *Community* - Newsletter and website publishing platform for a brand's own content and audience.
 - [Brave Search](https://search.brave.com/submit-url) · *Search engine* - Independent search index with a URL submission form: enter your site address and submit. Submitting does not guarantee inclusion or ranking; the form's current wording was not verified (page unreachable when checked).
+- [Google Connected Apps](https://developers.google.com/connected-apps) · *Connector publishing* - Google's program for bringing third-party apps into the Gemini app and Search. Integrate through a remote MCP server (with OAuth 2.1) or Android AppFunctions; onboarding is via the Google Connected Console. Currently a preview you apply for; eligibility, review steps and launch dates are not published. Claims about user reach, AI Mode and organic surfacing come from a social post and are unverified. Link attribute and DR effect not verified.
 - [Claude connector and plugin directory](https://claude.ai/directory) · *Connector publishing* - Publish remote MCP connectors or plugin bundles through the developer portal. Requires a paid Claude plan and an eligible role; Community and Verified indicate different review levels. [Submission portal](https://claude.ai/directory/manage) · [Requirements](https://claude.com/docs/connectors/building/submission). Includes the previously listed [Claude Code plugin marketplace](https://claude.com/marketplace/plugins).
 - [DevTo](https://dev.to/) · *Community* - DEV Community is a publishing and discussion community for software developers.
 - [Wellfound](https://wellfound.com/) · *Launch* - Startup jobs and talent network where companies publish profiles.
