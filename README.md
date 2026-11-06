@@ -91,13 +91,18 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 </details>
 
 <details>
-<summary><strong>Reusable SEO Skills</strong> - 5 collections</summary>
+<summary><strong>Reusable SEO Skills</strong> - 10 collections</summary>
 
 - [OpenSEO Agent Skills](https://openseo.so/docs/skills/setup) - Workflows for keyword research and clustering, competitor analysis, local SEO, link prospecting and audits. Requires a working OpenSEO MCP connection; [skill source files](https://github.com/every-app/open-seo/tree/main/plugins/openseo/skills). The keyword-research skill was inspected directly.
 - [Jev SEO skill workflow](https://github.com/AgriciDaniel/jev-seo/blob/main/SKILL.md) - Workflow for running the audit, checking surprising findings and producing reports. Uses the Jev SEO repo above and its API/dependency setup. Review model-generated judgments before acting on them.
 
 - [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - SEO and analytics workflows for audits, keyword research, sitemaps, local SEO and content. Former NotFair and toprank links resolve to this one repo. Live account workflows need its OAuth-connected MCP and authorized provider access; live workflows not runtime-tested.
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - MIT-licensed collection of agent skills for marketing work across Claude Code, Codex, Cursor and other Agent Skills-compatible tools. SEO-relevant skills include seo-audit, ai-seo, programmatic-seo, schema, site-architecture, content-strategy, link-building and directory-submissions; the rest cover CRO, copy, ads, analytics and growth. Review before use: the README lists paid partner integrations (disclosed as sponsors) and says they do not influence the core skills. Documentation read; not installed or runtime-tested.
+- [Claude SEO](https://github.com/AgriciDaniel/claude-seo) - MIT-licensed Claude Code plugin with 26 skills and 19 agents: full-site audit, technical SEO, schema, sitemap, programmatic SEO, hreflang, GEO and AI-search readiness, backlinks, local, and optional DataForSEO and Google API data. Installed as a Claude Code plugin; not yet run against a live site
+- [Agentic SEO](https://github.com/T4wroot/agentic-seo) - MIT-licensed multi-IDE skill with 16 sub-skills, 10 agents and about 89 Python scripts. `audit_runner.py` writes JSON, HTML, a full-audit report and an action plan. Downloaded, not runtime-tested: the first Windows run crashed on a console emoji encoding error (set `PYTHONUTF8=1`)
+- [Claude Skills (alirezarezvani)](https://github.com/alirezarezvani/claude-skills) - MIT-licensed library of 400+ agent skills across engineering, product, marketing and compliance; the marketing pod is the SEO-relevant part. Downloaded, not runtime-tested
+- [Claude Marketing](https://github.com/thatrebeccarae/claude-marketing) - MIT-licensed set of 56 Claude Code skills, agents and workflows for paid media, e-commerce, content and reporting. Mostly marketing rather than SEO. Downloaded, not runtime-tested
+- [Claude Code SEO skills (VibeWithClaude)](https://github.com/VibeWithClaude/Claude-Code-SEO-skills) - MIT-licensed SEO skill for Claude Code covering technical SEO, E-E-A-T, schema, images and sitemaps. Appears to be an older copy of Claude SEO, so prefer the original. Downloaded, not runtime-tested
 - [SEOmator Audit Skill](https://github.com/seo-skills/seo-audit-skill) - Open-source SEO audit CLI and Claude Code skill covering technical SEO, Core Web Vitals, structured data, accessibility, security headers, content quality and AI/GEO readiness, with console, JSON, HTML, Markdown and LLM-oriented reports. MIT; needs Node.js 20.3+ and a local Chrome/Chromium for Core Web Vitals. The README and About text give different rule counts, and scores are heuristics. Documentation read; not runtime-tested.
 
 
