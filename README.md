@@ -91,12 +91,13 @@ A single index of the reviewed SEO websites, tools, MCP integrations, reusable s
 </details>
 
 <details>
-<summary><strong>Reusable SEO Skills</strong> - 4 collections</summary>
+<summary><strong>Reusable SEO Skills</strong> - 5 collections</summary>
 
 - [OpenSEO Agent Skills](https://openseo.so/docs/skills/setup) - Workflows for keyword research and clustering, competitor analysis, local SEO, link prospecting and audits. Requires a working OpenSEO MCP connection; [skill source files](https://github.com/every-app/open-seo/tree/main/plugins/openseo/skills). The keyword-research skill was inspected directly.
 - [Jev SEO skill workflow](https://github.com/AgriciDaniel/jev-seo/blob/main/SKILL.md) - Workflow for running the audit, checking surprising findings and producing reports. Uses the Jev SEO repo above and its API/dependency setup. Review model-generated judgments before acting on them.
 
 - [NotFair Plugin](https://github.com/nowork-studio/notfair-plugin) - SEO and analytics workflows for audits, keyword research, sitemaps, local SEO and content. Former NotFair and toprank links resolve to this one repo. Live account workflows need its OAuth-connected MCP and authorized provider access; live workflows not runtime-tested.
+- [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - MIT-licensed collection of agent skills for marketing work across Claude Code, Codex, Cursor and other Agent Skills-compatible tools. SEO-relevant skills include seo-audit, ai-seo, programmatic-seo, schema, site-architecture, content-strategy, link-building and directory-submissions; the rest cover CRO, copy, ads, analytics and growth. Review before use: the README lists paid partner integrations (disclosed as sponsors) and says they do not influence the core skills. Documentation read; not installed or runtime-tested.
 - [SEOmator Audit Skill](https://github.com/seo-skills/seo-audit-skill) - Open-source SEO audit CLI and Claude Code skill covering technical SEO, Core Web Vitals, structured data, accessibility, security headers, content quality and AI/GEO readiness, with console, JSON, HTML, Markdown and LLM-oriented reports. MIT; needs Node.js 20.3+ and a local Chrome/Chromium for Core Web Vitals. The README and About text give different rule counts, and scores are heuristics. Documentation read; not runtime-tested.
 
 
